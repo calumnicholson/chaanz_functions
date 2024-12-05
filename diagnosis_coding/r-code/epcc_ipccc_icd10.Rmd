@@ -1,0 +1,280 @@
+---
+title: "EPCC - IPCCC - ICD10 Coding"
+author: "Calum Nicholson"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+
+output:
+  html_document:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, fig.pos = "H")
+options(qwraps2_markup = "markdown")
+
+
+library(tidyverse)
+library(here)
+library(janitor)
+library(pdftools)
+
+# load the function to load the diagnosis reference table
+source(here("coding_tables","drt_select.R"))
+# load the function to load the complexity algorithm
+source(here("chd_complexity_score", "esc_complexity.R"))
+# load the function to load the complexity algorithm V2
+source(here("CHD-Procedure-Complexity-main", "complexity_procedure.R"))
+# Load the function to run CHAANZ Eligibility
+source(here("chaanz_eligibility", "calc_eligibility.R"))
+```
+
+``` {r}
+# chaanz drt
+drt <- drt.select_V3(drt_path = here("data", "drt/"))
+rch.drt <- readxl::read_xlsx(here("diagnosis_coding", "data", "RCH", "CHAANZ_Registry_Inclusion_Dx.xlsx")) %>%
+              clean_names() %>%
+              rename("rch_dx_name" = chd_diagnosis_primary_diagnosis_name,
+                     "icd10_code" = icd10_list_for_primary_diagnosis)
+```
+
+``` {r}
+ipccc_icd11 <- readxl::read_xls(here("diagnosis_coding", "data", "EPCC_IPCCC", "EACTS-STS-IPCCC-Diagnosis-Long-List-2018-06-27-ICD-11-Complete-for-distribution-with-ICD-11-terms-on-top.xls"))
+
+ipccc_2021 <- readxl::read_xlsx(here("diagnosis_coding", "data", "EPCC_IPCCC", "IPCCC-long-2021.xlsx")) %>%
+                  row_to_names(row_number = 6) %>%
+                  clean_names() %>%
+                  rename("icd_9_additional" = icd_9_2,
+                         "icd_10_additional" = icd_10_2) %>%
+                  drop_na(description) %>%
+                  mutate(section_name = if_else(is.na(section), NA, description)) %>%
+                  relocate(section_name, .after = section) %>%
+                  fill(section, section_name, .direction = "down") %>%
+                  drop_na(go_to) %>%
+                  select(section, section_name, go_to,
+                         "ipccc_name" = description,
+                         "ipccc_code" = ipccc,
+                         "epcc_code" = short_list,
+                         "epcc_name" = short_list_term,
+                         icd_10, icd_10_additional, icd_9, icd_9_additional)
+```
+
+``` {r, eval = FALSE}
+write.csv(ipccc_2021, here("data", "ipccc", "ipccc_2021.csv"),
+          row.names = FALSE, na = "")
+
+write_rds(ipccc_2021, here("data", "ipccc", "ipccc_2021.rds"))
+
+```
+
+``` {r}
+# Load in the pdf as text
+epcc_2012 <- pdf_text(here("diagnosis_coding", "data", "EPCC_IPCCC", "EPCCShort ICD9-10 STS 01Apr12.pdf"))
+
+# function to read fixed width
+epcc_fwf <- function(data, page, widths,
+                     col_names = c("epcc_name", "epcc_code", 
+                                           "icd_9", "icd_9_additional",
+                                           "icd_10", "icd_10_additional",
+                                           "sts_name"),
+                     encoding = "UTF-8") {
+  
+  readr::read_fwf(data[[page]],        
+                  fwf_widths(widths = widths,
+                             col_names = col_names),
+                  locale = locale(encoding = encoding),
+                  show_col_types = FALSE)
+  
+              }
+
+epcc_2012_join <- rbind(# Each page has different widths, so they need to be loaded separately
+                        epcc_2012_01 <- epcc_fwf(epcc_2012, 1, c(157, 12, 8, 13, 9, 13, NA)),
+                        epcc_2012_02 <- epcc_fwf(epcc_2012, 2, c(129, 11, 8, 8, 9, 9, NA)),
+                        epcc_2012_03 <- epcc_fwf(epcc_2012, 3, c(129, 11, 9, 9, 9, 9, NA)),
+                        epcc_2012_04 <- epcc_fwf(epcc_2012, 4, c(128, 11, 9, 9, 9, 9, NA)),
+                        epcc_2012_05 <- epcc_fwf(epcc_2012, 5, c(129, 11, 9, 9, 8, 8, NA)),
+                        epcc_2012_06 <- epcc_fwf(epcc_2012, 6, c(166, 11, 5, 3, 5, 3, NA)),
+                        epcc_2012_07 <- epcc_fwf(epcc_2012, 7, c(153, 8, 1, 1, 1, 0, NA)),
+                        epcc_2012_08 <- epcc_fwf(epcc_2012, 8, c(161, 11, 0, 0, 0, 0, NA)),
+                        epcc_2012_09 <- epcc_fwf(epcc_2012, 9, c(162, 11, 0, 0, 0, 0, NA)),
+                        epcc_2012_10 <- epcc_fwf(epcc_2012, 10, c(129, 11, 9, 9, 8, 8, NA)),
+                        epcc_2012_11 <- epcc_fwf(epcc_2012, 11, c(130, 11, 9, 9, 8, 8, NA)),
+                        epcc_2012_12 <- epcc_fwf(epcc_2012, 12, c(130, 11, 5, 3, 5, 3, NA))[1:26,]
+                        )
+
+# Do the multiple matches separately
+epcc_2012_m_join <- rbind(epcc_2012_12_m <- epcc_fwf(epcc_2012, 12, c(130, 11, 5, 3, 5, 3, NA))[29:166,],
+                          epcc_2012_13_m <- epcc_fwf(epcc_2012, 13, c(130, 11, 5, 3, 5, 3, NA)),
+                          epcc_2012_14_m <- epcc_fwf(epcc_2012, 14, c(129, 11, 0, 0, 0, 0, NA))
+                          )
+```
+
+``` {r, warning = FALSE}
+rm(epcc_2012_01, epcc_2012_02, epcc_2012_03, epcc_2012_04, epcc_2012_05, 
+   epcc_2012_06, epcc_2012_07, epcc_2012_08, epcc_2012_09, epcc_2012_10,
+   epcc_2012_11, epcc_2012_12, epcc_2012_12_m, epcc_2012_13_m, epcc_2012_14_m)
+```
+
+``` {r}
+epcc_2012_tidy <- epcc_2012_join %>%
+                        remove_empty(which = "rows") %>%
+                        filter(replace_na(epcc_code, '') != "EPCC code") %>%
+                        filter(replace_na(icd_9_additional, '') != "additional") %>%
+                        filter(!str_detect(replace_na(epcc_name, ''), "^European Paediatric Cardiac Code")) %>%
+                        filter(!str_detect(replace_na(epcc_name, ''), "^with ICD-9")) %>%
+                        mutate(section_name = if_else(is.na(epcc_code), epcc_name, NA)) %>%
+                        fill(section_name) %>%
+                        mutate(section_seq = row_number(),
+                               .by = section_name)
+
+
+```
+
+``` {r, eval = FALSE}
+# Save for manual cleaning
+write.csv(epcc_2012_tidy, here("diagnosis_coding", "r-output", "epcc_2012_tidy.csv"),
+          row.names = FALSE, na = "")
+```
+
+``` {r}
+# Load manually cleaned version
+epcc.final <- readxl::read_xlsx(here("diagnosis_coding", "r-output", "epcc_2012_clean.xlsx")) %>%
+                  drop_na(epcc_code) %>%
+                  mutate(icd10_seq = row_number(),
+                         icd10_seq_max = max(icd10_seq),
+                         .by = icd_10)
+```
+
+``` {r}
+epcc.final %>%
+  drop_na(icd_10) %>% 
+  count(icd_10) %>% 
+  nrow()
+
+epcc.final %>%
+  drop_na(icd_10) %>%
+  filter(icd10_seq_max > 1) %>%
+  count(icd_10) %>%
+  nrow()
+
+```
+
+``` {r, eval = FALSE}
+# Final EPCC list
+write.csv(epcc.final, here("diagnosis_coding", "r-output", "epcc_2012_final.csv"))
+```
+
+``` {r}
+icd10.icd10am.v12 <- readxl::read_xlsx(here("diagnosis_coding", "data", "icd10am", "ICD-10 and ICD-10-AM mapping tables - Twelfth Edition.XLSX"),
+                                       sheet = "A. ICD-10 to ICD-10-AM") %>%
+                        row_to_names(row_number = 1) %>%
+                        select("icd10_code" = `ICD-10 code`,
+                               "icd10_name" = `ICD-10 code descriptor`,
+                               "icd10am_code" = `ICD-10-AM map`,
+                               "icd10am_name" = `ICD-10-AM code descriptor of map`) %>%
+                        mutate(file_seq = row_number()) %>%
+                        mutate(icd10_seq = row_number(),
+                               icd10_max = max(icd10_seq),
+                               .by = icd10_code)
+```
+
+``` {r}
+icd10.icd10am.v12 %>% filter(icd10_seq != 1) %>%
+                      reframe(icd10am_code_additional = toString(icd10am_code),
+                              .by = icd10_code)
+
+```
+
+``` {r}
+epcc.icd10.icd10am <- epcc.final %>%
+                        left_join(icd10.icd10am.v12 %>%
+                                    filter(icd10_seq == 1), by = c("icd_10" = "icd10_code")) %>%
+                        left_join(icd10.icd10am.v12 %>% 
+                                    filter(icd10_seq != 1) %>%
+                                    reframe(icd10am_code_additional = toString(icd10am_code),
+                                            .by = icd10_code),
+                                  by = c("icd_10" = "icd10_code")) %>%
+                        select(section_name, epcc_name, epcc_code,
+                               "icd10_code" = icd_10, icd10_name, "icd10_additional" = icd_10_additional,
+                               icd10am_code, icd10am_name, icd10am_code_additional,
+                               sts_name, "icd9_code" = icd_9, "icd9_additional" = icd_9_additional)
+```
+
+
+``` {r, eval = FALSE}
+# Final EPCC list
+write.csv(icd10.icd10am.v12, here("diagnosis_coding", "r-output", "icd10_to_icd10am_v12.csv"),
+          row.names = FALSE, na = "")
+write.csv(epcc.icd10.icd10am, here("diagnosis_coding", "r-output", "epcc_icd10_icd10amv12.csv"),
+          row.names = FALSE, na = "")
+```
+
+``` {r}
+# ICD10AM codes are manually cleaned for cases where there are multiple matched between ICD10 and ICD10AM
+epcc.icd10.icd10am.editted <- read.csv(here("diagnosis_coding", "r-output", "epcc_icd10_icd10amv12_editted.csv"), 
+                                       na.strings=c("","NA")) %>%
+  mutate(icd10am_code_final = if_else(is.na(icd10am_code_corrected),
+                                      icd10am_code,
+                                      icd10am_code_corrected),
+         icd10am_name_final = if_else(is.na(icd10am_name_corrected),
+                                      icd10am_name,
+                                      icd10am_name_corrected)
+         )
+```
+
+``` {r}
+epcc.coding.final <- epcc.icd10.icd10am.editted %>%
+                        select(section_name, epcc_name, epcc_code, icd10_code, icd10_name, icd10_additional,
+                               "icd10am_code" = icd10am_code_final, "icd10am_name" = icd10am_name_final,
+                               sts_name, icd9_code, icd9_additional)%>%
+                        mutate(icd10am_seq = row_number(),
+                               .by = icd10am_code) %>%
+                        mutate(icd10_seq = row_number(),
+                               .by = icd10_code)
+```
+
+``` {r, eval = TRUE}
+write.csv(epcc.coding.final, here("diagnosis_coding", "r-output", "epcc_Coding_final.csv"),
+          row.names = FALSE, na = "")
+```
+
+``` {r}
+rch.to.epcc <- rch.drt %>%
+                reframe(rch_dx_name = toString(rch_dx_name),
+                        dx_id = toString(dx_id),
+                        n = n(),
+                        .by = icd10_code) %>%
+                left_join(epcc.coding.final %>% 
+                            filter(icd10am_seq == 1) %>%
+                            select(icd10am_code, icd10am_name, 
+                                   epcc_code, epcc_name) %>%
+                            mutate(icd10am_match = TRUE),
+                          by = c("icd10_code" = "icd10am_code")) %>%
+                left_join(epcc.coding.final %>% 
+                            filter(icd10am_seq != 1) %>%
+                            reframe(icd10am_code_additional = toString(icd10am_code),
+                                    .by = icd10am_code),
+                          by = c("icd10_code" = "icd10am_code")) %>%
+                mutate(icd10am_match = if_else(is.na(icd10am_match), FALSE, icd10am_match)) %>%
+                left_join(epcc.coding.final %>% 
+                            filter(icd10_seq == 1) %>%
+                            select(icd10_code, icd10_name, 
+                                   epcc_code, epcc_name) %>%
+                            mutate(icd10_match = TRUE),
+                          by = c("icd10_code" = "icd10_code")) %>%
+                left_join(epcc.coding.final %>% 
+                            filter(icd10_seq != 1) %>%
+                            reframe(icd10_code_additional = toString(icd10_code),
+                                    .by = icd10_code),
+                          by = c("icd10_code" = "icd10_code")) %>%
+                mutate(icd10_match = if_else(is.na(icd10_match), FALSE, icd10_match),
+                       any_match = icd10am_match | icd10_match)
+
+
+```
+
+
+
+
+
+
+
+    

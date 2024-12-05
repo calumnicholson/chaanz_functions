@@ -1,0 +1,690 @@
+CHAANZ_source,diagnosis_r,IPCCC_CODE_R,sts_name_6_22,STS_CODE_R,icd10_code_r,WARNINGS,CHAANZELIGABILITY,mild,moderate,severe
+Drt_sl_24aug2021,"Normal heart,",01.01.00,Normal heart,7000,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tetralogy of Fallot,",01.01.01,TOF,290,Q21.3,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Transposition of great arteries (TGA) (concordant atrioventricular & discordant ventriculo-arterial connections) & intact ventricular septum,",01.01.02,"TGA, IVS",880,Q20.3,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Congenitally corrected transposition of great arteries (discordant atrioventricular & ventriculo-arterial connections),",01.01.03,,,Q20.5,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle,",01.01.04,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary atresia + ventricular septal defect (VSD) (including Fallot type),",01.01.06,"Pulmonary atresia, VSD (Including TOF, PA)",340,Q21.3,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary atresia, Pulmonary atresia + intact ventricular septum,",01.01.07,"Pulmonary atresia, IVS",330,Q22.0,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Hypoplastic left heart syndrome,",01.01.09,Hypoplastic left heart syndrome (HLHS),730,Q23.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle),",01.01.14,,,Q20.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Partially anomalous pulmonary venous connection(s), Partially anomalous pulmonary venous connection of Scimitar type,",01.01.16,"Partial anomalous pulmonary venous connection (PAPVC), scimitar",190,Q26.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: Fallot type (subaortic or doubly committed ventricular septal defect & pulmonary stenosis),",01.01.17,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: transposition type (subpulmonary ventricular septal defect),",01.01.18,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: with non-committed ventricular septal defect,",01.01.19,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Atrioventricular septal defect and Tetralogy of Fallot,",01.01.20,"TOF, AVC (AVSD)",300,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Functionally univentricular heart,",01.01.22,,,Q20.9,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: with intact ventricular septum,",01.01.24,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary atresia + ventricular septal defect (VSD) + systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),",01.01.25,"Pulmonary atresia, VSD-MAPCA",350,Q21.3,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Left heart obstruction at multiple sites (including Shone syndrome),",01.01.33,Shoneâ€™s syndrome,2080,Q20.9,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Cardiac abnormality,",01.01.39,,,Q24.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: subaortic or doubly committed ventricular septal defect without pulmonary stenosis ('VSD type'),",01.01.40,,,Q20.1,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Vascular abnormality,",01.01.60,,,I99,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aneurysm,",01.01.61,"Aneurysm, Other",1280,I72.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Normal atrial arrangement (situs), atrioventricular & ventriculo-arterial connections, Usual atrial arrangement (atrial situs solitus),",01.03.00,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormal atrial arrangement,",01.03.06,"Cardiac, Other",1560,Q20.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s),",01.03.09,"Cardiac, Other",1560,Q20.9,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Normal atrial arrangement (situs), atrioventricular & ventriculo-arterial connections,",01.03.10,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle), Double inlet right ventricle,",01.04.03,,,Q20.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle), Double inlet left ventricle,",01.04.04,,,Q20.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Concordant ventriculo-arterial connections,",01.05.00,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Transposition of great arteries (discordant ventriculo-arterial connections) (TGA),",01.05.01,,,Q20.3,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet left ventricle,",01.05.03,,,Q20.2,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Concordant VA connections with parallel great arteries (anatomically corrected malposition),",01.05.10,,,Q20.8,,1,FALSE,FALSE,FALSE
+CELERMAJER2021,"Anomalous position-orientation of heart, Dextrocardia: heart predominantly in right hemithorax,",02.01.02,Dextrocardia,2090,Q24.0,,0,TRUE,FALSE,FALSE
+CELERMAJER2021,"Laevocardia: heart predominantly in left hemithorax,",02.01.03,Levocardia,2100,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomalous position-orientation of heart, Midline heart (mesocardia),",02.01.04,Mesocardia,2110,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomalous position-orientation of heart,",02.01.09,"Cardiac, Other",1560,Q24.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Solitary ventricle of indeterminate morphology,",02.03.05,,,Q20.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Abnormal position or relationship of great vessels,",02.07.04,,,Q25.9,,1,FALSE,FALSE,TRUE
+CELERMAJER2021,"Visceral heterotaxy (abnormal arrangement thoraco-abdominal organs),",03.01.02,,,Q20.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormal atrial arrangement, Total mirror imagery (situs inversus),",03.01.03,,,Q89.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormal atrial arrangement, Right isomerism ('asplenia'),",03.01.04,,,Q20.6,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Abnormal atrial arrangement, Left isomerism ('polysplenia'),",03.01.05,,,Q20.6,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Position or morphology of thoraco-abdominal organs abnormal,",03.01.09,,,Q89.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Position or morphology of thoraco-abdominal organs abnormal, Lung anomaly,",03.02.09,,,Q33.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Position or morphology of thoraco-abdominal organs abnormal, Functionally congenital single lung,",03.02.14,,,Q33.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Position or morphology of thoraco-abdominal organs abnormal, Tracheobronchial anomaly,",03.03.05,,,Q32.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Intestines malrotated,",03.06.03,"Miscellaneous, Other",7777,Q43.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Noncardiac abnormality potentially with associated heart disease, Spleen absent (asplenia),",03.07.03,"Miscellaneous, Other",7777,Q20.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Noncardiac abnormality potentially with associated heart disease, Multiple spleens (polysplenia),",03.07.04,"Miscellaneous, Other",7777,Q20.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic venovenous collateral(s),",04.00.06,Systemic venous anomaly,270,Q26.8,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Superior caval vein (SVC) abnormality,",04.01.00,Systemic venous anomaly,270,Q26.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Superior caval vein (SVC) abnormality, Left superior caval vein (SVC) persisting to coronary sinus,",04.01.01,,,Q26.1,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hepatic vein abnormality,",04.02.00,,,Q26.8,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Inferior caval vein (IVC) abnormality,",04.03.00,Systemic venous anomaly,270,Q26.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Inferior caval vein (IVC) abnormality, Interrupted inferior caval vein (IVC) with absent suprarenal segment and azygos continuation,",04.03.10,Systemic venous anomaly,270,Q26.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary sinus abnormality,",04.04.00,,,Q24.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Congenital anomaly of systemic vein(s),",04.05.00,Systemic venous anomaly,270,Q26.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: supracardiac,",04.06.00,"Total anomalous pulmonary venous connection (TAPVC), Type 1 (supracardiac)",200,Q26.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Partially anomalous pulmonary venous connection(s),",04.07.01,Partial anomalous pulmonary venous connection (PAPVC),180,Q26.3,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality,",04.08.00,"Cardiac, Other",1560,Q26.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection,",04.08.05,,,Q26.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Obstructed pulmonary venous pathway or connection,",04.08.06,"Cardiac, Other",1560,Q26.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: intracardiac,",04.08.10,"Total anomalous pulmonary venous connection (TAPVC), Type 2 (cardiac)",210,Q26.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: infracardiac,",04.08.20,"Total anomalous pulmonary venous connection (TAPVC), Type 3 (infracardiac)",220,Q26.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: mixed,",04.08.30,"Total anomalous pulmonary venous connection (TAPVC), Type 4 (mixed)",230,Q26.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary vein abnormality, Pulmonary vein stenosis,",04.08.91,Pulmonary venous stenosis,260,Q26.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right atrial abnormality,",05.01.00,"Cardiac, Other",1560,Q20.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left atrial abnormality,",05.02.00,"Cardiac, Other",1560,Q20.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left atrial abnormality, Cor triatriatum (divided left atrium),",05.02.01,Cor triatriatum,250,Q24.2,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality, Supravalvar or intravalvar mitral ring,",05.02.02,"Mitral stenosis, Supravalvar mitral ring",650,Q20.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality,",05.03.00,"Cardiac, Other",1560,Q21.9,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Atrial septum abnormality, Patent foramen ovale (PFO),",05.03.01,PFO,10,Q21.1,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Intact atrial septum (no interatrial communication),",05.03.10,"Cardiac, Other",1560,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality, Interatrial communication ('ASD'),",05.04.01,,,Q21.1,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Atrial septum abnormality, Atrial septal defect (ASD) within oval fossa (secundum),",05.04.02,"ASD, Secundum",20,Q21.1,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Atrial septum abnormality, Spontaneous closure of atrial septal defect (ASD) within oval fossa (secundum),",05.04.03,,,,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality, Sinus venosus defect (ASD),",05.05.00,"ASD, Sinus venosus",30,Q21.1,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality, Interatrial communication (ASD) through coronary sinus orifice,",05.05.03,"ASD, Coronary sinus",40,Q21.1,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality, Common atrium (virtual absence of atrial septum),",05.06.01,"ASD, Common atrium (single atrium)",50,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality,",06.01.00,,,Q22.9,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Tricuspid atresia,",06.01.01,,,Q22.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality, Tricuspid valvar dysplasia,",06.01.03,"Tricuspid valve, Other",410,Q22.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality, Straddling tricuspid valve,",06.01.09,"Tricuspid valve, Other",410,Q22.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality, Tricuspid regurgitation, Congenital tricuspid regurgitation,",06.01.25,"Tricuspid regurgitation, non-Ebstein's related",380,Q22.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality, Ebstein malformation of tricuspid valve,",06.01.34,,,Q22.5,,1,FALSE,TRUE,FALSE
+CELERMAJER2021,"Tricuspid valvar abnormality, Tricuspid regurgitation,",06.01.91,"Tricuspid regurgitation, non-Ebstein's related",380,Q22.8,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Tricuspid valvar abnormality, Tricuspid stenosis,",06.01.92,Tricuspid stenosis,390,Q22.4,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Mitral valvar abnormality,",06.02.00,,,Q23.9,,0,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Mitral atresia,",06.02.01,,,Q23.2,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Mitral valvar abnormality, Mitral valve stenosis, Congenital mitral valvar stenosis,",06.02.07,"Mitral stenosis, Valvar",660,Q23.2,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality, Straddling mitral valve,",06.02.09,,,Q23.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Mitral subvalvar apparatus abnormality,",06.02.12,"Mitral valve, Other",720,Q23.8,,0,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral subvalvar apparatus abnormality, Mitral subvalvar stenosis,",06.02.13,,,Q23.8,,0,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality, Mitral regurgitation, Congenital mitral regurgitation,",06.02.25,Mitral regurgitation,710,Q23.3,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality, Mitral valvar prolapse,",06.02.35,"Mitral valve, Other",720,I34.1,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality, True cleft of mitral leaflet (without atrioventricular septal defect),",06.02.36,"Mitral valve, Other",720,Q23.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Mitral subvalvar apparatus abnormality, Parachute malformation of mitral valve,",06.02.56,"Mitral valve, Other",720,Q23.8,,1,FALSE,TRUE,FALSE
+CELERMAJER2021,"Mitral valvar abnormality, Mitral regurgitation,",06.02.91,Mitral regurgitation,710,Q23.3,,0,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral stenosis,",06.02.92,Mitral stenosis,695,Q23.2,,0,TRUE,TRUE,FALSE
+CELERMAJER2021,"Mitral valvar abnormality, Mitral valve stenosis,",06.02.93,,,Q23.2,,0,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD),",06.05.01,,,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) atrioventricular valvar regurgitation,",06.05.06,,,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD), Deficient mural-lateral leaflet of left ventricular component of common atrioventricular valve (left atrioventricular valve),",06.05.98,,,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD),",06.06.00,,,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD), Partial atrioventricular septal defect (AVSD) with isolated atrial component (primum ASD),",06.06.01,"AVC (AVSD), Partial (incomplete) (PAVSD) (ASD, primum)",120,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) with isolated ventricular component,",06.06.08,,,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD), Complete atrioventricular septal defect (AVSD) with atrial and ventricular components,",06.06.09,"AVC (AVSD), Complete (CAVSD)",100,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD), Intermediate atrioventricular septal defect (AVSD) with atrial and ventricular components and separate atrioventricular valvar orifices,",06.06.10,"AVC (AVSD), Intermediate (transitional)",110,Q21.2,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) with ventricular imbalance,",06.07.26,,,Q21.2,,1,FALSE,TRUE,TRUE
+Drt_sl_24aug2021,"Ventricular dyssynchrony,",07.00.01,,,I50.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality,",07.01.00,"Cardiac, Other",1560,Q24.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Arrhythmogenic right ventricular cardiomyopathy,",07.01.10,,,I42.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality: acquired, Right ventricular dysfunction,",07.01.11,"Cardiac, Other",1560,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality, Right ventricular aneurysm,",07.01.14,,,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality, Right ventricular hypoplasia,",07.02.00,,,Q20.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality, Double chambered right ventricle,",07.03.01,DCRV,500,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Right ventricular outflow tract obstruction,",07.05.01,,,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary stenosis, Subpulmonary stenosis,",07.05.30,"Pulmonary stenosis, Subvalvar",490,Q24.3,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality,",07.06.00,"Cardiac, Other",1560,Q24.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality: acquired, Left ventricular dysfunction,",07.06.10,"Cardiac, Other",1560,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality, Left ventricular aneurysm,",07.06.13,,,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality, Left ventricular hypoplasia,",07.07.00,,,Q20.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular imbalance: dominant left ventricle + hypoplastic right ventricle,",07.08.41,,,Q20.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Ventricular imbalance: dominant right ventricle + hypoplastic left ventricle,",07.08.42,,,Q20.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Cardiomyopathy, Ventricular myocardial noncompaction cardiomyopathy,",07.08.50,"Cardiomyopathy (including dilated, restrictive, and hypertrophic)",740,I42.8,,0,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic stenosis, Subaortic stenosis,",07.09.00,,,Q24.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Left ventricular outflow tract obstruction,",07.09.01,"Aortic stenosis, Subvalvar",550,Q24.8,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic stenosis, Subaortic stenosis, Subaortic stenosis due to fibromuscular shelf,",07.09.03,,,Q24.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality,",07.09.31,,,Q25.4,,0,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD),",07.10.00,,,Q21.0,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Perimembranous ventricular septal defect (VSD),",07.10.01,"VSD, Type 2 (Perimembranous) (Paramembranous) (Conoventricular)",73,Q21.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Ventricular septal defect (VSD) with malaligned outlet septum,",07.10.12,,,Q21.0,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Muscular ventricular septal defect (VSD),",07.11.01,,,Q21.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Subarterial (outlet) ventricular septal defect (VSD),",07.12.00,"VSD, Type 1 (Subarterial) (Supracristal) (Conal septal defect) (Infundibular)",71,Q21.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Subarterial (outlet) ventricular septal defect (VSD), Doubly committed subarterial ventricular septal defect (VSD),",07.12.01,,,Q21.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Communication between left ventricle + right atrium (Gerbode defect),",07.14.02,"VSD, Type: Gerbode type (LV-RA communication)",79,Q21.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Inlet ventricular septal defect (VSD),",07.14.05,,,Q21.0,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Ventricular septal defect(s): haemodynamically insignificant,",07.15.01,,,Q21.0,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Multiple ventricular septal defect (VSD)s,",07.15.04,,,Q21.0,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Single ventricular septal defect (VSD),",07.15.05,,,Q21.0,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular septal defect (VSD), Spontaneous closure of ventricular septal defect (VSD),",07.16.01,,,Z87.7,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular septal abnormality,",07.20.00,"Cardiac, Other",1560,Q21.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular septal abnormality, Aneurysm of membranous septum,",07.20.01,"Cardiac, Other",1560,Q21.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Intact ventricular septum,",07.21.00,"Cardiac, Other",1560,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Common arterial trunk (truncus arteriosus),",09.01.01,,,Q20.0,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Truncal valvar abnormality,",09.02.00,Truncus arteriosus,160,Q24.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Truncal valvar abnormality, Truncal valvar regurgitation,",09.02.03,Truncal valve insufficiency,170,Q24.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Aortopulmonary window,",09.04.01,AP window (aortopulmonary window),140,Q21.4,,1,FALSE,TRUE,TRUE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality,",09.05.00,,,Q22.3,,1,TRUE,TRUE,TRUE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality, Pulmonary valvar stenosis,",09.05.01,"Pulmonary stenosis, Valvar",420,Q22.1,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality, Pulmonary valvar stenosis, Congenital pulmonary valvar stenosis,",09.05.04,"Pulmonary stenosis, Valvar",420,Q22.1,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary atresia,",09.05.11,Pulmonary atresia,320,Q22.0,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary atresia, Pulmonary atresia: imperforate valve,",09.05.12,"Pulmonary atresia, VSD (Including TOF, PA)",340,Q22.0,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Pulmonary valvar atresia: acquired,",09.05.15,Pulmonary atresia,320,I37.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality, Pulmonary regurgitation, Congenital pulmonary regurgitation,",09.05.22,Pulmonary insufficiency,530,Q22.2,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Absent pulmonary valve syndrome: Fallot-type,",09.05.25,"TOF, Absent pulmonary valve",310,Q24.8,,1,FALSE,TRUE,FALSE
+CELERMAJER2021,"Pulmonary valvar abnormality, Pulmonary regurgitation,",09.05.91,Pulmonary insufficiency,530,Q22.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary stenosis,",09.05.92,,,Q22.3,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary trunk (MPA) abnormality,",09.07.00,"Cardiac, Other",1560,Q25.7,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary trunk (MPA) abnormality, Pulmonary trunk hypoplasia,",09.07.11,,,Q25.7,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary trunk (MPA) abnormality, Supravalvar pulmonary trunk stenosis,",09.07.13,"Pulmonary artery stenosis (hypoplasia), Main (trunk)",430,Q25.6,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Solitary arterial trunk (absent intrapericardial pulmonary arteries),",09.07.26,"Cardiac, Other",1560,Q25.7,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Major systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),",09.08.01,,,Q27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Vascular ring, Anomalous origin of left pulmonary artery from right pulmonary artery (pulmonary arterial sling),",09.09.06,,,Q25.7,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary artery from ascending aorta (hemitruncus),",09.09.08,,,Q25.7,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality,",09.10.00,,,Q25.7,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial stenosis,",09.10.01,,,Q25.7,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Peripheral pulmonary arterial stenoses or hypoplasia: at-beyond hilar bifurcation,",09.10.06,,,Q25.6,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Central pulmonary arterial stenosis or hypoplasia: proximal to hilar bifurcation,",09.10.07,,,Q25.6,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Discontinuous (non-confluent) right and left pulmonary arteries,",09.10.10,,,Q25.7,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial hypoplasia,",09.10.11,,,Q25.7,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Right pulmonary arterial stenosis,",09.10.25,,,Q25.6,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Left pulmonary arterial stenosis,",09.10.26,,,Q25.6,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial abnormality, Pulmonary arterial aneurysm,",09.10.44,"Aneurysm, Pulmonary artery",1270,Q25.7,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality,",09.15.00,,,Q23.9,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Aortic valvar stenosis, Congenital aortic valvar stenosis,",09.15.01,"Aortic stenosis, Valvar",560,Q23.0,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Aortic atresia,",09.15.03,Hypoplastic left heart syndrome (HLHS),730,Q23.0,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Aortic regurgitation, Congenital aortic regurgitation,",09.15.07,Aortic insufficiency,600,Q23.1,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Eccentric opening of tricuspid aortic valve,",09.15.12,"Aortic valve, Other",620,Q23.8,,1,TRUE,FALSE,FALSE
+CELERMAJER2021,"Aortic valvar abnormality, Aortic valvar stenosis,",09.15.13,,,Q23.0,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Bicuspid aortic valve,",09.15.22,"Aortic valve, Other",620,Q23.1,,1,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality, Aortic valvar prolapse,",09.15.30,"Aortic valve, Other",620,Q23.8,,1,TRUE,FALSE,FALSE
+CELERMAJER2021,"Aortic valvar abnormality, Aortic regurgitation,",09.15.91,Aortic insufficiency,600,Q23.1,,0,TRUE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic stenosis,",09.15.92,,,Q23.0,,0,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality, Supravalvar aortic stenosis,",09.16.00,"Aortic stenosis, Supravalvar",570,Q25.3,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality, Ascending aorta hypoplasia,",09.16.02,"Cardiac, Other",1560,Q25.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality, Ascending aorta dilation, Ascending aorta dilation associated with Marfan syndrome,",09.16.05,Aortic aneurysm (including pseudoaneurysm),1110,Q87.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality, Ascending aorta dilation,",09.16.09,,,Q25.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic abnormality, Ascending aorta abnormality,",09.16.10,"Cardiac, Other",1560,Q25.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic root dilation,",09.16.13,"Cardiac, Other",1560,Q25.4,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Aortoventricular tunnel,",09.17.01,,,Q25.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortoventricular tunnel, Aorto: left ventricular tunnel,",09.17.02,,,Q25.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic sinus of Valsalva aneurysm,",09.18.01,Sinus of Valsalva aneurysm,630,Q25.4,,1,FALSE,TRUE,FALSE
+CELERMAJER2022,"Arteriovenous fistula (malformation),",09.19.01,"Miscellaneous, Other",7777,Q27.3,,0,FALSE,FALSE,FALSE
+CELERMAJER2022,"Arteriovenous fistula (malformation), Pulmonary arteriovenous fistula (malformation),",09.19.05,,,Q25.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Distal systemic arterial abnormality,",09.20.20,,,Q27.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic-to-pulmonary collateral arter(ies) (MAPCA(s)) stenosis(es),",09.20.25,,,Q27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arterial duct (ductus arteriosus) abnormality,",09.27.00,,,Q25.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arterial duct (ductus arteriosus) abnormality, Patent arterial duct (PDA),",09.27.21,Patent ductus arteriosus,1080,Q25.0,,1,TRUE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality,",09.28.00,"Cardiac, Other",1560,Q25.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Vascular ring, Double aortic arch,",09.28.09,Vascular ring,1090,Q25.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Right aortic arch,",09.28.15,,,Q25.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Descending aorta dilation,",09.28.16,,,Q25.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Aortic coarctation,",09.29.01,Coarctation of aorta,990,Q25.1,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Aortic arch hypoplasia (tubular),",09.29.11,Aortic arch hypoplasia,1000,Q25.4,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Descending-abdominal aorta hypoplasia (middle aortic syndrome),",09.29.16,,,Q25.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Interrupted aortic arch,",09.29.31,Interrupted aortic arch,1070,Q25.4,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Aortic arch abnormality, Aortic arch branch abnormality,",09.30.00,,,Q27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Aortic arch branch abnormality, Aberrant origin right subclavian artery,",09.30.02,,,Q27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic arch abnormality, Aortic arch branch abnormality, Aberrant origin left subclavian artery,",09.30.04,,,Q27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Vascular ring,",09.31.00,Vascular ring,1090,Q25.4,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Anomalous origin of coronary artery from pulmonary arterial tree,",09.41.01,"Coronary artery anomaly, Anomalous pulmonary origin (includes ALCAPA)",1020,Q24.5,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Anomalous aortic origin or course of coronary artery,",09.42.00,,,Q24.5,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Anomalous aortic origin of coronary artery (AAOCA),",09.42.20,"Coronary artery anomaly, Anomalous aortic origin of coronary artery (AAOCA)",1010,Q24.5,,1,FALSE,TRUE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Intramural proximal coronary arterial course,",09.43.05,"Coronary artery anomaly, Anomalous aortic origin of coronary artery (AAOCA)",1010,Q24.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Aberrant course of coronary artery: across right ventricular outflow tract,",09.43.18,,,Q24.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality, Coronary fistula,",09.45.01,,,Q24.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary fistulas within right ventricle ('sinusoidal'),",09.45.11,,,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Coronary arterial abnormality,",09.46.00,,,Q24.5,,1,FALSE,FALSE,FALSE
+CELERMAJER2021,"Coronary arterial abnormality, Coronary arterial aneurysm(s),",09.46.01,"Coronary artery anomaly, Aneurysm",1040,Q24.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricle dependent coronary circulation,",09.46.06,,,Q24.8,,1,FALSE,FALSE,TRUE
+CELERMAJER2021,"Pericardial abnormality,",10.01.00,"Pericardial disease, Other",780,Q24.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Heart tumour,",10.03.01,,,D48.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acute rheumatic fever,",10.05.01,"Miscellaneous, Other",7777,I00,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rheumatic fever with cardiac involvement,",10.05.21,Rheumatic heart disease,1325,I01,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rheumatic valvar disease,",10.05.30,Rheumatic heart disease,1325,I09.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rheumatic valvar disease, Rheumatic mitral valvar disease,",10.05.31,,,I05.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rheumatic valvar disease, Rheumatic aortic valvar disease,",10.05.33,,,I06.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Endocarditis,",10.06.00,,,I33.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infective endocarditis,",10.06.01,,,I33.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Heart abscess,",10.06.20,Endocarditis,1320,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infective endocarditis, Bacterial endocarditis,",10.06.41,Endocarditis,1320,I33.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infective endocarditis, Postprocedural endocarditis,",10.06.64,Endocarditis,1320,I33.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural endocarditis,",10.06.65,Endocarditis,1320,I33.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious myocarditis,",10.07.01,"Cardiac, Other",1560,I40.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious myocarditis, Viral myocarditis,",10.07.03,"Cardiac, Other",1560,I40.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Drug induced heart muscle disease,",10.07.05,,,I42.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious myocarditis, Trypanosomal myocarditis (Chagas' disease),",10.07.08,"Cardiac, Other",1560,B57.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Myocardial failure in end stage congenital heart disease,",10.07.40,"Cardiomyopathy, End-stage congenital heart disease",750,I50.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication after heart or lung transplant, Heart muscle disease in cardiac rejection,",10.07.42,,,T86.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Nutritional heart muscle disease,",10.07.61,,,E63.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Heart muscle disease in infant of diabetic mother,",10.07.71,,,P70.1,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Heart muscle disease in collagen vascular/ connective tissue disorder,",10.07.81,,,M35.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Myocarditis,",10.07.90,"Cardiac, Other",1560,I51.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericarditis,",10.08.00,Pericarditis,770,I30.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious pericarditis,",10.08.01,Pericarditis,770,I30.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious pericarditis, Viral pericarditis,",10.08.03,Pericarditis,770,I30.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Infectious pericarditis, Bacterial pericarditis,",10.08.04,Pericarditis,770,I30.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericarditis, Constrictive pericarditis,",10.08.09,Pericarditis,770,I31.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericardial effusion, Cardiac tamponade,",10.08.13,Pericardial effusion,760,I31.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericardial effusion, Chylopericardium,",10.08.15,Pericardial effusion,760,I31.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired,",10.08.29,"Pericardial disease, Other",780,I31.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericardial effusion,",10.08.31,Pericardial effusion,760,I31.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Kawasaki disease,",10.09.01,,,M30.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Kawasaki disease, Kawasaki disease with aneurysm(s) or dilated coronary vessels,",10.09.02,,,M30.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Kawasaki disease, Kawasaki disease without cardiac involvement,",10.09.08,,,M30.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease,",10.09.10,"Coronary artery anomaly, Other",1050,I25.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Ischaemic heart disease,",10.09.30,,,I25.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy,",10.10.01,"Cardiomyopathy (including dilated, restrictive, and hypertrophic)",740,I42.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Restrictive cardiomyopathy,",10.10.10,"Cardiomyopathy (including dilated, restrictive, and hypertrophic)",740,I42.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Restrictive cardiomyopathy, Idiopathic restrictive cardiomyopathy,",10.10.11,,,I42.5,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Cardiomyopathy, Endocardial fibroelastosis,",10.10.12,"Cardiac, Other",1560,I42.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Infiltrative cardiomyopathy,",10.10.13,,,I42.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Hypertrophic cardiomyopathy,",10.10.20,"Cardiomyopathy (including dilated, restrictive, and hypertrophic)",740,I42.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiomyopathy, Dilated cardiomyopathy,",10.10.25,"Cardiomyopathy (including dilated, restrictive, and hypertrophic)",740,I42.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Innocent murmur,",10.12.01,,,R01.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Failure to thrive,",10.12.39,,,R62.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Chest pain,",10.12.42,,,R07.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Angina pectoris,",10.12.51,"Cardiac, Other",1560,I20.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial hypertension,",10.13.01,Pulmonary vascular obstructive disease,1385,I27.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial hypertension, Idiopathic (primary) pulmonary hypertension,",10.13.02,Primary pulmonary hypertension,1400,I27.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary vascular disease,",10.13.06,,,I27.8,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Pulmonary vascular disease, Irreversible pulmonary vascular disease due to congenital heart disease",10.13.08,,,I27.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Pulmonary arterial hypertension, Secondary pulmonary hypertension,",10.13.20,Pulmonary vascular obstructive disease,1385,I27.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial hypertension, Secondary pulmonary hypertension, Pulmonary hypertension due to congenital systemic-to-pulmonary shunt,",10.13.21,Pulmonary vascular obstructive disease,1385,I27.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired,",10.13.50,,,I28.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary embolism,",10.13.51,,,I26.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Elevated lung resistance for biventricular repair (over 6 Wood units),",10.13.63,,,I27.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Elevated lung resistance for heart transplant (over 4 Wood units),",10.13.64,,,I27.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Elevated lung resistance for univentricular repair (over 2 Wood units),",10.13.65,,,I27.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Right pulmonary arterial stenosis: acquired,",10.13.68,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Left pulmonary arterial stenosis: acquired,",10.13.69,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic hypertension, Secondary systemic hypertension,",10.14.00,"Miscellaneous, Other",7777,I15.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic hypertension,",10.14.01,,,I10,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic hypertension, Primary (essential) systemic hypertension,",10.14.02,"Miscellaneous, Other",7777,I10,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic hypertension, Secondary systemic hypertension, Systemic hypertension due to aortic arch obstruction,",10.14.04,"Miscellaneous, Other",7777,I15.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Ascending aorta dilation: acquired,",10.14.40,"Cardiac, Other",1560,I71.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm, Ascending aorta aneurysm,",10.14.42,Aortic aneurysm (including pseudoaneurysm),1110,I71.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm, Descending aorta aneurysm,",10.14.43,,,I71.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm, Abdominal aorta aneurysm,",10.14.44,Aortic aneurysm (including pseudoaneurysm),1110,I71.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm, Rupture of thoracic aortic aneurysm,",10.14.45,,,I71.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm, Rupture of abdominal aortic aneurysm,",10.14.46,Aortic aneurysm (including pseudoaneurysm),1110,I71.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic aneurysm,",10.14.50,Aortic aneurysm (including pseudoaneurysm),1110,I71.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic dissection,",10.14.51,Aortic dissection,1120,I71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic dissection, Ascending aorta dissection & propagation beyond arch (DeBakey type I),",10.14.52,Aortic dissection,1120,I71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic dissection, Ascending aorta dissection not beyond arch (DeBakey type II/ Stanford type A),",10.14.53,,,I71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Aortic dissection, Descending aorta dissection & distal propagation (DeBakey type III/ Stanford type B),",10.14.54,,,I71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic arteritis,",10.14.60,"Cardiac, Other",1560,I77.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired,",10.14.70,"Cardiac, Other",1560,I77.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Recoarctation of aorta,",10.14.72,Coarctation of aorta,990,I77.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Paradoxical arterial embolus,",10.14.74,"Cardiac, Other",1560,I74.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Supravalvar aortic stenosis: acquired,",10.14.77,,,I77.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arterial duct (ductus arteriosus) abnormality: acquired,",10.14.80,,,I77.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Ascending aortopathy associated with conotruncal malformations,",10.14.95,,,I71.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder,",10.15.00,,,P96.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Persistent pulmonary hypertension of the newborn (PFC),",10.15.01,Pulmonary vascular obstructive disease,1385,P29.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Necrotising enterocolitis,",10.15.05,,,P77,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Transient myocardial ischaemia,",10.15.10,,,P29.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Meconium aspiration,",10.15.12,,,P24.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality: acquired,",10.16.00,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality: acquired, Right ventricular-congestive heart failure,",10.16.08,,,I50.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular outflow tract obstruction: acquired,",10.16.16,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality: acquired,",10.16.40,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural left ventricular outflow tract complication, Recurrent left ventricular outflow tract obstruction,",10.16.46,,,I51.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality: acquired, Left ventricular failure,",10.16.47,,,I50.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality associated with ventricular septum: acquired,",10.16.60,"Cardiac, Other",1560,I51.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality associated with ventricular septum: acquired, Postmyocardial infarct ventricular septal defect (VSD),",10.16.62,,,I23.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Narrowing of constructed intraventricular tunnel: acquired,",10.16.81,,,T82.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subaortic stenosis: acquired, Subaortic stenosis in functionally univentricular heart: acquired,",10.16.82,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subpulmonary stenosis: acquired, Subpulmonary stenosis in functionally univentricular heart: acquired,",10.16.83,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subaortic stenosis: acquired,",10.16.86,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subpulmonary stenosis: acquired,",10.16.88,"Pulmonary stenosis, Subvalvar",490,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease,",10.17.00,,,R09.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Cyanosis,",10.17.03,,,R23.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Heart failure,",10.17.05,,,I50.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiac symptom without pathology,",10.17.09,,,R09.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Cyanotic spells,",10.17.12,,,R09.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Palpitations,",10.17.13,,,R00.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Shock,",10.17.23,"Cardiac, Other",1560,R57.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality: acquired,",10.17.40,"Cardiac, Other",1560,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Platypnoea-orthodeoxia syndrome,",10.17.50,,,Q21.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Myocardial infarction,",10.18.00,,,I21.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Myocardial infarction, Acute myocardial infarction,",10.18.01,,,I21.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Myocardial infarction, Postmyocardial infarction complication,",10.18.24,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Personal history of ischaemic heart disease,",10.18.48,,,Z86.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Musculoskeletal chest pain,",10.18.52,,,M62.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Dyslipidaemia,",10.19.01,,,E78.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Dyslipidaemia, Hypercholesterolaemia, Familial hypercholesterolaemia,",10.19.02,,,E78.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Dyslipidaemia, Hypercholesterolaemia,",10.19.11,,,E78.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"No pre-procedural risk factors,",10.20.00,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural shock,",10.20.02,,,R57.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural arrhythmia,",10.20.03,,,I49.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural acidosis,",10.20.05,,,E87.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural coagulation disorder,",10.20.06,,,D68.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural renal failure (creatinine over 1.5 times upper limit of normal for age),",10.20.07,,,N17.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural renal failure (creatinine over 1.5 times upper limit of normal for age), Preprocedural renal failure requiring dialysis,",10.20.08,,,Z99.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural septicaemia,",10.20.09,,,A41.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural neurological impairment,",10.20.12,,,G93.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural cerebral abnormality on imaging,",10.20.13,,,R90.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural mechanical ventilatory support,",10.20.14,,,Z99.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural mechanical circulatory support,",10.20.15,,,Z99.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural pulmonary hypertension,",10.20.16,Pulmonary vascular obstructive disease,1385,J95.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural tracheostomy,",10.20.17,,,Z93.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural seizures,",10.20.18,,,R56.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural risk factor,",10.20.19,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural shock, Preprocedural shock at time of surgery (persistent),",10.20.31,,,R57.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural shock, Preprocedural shock resolved by time of surgery,",10.20.32,,,R57.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural cardiopulmonary resuscitation (less than 48 hours),",10.20.33,,,I46.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural myocardial dysfunction,",10.20.34,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural respiratory syncytial virus (RSV) infection,",10.20.37,,,J12.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural necrotising enterocolitis: treated medically,",10.20.38,,,P77,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural necrotising enterocolitis: treated surgically,",10.20.39,,,P77,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): echo data,",10.20.45,,,J95.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): catheter data,",10.20.46,,,J95.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Premature birth,",10.22.02,,,P07.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Infant of diabetic mother,",10.22.03,,,P70.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Premature birth, Premature birth 32-35 weeks,",10.22.05,,,P07.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Neonatal disorder, Premature birth, Premature birth less than 32 weeks,",10.22.06,,,P07.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Weight less than 2.5 kg,",10.22.07,,,P07.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary-non-cardiac abnormality not apparent,",10.23.00,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Family history of congenital heart lesion,",10.23.01,,,Z82.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Maternal systemic lupus erythematosus (SLE),",10.23.02,,,P00.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Family history of disorder with cardiac involvement,",10.23.03,,,Z82.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease,",10.23.04,,,Q87.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Family history of sudden death,",10.23.11,,,Z84.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary venous abnormality: acquired,",10.24.00,,,I28.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic vein abnormality: acquired,",10.30.00,,,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic vein abnormality: acquired, Systemic vein obstruction,",10.30.09,,,I87.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary oedema,",10.30.30,,,J81,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Superior caval vein (SVC) abnormality: acquired,",10.31.01,,,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Inferior caval vein (IVC) abnormality - acquired,",10.31.21,Systemic venous anomaly,270,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Heart valvar abnormality: acquired,",10.32.00,,,I38,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality: acquired,",10.32.01,,,I36.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Prosthetic valve failure,",10.33.00,Prosthetic valve failure,1330,T82.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired,",10.33.01,,,I34.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Mitral stenosis: acquired,",10.33.02,Mitral stenosis,695,I34.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Mitral stenosis: acquired, Mitral valvar stenosis: recurrent,",10.33.03,"Mitral valve, Other",720,I34.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Mitral regurgitation: acquired,",10.33.04,Mitral regurgitation,710,I34.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Mitral regurgitation: acquired, Mitral regurgitation: recurrent,",10.33.06,"Mitral valve, Other",720,I34.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Left atrioventricular valvar regurgitation: acquired,",10.34.44,,,I34.0,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired,",10.34.60,,,I38,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired,",10.35.01,,,I37.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Pulmonary valvar stenosis: acquired,",10.35.02,"Pulmonary stenosis, Valvar",420,I37.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Pulmonary valvar stenosis: acquired, Pulmonary valvar stenosis: recurrent,",10.35.03,,,I37.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Pulmonary regurgitation: acquired,",10.35.04,Pulmonary insufficiency,530,I37.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired,",10.36.01,"Aortic valve, Other",620,I35.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Aortic valvar stenosis: acquired,",10.36.02,"Aortic stenosis, Valvar",560,I35.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Aortic valvar stenosis: acquired, Aortic valvar stenosis: recurrent,",10.36.03,"Aortic stenosis, Valvar",560,I35.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Aortic regurgitation: acquired,",10.36.04,Aortic insufficiency,600,I35.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Aortic regurgitation: acquired, Aortic regurgitation: recurrent,",10.36.06,Aortic insufficiency,600,I35.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Truncal valvar abnormality: acquired,",10.37.01,Truncus arteriosus,160,I38,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Syncope,",10.40.01,Syncope,2390,R55,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Symptom-sign of heart disease, Hypotension,",10.40.30,,,I95.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Common arterial trunk (truncus) abnormality: acquired,",10.51.01,Truncus arteriosus,160,I77.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Traumatic injury of heart,",10.90.01,,,S26,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Traumatic injury of tracheobronchial tree or lungs,",10.90.24,,,J98.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Trauma: blunt,",10.90.41,"Trauma, Blunt",2400,T14.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Trauma: penetrating,",10.90.42,"Trauma, Penetrating",2410,T14.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arrhythmia,",11.00.00,,,I49.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sudden Arrhythmic Death Syndrome (SADS),",11.00.11,,,I46.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiac arrest,",11.00.21,,,I46.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Supraventricular rhythm disturbance, Supraventricular tachycardia,",11.01.00,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Supraventricular rhythm disturbance,",11.01.01,,,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Sinus node dysfunction (including sick sinus),",11.02.03,"Arrhythmia, Atrial, Other",2460,I49.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sinus bradycardia,",11.02.04,"Arrhythmia, Atrial, Other",2460,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sinus tachycardia,",11.02.07,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Vagal sinus bradycardia: bradycardia(s) of prematurity,",11.02.15,"Arrhythmia, Atrial, Other",2460,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter), Paroxysmal atrial tachycardia,",11.03.05,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter), Atrial flutter,",11.03.07,Arrhythmia,1180,I48,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter), Atrial fibrillation,",11.03.08,Arrhythmia,1180,I48,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Supraventricular rhythm disturbance, Ectopic atrial tachycardia,",11.03.12,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter),",11.03.13,Arrhythmia,1180,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Supraventricular rhythm disturbance, Multifocal atrial tachycardia (chaotic),",11.03.15,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Supraventricular rhythm disturbance, Premature atrial beats (complexes-contractions),",11.03.21,,,I49.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter), Cavotricuspid isthmus dependent reentry atrial tachycardia: atrial flutter,",11.03.66,Arrhythmia,1180,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Macroreentrant atrial tachycardia (including atrial flutter), Non-cavotricuspid isthmus dependent atrial tachycardia,",11.03.67,Arrhythmia,1180,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rhythm disturbance at level of AV junction,",11.04.00,"Arrhythmia, Junctional",2050,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rhythm disturbance at level of AV junction, Atrioventricular junctional (nodal) tachycardia,",11.04.07,"Arrhythmia, Junctional",2050,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rhythm disturbance at level of AV junction, Atrioventricular nodal reentry tachycardia (AVNRT),",11.04.11,,,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rhythm disturbance at level of AV junction, Junctional ectopic tachycardia (His bundle),",11.04.42,"Arrhythmia, Junctional",2050,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular rhythm disturbance,",11.05.00,"Arrhythmia, Ventricular",2060,I49.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia,",11.05.06,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Ventricular flutter,",11.05.09,"Arrhythmia, Ventricular",2060,I49.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Ventricular fibrillation,",11.05.10,,,I49.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ion channelopathy, Catecholaminergic polymorphic ventricular tachycardia,",11.05.17,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Premature ventricular beats (complexes-contractions),",11.05.21,"Arrhythmia, Ventricular",2060,I49.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ion channelopathy, Brugada syndrome,",11.05.44,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Non-sustained ventricular tachycardia,",11.05.50,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Focal ventricular tachycardia,",11.05.56,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Macroreentrant ventricular tachycardia,",11.05.57,,,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ventricular tachycardia, Idiopathic fascicular ventricular tachycardia,",11.05.84,,,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance,",11.06.00,,,I45.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Sinoatrial block,",11.06.01,,,I45.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, 1st degree atrioventricular block,",11.06.02,"Arrhythmia, Heart block",1185,I44.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, 2nd degree atrioventricular block,",11.06.03,"Arrhythmia, Heart block",1185,I44.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Complete atrioventricular block (3rd degree),",11.06.07,"Arrhythmia, Heart block",1185,I44.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Complete atrioventricular block (3rd degree), Acquired complete atrioventricular block,",11.06.10,"Arrhythmia, Heart block, Acquired",1190,I44.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Complete atrioventricular block (3rd degree), Congenital complete heart block,",11.06.16,"Arrhythmia, Heart block, Congenital",1200,Q24.6,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Complete right bundle branch block,",11.06.23,,,I45.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Conduction disturbance, Complete left bundle branch block,",11.06.24,Arrhythmia,1180,I44.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Preprocedural complete atrioventricular block,",11.06.35,,,I44.2,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reciprocating (reentry) tachycardia: manifest preexcitation in sinus rhythm (Wolff Parkinson White),",11.07.01,,,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Accessory pathway: retrograde conduction only (concealed: no preexcitation sinus rhythm),",11.07.06,Arrhythmia,1180,I45.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Manifest accessory pathway,",11.07.11,,,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Permanent junctional reciprocating tachycardia (PJRT),",11.07.14,Arrhythmia,1180,I47.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reciprocating (reentry) tachycardia: orthodromic,",11.07.22,,,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reentry (reciprocating) tachycardia: antidromic (typically wide QRS),",11.07.23,Arrhythmia,1180,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Multiple accessory pathways,",11.07.26,Arrhythmia,1180,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reentry (reciprocating) tachycardia: orthodromic & antidromic,",11.07.28,,,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"AV reciprocating (reentry) tachycardia (accessory pathway mediated),",11.07.29,,,I45.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker dysfunction-complication,, Pacemaker dysfunction-complication necessitating replacement,",11.11.00,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker dysfunction-complication,,",11.11.01,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker dysfunction-complication,, Pacemaker battery exhaustion: end of life (EOL),",11.11.03,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker dysfunction-complication,, Pacemaker-Implantable cardioverter & defibrillator (ICD) loss of capture,",11.11.17,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker dysfunction-complication,, Pacemaker (atrioventricular dyssynchrony) syndrome,",11.11.21,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker-implantable cardioverter & defibrillator (ICD) lead dysfunction-complication,",11.11.40,,,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pacemaker generator site local complication,",11.11.59,,,T82.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Implantable cardioverter & defibrillator (ICD) dysfunction-complication,",11.11.60,"Cardiac, Other",1560,T82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Insertable electrocardiographic (ECG) loop recorder complication,",11.11.80,"Cardiac, Other",1560,T82.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ion channelopathy,",11.12.00,"Arrhythmia, Ventricular",2060,I47.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ion channelopathy, Prolonged QT interval,",11.12.01,,,I45.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ion channelopathy, Long QT syndrome,",11.12.29,,,I45.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Electrocardiographic (ECG) abnormality,",11.20.00,,,R94.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Morphological abnormality of conduction system,",11.23.00,,,Q24.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic examination,",13.01.01,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic examination, Transabdominal fetal echocardiographic examination,",13.01.25,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic examination, Transvaginal fetal echocardiographic examination,",13.01.26,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic examination, Satisfactory fetal cardiac images,",13.01.89,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic examination, Inadequate fetal cardiac images,",13.01.90,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly,",14.01.01,"Miscellaneous, Other",7777,Q99.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, Trisomy 21: Down’s syndrome,",14.01.02,,,Q90.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, Trisomy 18: Edwards' syndrome,",14.01.03,"Miscellaneous, Other",7777,Q91.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, Trisomy 13: Patau's syndrome,",14.01.04,,,Q91.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, 45XO: Turner’s syndrome,",14.01.05,,,Q96,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, 22q11 microdeletion,",14.01.21,"Miscellaneous, Other",7777,Q93.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Syndrome-association potentially with cardiac involvement,",14.02.00,,,Q87.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chromosomal anomaly, 22q11 microdeletion, 22q11 microdeletion with full DiGeorge sequence (including immune dysfunction),",14.02.06,"Miscellaneous, Other",7777,D82.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Friedreich’s ataxia,",14.02.10,,,G11.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Marfan syndrome,",14.02.17,,,Q87.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Noonan syndrome,",14.02.19,,,Q87.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Pompe’s disease: glycogen storage disease type IIa,",14.02.21,,,E74.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Tuberous sclerosis,",14.02.28,,,Q85.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Williams syndrome (infantile hypercalcaemia),",14.02.30,"Miscellaneous, Other",7777,Q93.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal rubella syndrome,",14.02.32,,,P35.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Duchenne’s muscular dystrophy,",14.02.34,,,G71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Muscular dystrophy,",14.02.58,,,G71.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Ehlers-Danlos syndrome,",14.02.62,,,Q79.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Alagille syndrome: arteriohepatic dysplasia,",14.02.66,"Miscellaneous, Other",7777,Q44.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Noncardiac abnormality potentially with associated heart disease,",14.03.00,,,Q89.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Non-cardiothoracic-vascular abnormality,",14.03.04,,,Q89.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Psychomotor developmental delay,",14.03.05,,,F79,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cystic fibrosis,",14.03.06,"Thoracic and/or mediastinal, Other",1570,E84.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Major anomaly of gastrointestinal system, Congenital diaphragmatic hernia,",14.03.07,"Diaphragm disease, Other",1550,Q79.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Major anomaly of gastrointestinal system, Tracheo-oesophageal fistula,",14.03.08,"Airway disease, Other",1170,Q39.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Gastro-oesophageal reflux disease (GORD),",14.03.09,"Esophageal disease, Benign",1490,Q40.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Major anomaly of gastrointestinal system, Omphalocoele,",14.03.10,,,Q79.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Major anomaly of gastrointestinal system, Duodenal stenosis/atresia,",14.03.11,,,Q41.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sickle cell disease,",14.03.21,,,D57,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Renal abnormality,",14.03.23,,,Q64.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Congenital coagulation disorder,",14.03.28,,,D68.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Thoracic-mediastinal abnormality,",14.03.29,,,Q89.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Microcephaly,",14.03.33,,,Q02,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cerebrovascular accident (stroke),",14.03.42,"Miscellaneous, Other",7777,I64,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Transient ischaemic attack: less than 24 hours (TIA),",14.03.44,"Miscellaneous, Other",7777,G45.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Choanal atresia,",14.03.47,"Thoracic and/or mediastinal, Other",1570,Q30.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tracheobronchial malacia,",14.03.49,"Thoracic and/or mediastinal, Other",1570,J98.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hypothyroidism,",14.03.52,,,E03.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Obesity (Body Mass Index over 30),",14.03.59,,,E66.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anoxic-ischaemic encephalopathy,",14.03.72,,,G93.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hyperthyroidism,",14.03.75,,,E05.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diabetes mellitus,",14.03.90,"Miscellaneous, Other",7777,E14,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cerebral anomaly,",14.03.91,,,Q04.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Connective tissue disease,",14.03.92,"Miscellaneous, Other",7777,M35.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Reversible ischaemic neurologic deficit: 24-72 hours (RIND),",14.03.97,,,G45.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anterior chest wall (pectus) deformity, Pectus carinatum,",14.04.04,Pectus carinatum,2220,Q67.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anterior chest wall (pectus) deformity, Pectus excavatum,",14.04.05,Pectus excavatum,2230,Q67.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Kyphoscoliosis,",14.04.09,"Thoracic and/or mediastinal, Other",1570,Q67.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cleft lip or palate,",14.04.12,,,Q37,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Anterior chest wall (pectus) deformity,",14.04.14,,,Q67.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Migraine,",14.04.46,,,G43.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diver's decompression sickness,",14.04.47,,,T70.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Smoking: tobacco use,",14.04.70,,,Z72.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Hereditary disorder potentially with associated heart disease, Loeys-Dietz Syndrome (transforming growth factor beta receptor (TGFBR) gene mutation),",14.04.85,,,Q79.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Von Willebrand disease,",14.04.90,,,D68.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diabetes mellitus, Diabetes mellitus: requiring insulin,",14.04.94,,,E14,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diabetes mellitus, Diabetes mellitus: on oral therapy,",14.04.95,,,E14,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diabetes mellitus, Diabetes mellitus: managed with diet alone,",14.04.96,,,E14,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Maternal teratogen or disease potentially associated with congenital heart disease,",14.05.00,,,Q86.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Maternal teratogen associated with congenital heart disease,",14.05.01,,,Q86.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Maternally derived fetal disease or syndrome potentially with associated heart disease,",14.05.40,,,P96.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal infection,",14.05.41,,,P39.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Major anomaly of gastrointestinal system,",14.05.50,,,Q43.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Meningitis,",14.05.65,,,G03.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Multiple congenital malformations,",14.06.01,,,Q89.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal cardiac abnormality not detected,",14.10.00,,,,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality,",14.10.01,,,O35.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal hydrops,",14.10.02,,,P83.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal arrhythmia,",14.10.06,,,O35.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal unexplained right heart dominance,",14.10.07,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal echogenic focus ('golf ball'),",14.10.08,,,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Twin-to-twin transfusion syndrome,",14.10.11,,,P02.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Increased nuchal thickness,",14.10.12,,,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality,",14.10.25,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal venous Doppler flow(s) abnormal for gestational age,",14.10.26,,,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal progression of right ventricular outflow tract obstruction,",14.10.27,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal progression of left ventricular outflow tract obstruction,",14.10.28,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Intrauterine growth restriction (retardation),",14.10.34,,,P05.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal unexplained left heart dominance,",14.10.45,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal abnormal 4 chamber view,",14.10.52,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal abnormal great arterial view,",14.10.53,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal structural heart abnormality,",14.10.60,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal failure of right ventricular growth,",14.10.90,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal failure of left ventricular growth,",14.10.91,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal cardiomegaly,",14.10.95,"Cardiac, Other",1560,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal heart failure,",14.10.98,"Cardiac, Other",1560,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal heart failure due to extracardiac disease,",14.10.99,"Cardiac, Other",1560,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal arterial Doppler flow(s) abnormal for gestational age,",14.11.40,,,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal aortic arch flow abnormal for gestational age,",14.11.41,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal reversal of aortic arch blood flow for gestational age,",14.11.42,"Cardiac, Other",1560,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal ductal arch flow abnormal for gestational age,",14.11.43,,,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal echocardiographic abnormality, Fetal reversal of ductal arch blood flow for gestational age,",14.11.44,"Cardiac, Other",1560,O28.3,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal heart muscle abnormality,",14.11.80,,,I42.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal cardiomyopathy,",14.11.81,,,I42.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal ventricular dysfunction,",14.11.87,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Fetal abnormality, Fetal fluid retention,",14.12.20,,,P83.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormal fetal Cardiovascular Profile Score (Huhta),",14.13.52,"Cardiac, Other",1560,O28.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Superior caval vein (SVC) abnormality: acquired, Postprocedural superior caval vein (SVC) complication,",15.04.01,Systemic venous anomaly,270,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Inferior caval vein (IVC) abnormality - acquired, Postprocedural inferior caval vein (IVC) complication,",15.04.05,Systemic venous anomaly,270,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural major vein complication, Postprocedural femoral vein complication,",15.04.15,,,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural major vein complication,",15.04.34,Systemic venous anomaly,270,I87.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary venous abnormality: acquired, Postprocedural pulmonary vein complication,",15.05.01,"Cardiac, Other",1560,I28.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary venous abnormality: acquired, Pulmonary venous obstruction,",15.05.03,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right atrial abnormality: acquired,",15.10.10,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right atrial abnormality: acquired, Postprocedural right atrial complication,",15.10.11,,,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right atrial abnormality: acquired, Obstruction of right atrial conduit (including total cavopulmonary connection),",15.10.13,,,T82.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left atrial abnormality: acquired,",15.10.20,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left atrial abnormality: acquired, Postprocedural left atrial complication,",15.10.21,,,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality: acquired, Postprocedural atrial septum complication,",15.10.61,"Cardiac, Other",1560,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality: acquired, Residual interatrial communication ('ASD'),",15.10.63,,,Q21.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Ineffective balloon atrial septostomy,",15.10.66,,,I97.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrial septum abnormality: acquired, Postoperative interatrial communication,",15.10.79,"ASD, Postoperative interatrial communication",2150,I51.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality: acquired, Postprocedural tricuspid valvar complication,",15.11.00,,,I36.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality: acquired, Residual tricuspid regurgitation,",15.11.03,,,Q22.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tricuspid valvar abnormality: acquired, Tricuspid valvar prosthesis complication,",15.11.08,"Tricuspid valve, Other",410,T82.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Postprocedural mitral valvar complication,",15.12.00,,,I34.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Residual mitral valvar stenosis,",15.12.01,,,Q23.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Residual mitral regurgitation,",15.12.03,,,Q23.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mitral valvar abnormality: acquired, Mitral valvar prosthesis complication,",15.12.09,,,T82.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Residual common atrioventricular valvar regurgitation,",15.13.02,,,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Postprocedural right atrioventricular valvar complication,",15.14.00,,,I36.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Postprocedural left atrioventricular valvar complication,",15.15.00,,,I34.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural atrioventricular septal defect complication,",15.16.00,,,Q21.2,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural atrioventricular septal defect complication, Residual ventricular component of atrioventricular septal defect,",15.16.02,,,Q21.2,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular abnormality: acquired, Postprocedural right ventricular complication,",15.20.01,,,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural right ventricular outflow tract complication,",15.20.21,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular outflow tract obstruction: acquired, Residual right ventricular outflow tract obstruction,",15.20.23,,,Q24.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Right ventricular outflow tract obstruction: acquired, Aneurysm of right ventricular outflow tract patch,",15.20.25,,,T82.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subaortic stenosis: acquired, Residual subaortic stenosis in functionally univentricular heart,",15.20.75,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Subpulmonary stenosis: acquired, Residual subpulmonary stenosis in functionally univentricular heart,",15.20.76,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Left ventricular abnormality: acquired, Postprocedural left ventricular complication,",15.21.01,,,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural left ventricular outflow tract complication,",15.21.21,,,I51.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural left ventricular outflow tract complication, Residual left ventricular outflow tract obstruction,",15.21.22,,,Q24.8,,1,FALSE,FALSE,FALSE
+CELERMAJER2021,"Abnormality associated with ventricular septum: acquired, Residual ventricular septal defect (VSD),",15.22.02,,,Q21.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural systemic arterial complication,",15.24.00,,,I97.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Truncal valvar abnormality: acquired, Residual truncal regurgitation,",15.25.03,,,Q24.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Common arterial trunk (truncus) abnormality: acquired, Postprocedural common arterial trunk complication,",15.25.31,Truncus arteriosus,160,I97.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Postprocedural pulmonary valvar complication,",15.30.00,,,I37.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Residual pulmonary valvar stenosis,",15.30.01,"Pulmonary valve, Other",510,Q22.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Residual pulmonary regurgitation,",15.30.03,"Pulmonary valve, Other",510,Q22.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary valvar abnormality: acquired, Pulmonary valvar prosthesis complication,",15.30.08,,,T82.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Postprocedural pulmonary trunk complication,",15.32.01,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Postprocedural right pulmonary artery complication,",15.32.21,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Residual right pulmonary artery stenosis,",15.32.23,,,Q25.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Postprocedural left pulmonary artery complication,",15.32.41,,,I28.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary arterial disease: acquired, Residual left pulmonary artery stenosis,",15.32.43,,,Q25.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Postprocedural aortic valvar complication,",15.35.00,,,I35.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Residual aortic valvar stenosis,",15.35.01,"Aortic valve, Other",620,Q23.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Residual aortic regurgitation,",15.35.03,"Aortic valve, Other",620,Q23.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Aortic valvar abnormality: acquired, Aortic valvar prosthesis complication,",15.35.08,,,T82.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Postprocedural ascending aorta complication,",15.36.01,,,I77.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Postprocedural descending aorta complication,",15.37.01,,,I77.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Residual aortic coarctation,",15.37.05,Coarctation of aorta,990,Q25.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Postprocedural aneurysm of aorta at coarctation site,",15.37.07,Aortic aneurysm (including pseudoaneurysm),1110,I71.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Postprocedural aortic complication,",15.37.73,"Cardiac, Other",1560,I77.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Abnormality of aorta: acquired, Postprocedural aortic aneurysm,",15.37.80,"Cardiac, Other",1560,I71.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arterial duct (ductus arteriosus) abnormality: acquired, Postprocedural arterial duct complication,",15.39.01,Patent ductus arteriosus,1080,I77.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Arterial duct (ductus arteriosus) abnormality: acquired, Residual arterial duct (PDA) patency,",15.39.02,Patent ductus arteriosus,1080,Q25.0,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Postprocedural systemic-to-pulmonary collateral artery complication,",15.39.50,,,I77.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Postprocedural coronary arterial complication,",15.41.00,,,I77.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication after heart or lung transplant, Cardiac transplant associated coronary allograft vasculopathy,",15.41.13,"Coronary artery anomaly, Other",1050,I25.1,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired coronary arterial disease, Postprocedural coronary artery bypass graft (CABG) complication,",15.41.39,,,T82.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication following arrhythmia related procedure,",15.51.00,,,T81.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Cardiac conduit complication,",15.55.00,Conduit failure,520,T82.9,,0,FALSE,FALSE,FALSE
+CELERMAJER2021,"Cardiac conduit complication, Cardiac conduit failure,",15.55.16,Conduit failure,520,T82.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pulmonary autograft failure,",15.55.24,,,T82.8,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic-to-pulmonary arterial shunt complication,",15.56.00,,,T82.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic-to-pulmonary arterial shunt complication, Systemic-to-pulmonary arterial shunt partial obstruction,",15.56.01,,,T82.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic-to-pulmonary arterial shunt complication, Systemic-to-pulmonary arterial shunt complete obstruction,",15.56.02,,,T82.5,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Systemic-to-pulmonary arterial shunt failure,",15.56.21,,,T82.9,,1,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Kidney failure,",15.82.10,"Miscellaneous, Other",7777,N19,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pericardial abnormality: acquired, Pericardial effusion, Pericardial effusion requiring drainage,",15.83.00,,,I31.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"'Failed' Fontan type circulation,",15.90.60,,,T81.8,,1,FALSE,FALSE,TRUE
+Drt_sl_24aug2021,"Complication after heart or lung transplant,",15.95.00,,,I97.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication after heart or lung transplant, Lymphoproliferative disease following transplantation,",15.95.03,,,C88.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication after heart or lung transplant, Post-lung transplant obliterative bronchiolitis,",15.95.64,"Status post - Transplant, Lung(s)",1600,J44.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Complication after heart or lung transplant, Lung disease in lung transplant rejection,",15.95.66,"Status post - Transplant, Lung(s)",1600,T86.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pneumothorax,",16.01.01,Pneumothorax,1450,J93.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pleural effusion,",16.01.04,Pleural effusion,1460,J90,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Chylothorax,",16.01.07,,,J94.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Empyema,",16.01.11,,,J86,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pleural disease: benign,",16.01.21,"Pleural disease, Benign",1430,D15.7,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Pleural disease: malignant,",16.01.22,"Pleural disease, Malignant",1440,C38.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Bronchial fistula,",16.02.00,,,J86.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Lung disease: benign,",16.03.01,"Lung disease, Benign",1130,D14.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Lower respiratory tract infection,",16.03.02,,,J98.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Lung disease,",16.03.05,,,J98.4,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Asthma,",16.03.10,"Thoracic and/or mediastinal, Other",1570,J45.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Lung disease: malignant,",16.03.21,,,C34.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mediastinal disease: benign,",16.05.11,"Mediastinal disease, Benign",1510,D15.2,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mediastinal disease: malignant,",16.05.12,"Mediastinal disease, Malignant",1520,C38.3,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Mediastinal disease,",16.05.13,,,J98.5,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Acquired bronchial disease,",16.08.00,,,J98.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Airway disease,",16.09.00,,,J98.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tracheal stenosis,",16.10.01,Tracheal stenosis,1160,J39.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Tracheal disease,",16.10.09,"Airway disease, Other",1170,J39.8,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Thoracic outlet syndrome,",16.12.08,Thoracic outlet syndrome,2240,G54.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diaphragm disorder: acquired,",16.13.00,,,J98.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diaphragm paralysis,",16.13.20,Diaphragm paralysis,1540,J98.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Diaphragm disease,",16.15.09,"Diaphragm disease, Other",1550,J98.6,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Oesophageal disease: benign,",16.20.01,"Esophageal disease, Benign",1490,D13.0,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Oesophageal disease: malignant,",16.20.02,,,C15.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Oesophageal disorder,",16.20.10,"Thoracic and/or mediastinal, Other",1570,K22.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Respiratory failure,",16.30.01,"Thoracic and/or mediastinal, Other",1570,J96.9,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sternal tumour: benign,",16.40.33,,,D167,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sternal tumour: malignant,",16.40.34,,,C413,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Sternal tumour: metastatic,",16.40.35,,,C795,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rib tumour: benign,",16.40.51,"Rib tumor, Benign",2160,D167,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rib tumour: malignant,",16.40.52,"Rib tumor, Malignant",2170,C413,,0,FALSE,FALSE,FALSE
+Drt_sl_24aug2021,"Rib tumour: metastatic,",16.40.53,"Rib tumor, Metastatic",2180,C795,,0,FALSE,FALSE,FALSE

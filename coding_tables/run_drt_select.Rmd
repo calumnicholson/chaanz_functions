@@ -1,0 +1,79 @@
+---
+title: "Run drt.select"
+author: "Calum Nicholson"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+``` {r}
+# load the function to load the diagnosis reference table
+source("drt_select.R")
+```
+
+``` {r}
+# Run the complexity function
+drt.v1 <- drt.select_V1(drt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/")
+
+drt.v1.all <- drt.select_V1(drt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/",
+                            remove_misc = FALSE,
+                            remove_esc = FALSE,
+                            remove_sts = FALSE,
+                            remove_icd = FALSE)
+```
+
+``` {r}
+drt.v2 <- drt.select_V2(drt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/")
+
+drt.v2.all <- drt.select_V2(drt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/",
+                            remove_misc = FALSE,
+                            remove_genetic = FALSE,
+                            remove_rule = FALSE,
+                            remove_chd = FALSE)
+```
+
+``` {r}
+prt <- prt.select(prt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/")
+
+prt.all <- prt.select(prt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/drt/",
+                      remove_misc = FALSE,
+                      remove_sts = FALSE,
+                      remove_chd = FALSE,)
+```
+
+
+
+``` {r}
+prt_path = "G:/r-projects/r-projects/central/chaanz_functions/data/prt/"
+filename = "PRT_CHAANZ_20230718.csv"
+remove_misc = TRUE
+remove_sts = FALSE
+remove_chd = FALSE
+```
+
+``` {r}
+x <- read_csv(paste0(prt_path, filename), col_types = cols(.default = "c")) %>%
+              select("epcc_code" = IPCCC_CODE_R, 
+                     "epcc_name" = PROCEDURE_IPCCC_R,
+                     "sts_code" = STS_CODE_R,
+                     "sts_name" = PROCEDURE_STS_R,
+                     "chd" = PROC_ELIGIBILITY,
+                     "CHAANZ_source" = CHAANZ_SOURCE) %>% {
+                       if(remove_misc) {select(., -CHAANZ_source)} else {.}
+                     } %>% {
+                       if(remove_sts) {select(., -sts_code, -sts_name)} else {.}
+                     }   %>% {
+                       if(remove_chd) {select(., -chd)} else {.}
+                     } 
+```
+
+
+
+
+
+
+

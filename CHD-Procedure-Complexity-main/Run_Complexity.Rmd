@@ -1,0 +1,27 @@
+---
+title: "Run CHD Complexity Algorithm"
+author: "Jason Chami"
+date: '2023-12-23'
+output: html_document
+---
+
+``` {r}
+# load the function to calculate complexity
+source("complexity_procedure.R")
+
+# Run the complexity function
+esc.complexity.procedure(
+  patient.diagnosis = readr::read_csv("diagnosis_example.csv", show_col_types = FALSE),
+  patient.procedures = readr::read_csv("procedure_example.csv", show_col_types = FALSE),
+  complexity.reference = readr::read_csv("DiagnosisReferenceTable.csv", show_col_types = FALSE),
+  implied.reference = readr::read_csv("ImpliedDiagnosisTable.csv", show_col_types = FALSE))
+```
+
+
+
+
+
+
+
+
+

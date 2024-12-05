@@ -1,0 +1,28 @@
+block,ascii_desc,ascii_short_desc,effective_from,inactive,ascii_desc_change,ascii_short_desc_change,Status
+1339,"Assisted breech delivery and extraction, and assisted vertex delivery",Asst breech & extraction & vertex delv,1/7/1998,,1,1,UPDATED
+1381,Immobilisation of spine,Immobilisation of spine,1/7/1998,,1,1,UPDATED
+1387,Closed reduction of spine,Closed reduction of spine,1/7/1998,,1,1,UPDATED
+1388,Open reduction of spine,Open reduction of spine,1/7/1998,,1,1,UPDATED
+1479,Reduction and fixation of fracture of pelvis or femur,"Rdctn & fixation fracture pelvis / femur",1/7/1998,,1,1,UPDATED
+1523,Revision of arthroplasty of knee with bone graft to femur or tibia,"Rev arthroply knee bone graft femr / tib",1/7/1998,,1,1,UPDATED
+1570,En bloc resection of lesion of bone or total resection of bone with repair of other musculoskeletal sites,En bloc resec bne lsn tot bne resec rep,1/7/1998,,1,1,UPDATED
+1880,"Therapies using agents or devices, not elsewhere classified","Therapies using agents / devices NEC",1/7/1998,,1,1,UPDATED
+1924,Cell therapies,Cell therapies,1/7/2022,,0,0,NEW
+1925,Gene therapies,Gene therapies,1/7/2022,,0,0,NEW
+1969,"Radiography of spine, 2 or more regions",Radiography of spine 2 or more regions,1/7/1998,,1,1,UPDATED
+1992,Digital subtraction angiography of head and neck,DSA of head and neck,1/7/1998,,1,1,UPDATED
+42,"Insertion, removal and revision of spinal cerebrospinal fluid shunt","Insertion R/O & rev spinal CSF shunt",1/7/1998,,1,1,UPDATED
+454,Topical application of remineralisation or cariostatic agent,Top applicn remnrlstn or cariostatic agt,1/7/1998,,1,1,UPDATED
+46,Decompression of spinal cord or canal,"Decompression of spinal cord / canal",1/7/1998,,1,1,UPDATED
+52,Discectomy,Discectomy,1/7/1998,,1,1,UPDATED
+544,"Biopsy, broncho-alveolar lavage or removal of foreign body from bronchus","Bx, brch-alv lav or R/O FB",1/7/1998,,1,1,UPDATED
+648,Insertion of permanent transvenous electrode for subcutaneous cardiac pacemaker or defibrillator,"Ins perm trnsven elec sbc card / defib",1/7/1998,,1,1,UPDATED
+649,Insertion of other electrode or patch for subcutaneous cardiac pacemaker or defibrillator,"Ins oth elec / ptch f sbc pcmkr / defib",1/7/1998,,1,1,UPDATED
+711,Arterial bypass [grafting] using vein,Arterial bypass grafting using vein,1/7/1998,,1,1,UPDATED
+712,Arterial bypass [grafting] using synthetic material,Arterial byps gft usg synthc material,1/7/1998,,1,1,UPDATED
+713,"Arterial bypass [grafting] using composite, sequential or crossover graft","Art byps gft usg compst seqtl/c'over gft",1/7/1998,,1,0,UPDATED
+717,Repair procedures on pulmonary artery,Repair procedures on pulmonary artery,1/7/1998,,1,1,UPDATED
+735,Venous bypass [grafting] using vein or synthetic material,Venous byps gft usg vein synthc matrl,1/7/1998,,1,1,UPDATED
+820,Haematopoietic stem cell transplantation,Haematopoietic stem cell transplantation,1/7/2022,,0,0,NEW
+8888,Provisional assignment of new or emerging health technologies,Prov assign new emerging hlth technology,1/7/2022,,0,0,NEW
+8889,Provisional assignment of emergency use interventions,Prov assign emergency use intervention,1/7/2022,,0,0,NEW

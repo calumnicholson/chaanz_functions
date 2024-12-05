@@ -1,0 +1,579 @@
+code_id,code_id_clean,aust_code,ascii_desc,ascii_short_desc,effective_from,inactive,reactivated,aust_code_change,ascii_desc_change,ascii_short_desc_change,Status
+"M8005/0",M80050,0,Clear cell tumour NOS,Clear cell tumour NOS,1/7/2002,,,0,1,1,UPDATED
+"M8023/3",M80233,0,Nuclear protein in testis [NUT] associated carcinoma,Nuclear protein in testis associated ca,1/7/2022,,,0,0,0,NEW
+"M8023/6",M80236,1,"Nuclear protein in testis [NUT] associated carcinoma, metastatic",Nuclear protein in testis ass ca met,1/7/2022,,,0,0,0,NEW
+"M8023/9",M80239,1,"Nuclear protein in testis [NUT] associated carcinoma, uncertain whether primary or metastatic","Nuclear protein in testis ass ca up/m",1/7/2022,,,0,0,0,NEW
+"M8045/2",M80452,1,"Combined small cell carcinoma, in situ",Combined small cell carcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8045/3",M80453,0,Combined small cell carcinoma,Combined small cell carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8045/6",M80456,1,"Combined small cell carcinoma, metastatic",Combined small cell carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8045/9",M80459,1,"Combined small cell carcinoma, uncertain whether primary or metastatic","Combined small cell carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8052/2",M80522,0,"Papillary squamous cell carcinoma, noninvasive",Papilry SCC noninvasive,1/7/2002,,,0,1,1,UPDATED
+"M8054/0",M80540,0,Warty dyskeratoma,Warty dyskeratoma,1/7/2022,,,0,0,0,NEW
+"M8054/3",M80543,0,Warty carcinoma,Warty carcinoma,1/7/2022,,,0,0,0,NEW
+"M8054/6",M80546,1,"Warty carcinoma, metastatic",Warty carcinoma metastatic,1/7/2022,,,0,0,0,NEW
+"M8054/9",M80549,1,"Warty carcinoma, uncertain whether primary or metastatic","Warty carcinoma up/m",1/7/2022,,,0,0,0,NEW
+"M8070/0",M80700,0,Actinic keratosis,Actinic keratosis,1/7/2000,1/7/2002,1/7/2022,0,1,1,REACTIVATED
+"M8071/2",M80712,0,Differentiated intraepithelial neoplasia,Differentiated intraepithelial neoplasia,1/7/2002,,,1,1,1,UPDATED
+"M8072/0",M80720,0,Large cell acanthoma,Large cell acanthoma,1/7/2022,,,0,0,0,NEW
+"M8084/0",M80840,0,Clear cell acanthoma,Clear cell acanthoma,1/7/2022,,,0,0,0,NEW
+"M8085/3",M80853,0,"Squamous cell carcinoma, HPV positive",Squamous cell carcinoma HPV positive,1/7/2022,,,0,0,0,NEW
+"M8085/6",M80856,1,"Squamous cell carcinoma, HPV positive, metastatic",Squamous cell carcinoma HPV positive met,1/7/2022,,,0,0,0,NEW
+"M8085/9",M80859,1,"Squamous cell carcinoma, HPV positive, uncertain whether primary or metastatic","Squamous cell ca HPV positive up/m",1/7/2022,,,0,0,0,NEW
+"M8086/3",M80863,0,"Squamous cell carcinoma, HPV negative",Squamous cell carcinoma HPV negative,1/7/2022,,,0,0,0,NEW
+"M8086/6",M80866,1,"Squamous cell carcinoma, HPV negative, metastatic",Squamous cell carcinoma HPV negative met,1/7/2022,,,0,0,0,NEW
+"M8086/9",M80869,1,"Squamous cell carcinoma, HPV negative, uncertain whether primary or metastatic","Squamous cell ca HPV negative up/m",1/7/2022,,,0,0,0,NEW
+"M8091/2",M80912,1,"Superficial basal cell carcinoma, in situ",Superficial basal cell carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8091/3",M80913,0,Superficial basal cell carcinoma,Superficial basal cell carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8091/6",M80916,1,"Superficial basal cell carcinoma, metastatic",Superficial basal cell carcinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8091/9",M80919,1,"Superficial basal cell carcinoma, uncertain whether primary or metastatic","Superficial basal cell carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8100/3",M81003,0,Trichoblastic carcinoma,Trichoblastic carcinoma,1/7/2002,,,1,1,1,UPDATED
+"M8100/6",M81006,1,"Trichoblastic carcinoma, metastatic",Trichoblastic carcinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8100/9",M81009,1,"Trichoblastic carcinoma, uncertain whether primary or metastatic","Trichoblastic carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8103/1",M81031,0,Proliferating trichilemmal cyst,Proliferating trichilemmal cyst,1/7/2002,,,1,1,1,UPDATED
+"M8103/2",M81032,1,"Proliferating trichilemmal tumour, in situ",Proliferating trichilemmal tumour insit,1/7/2013,,,0,1,1,UPDATED
+"M8103/3",M81033,1,"Proliferating trichilemmal tumour, malignant",Proliferating trichilemmal tumour malg,1/7/2002,,,0,1,1,UPDATED
+"M8103/6",M81036,1,"Proliferating trichilemmal tumour, malignant, metastatic",Proliferating trichilemmal tumour met,1/7/2002,,,0,1,1,UPDATED
+"M8103/9",M81039,1,"Proliferating trichilemmal tumour, malignant, uncertain whether primary or metastatic","Proliferating trichilemmal tumour up/m",1/7/2002,,,0,1,1,UPDATED
+"M8104/0",M81040,0,Pilar sheath acanthoma,Pilar sheath acanthoma,1/7/2022,,,0,0,0,NEW
+"M8110/0",M81100,0,Pilomatricoma NOS,Pilomatricoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8110/1",M81101,1,"Pilomatricoma, uncertain whether benign or malignant","Pilomatricoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8110/2",M81102,1,"Pilomatrical carcinoma, in situ",Pilomatrical carcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8110/3",M81103,0,Pilomatrical carcinoma,Pilomatrical carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8110/6",M81106,1,"Pilomatrical carcinoma, metastatic",Pilomatrical carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8110/9",M81109,1,"Pilomatrical carcinoma, uncertain whether primary or metastatic","Pilomatrical carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8120/0",M81200,0,Urothelial papilloma NOS,Urothelial papilloma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8120/2",M81202,0,Urothelial carcinoma in situ,Urothelial carcinoma in situ,1/7/1998,,,0,1,1,UPDATED
+"M8121/0",M81210,0,"Sinonasal papilloma, exophytic",Sinonasal papilloma exophytic,1/7/1998,,,0,1,1,UPDATED
+"M8121/1",M81211,0,"Sinonasal papilloma, inverted",Sinonasal papilloma inverted,1/7/1998,,,0,1,1,UPDATED
+"M8122/1",M81221,1,"Urothelial carcinoma, sarcomatoid, uncertain whether benign or malignant","Urothelial carcinoma sarcomatoid ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8122/2",M81222,1,"Urothelial carcinoma, sarcomatoid, in situ",Urothelial carcinoma sarcomatoid in situ,1/7/2013,,,0,1,1,UPDATED
+"M8122/3",M81223,0,"Urothelial carcinoma, sarcomatoid",Urothelial carcinoma sarcomatoid,1/7/1998,,,0,1,1,UPDATED
+"M8122/6",M81226,1,"Urothelial carcinoma, sarcomatoid, metastatic",Urothelial carcinoma sarcomatoid met,1/7/2002,,,0,1,1,UPDATED
+"M8122/9",M81229,1,"Urothelial carcinoma, sarcomatoid, uncertain whether primary or metastatic","Urothelial carcinoma sarcomatoid up/m",1/7/2002,,,0,1,1,UPDATED
+"M8130/0",M81300,1,Papillary urothelial cell neoplasm,Papillary urothelial cell neoplasm,1/7/2002,,,0,1,1,UPDATED
+"M8130/1",M81301,0,Papillary urothelial neoplasm of low malignant potential,Papillary urothelial neoplm low malg p,1/7/2002,,,0,1,1,UPDATED
+"M8130/2",M81302,0,"Papillary urothelial carcinoma, noninvasive",Papillary urothelial ca noninvasive,1/7/2002,,,0,1,1,UPDATED
+"M8130/3",M81303,0,Papillary urothelial carcinoma,Papillary urothelial carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8130/6",M81306,1,"Papillary urothelial carcinoma, metastatic",Papillary urothelial carcinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8130/9",M81309,1,"Papillary urothelial carcinoma, uncertain whether primary or metastatic","Papillary urothelial carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8131/2",M81312,1,"Urothelial carcinoma, micropapillary, in situ",Urothelial ca micropapillary in situ,1/7/2002,,,0,1,1,UPDATED
+"M8131/3",M81313,0,"Urothelial carcinoma, micropapillary",Urothelial carcinoma micropapillary,1/7/2002,,,0,1,1,UPDATED
+"M8131/6",M81316,1,"Urothelial carcinoma, micropapillary, metastatic",Urothelial ca micropapillary metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8131/9",M81319,1,"Urothelial carcinoma, micropapillary, uncertain whether primary or metastatic","Urothelial carcinoma micropapillary up/m",1/7/2002,,,0,1,1,UPDATED
+"M8144/0",M81440,0,"Adenoma, intestinal type",Adenoma intestinal type,1/7/2022,,,0,0,0,NEW
+"M8150/0",M81500,0,Pancreatic neuroendocrine microadenoma,Pancreatic neuroendocrine microadenoma,1/7/1998,,,0,1,1,UPDATED
+"M8150/2",M81502,1,"Pancreatic neuroendocrine tumour, in situ",Pancreatic neuroendo tum in situ,1/7/2013,,,0,1,1,UPDATED
+"M8150/3",M81503,0,"Pancreatic neuroendocrine tumour, nonfunctioning",Pancreatic neuroendo tum nonfunctioning,1/7/1998,,,0,1,1,UPDATED
+"M8150/6",M81506,1,"Pancreatic neuroendocrine tumour, nonfunctioning, metastatic",Pancr neuroendo tum nonfunctioning met,1/7/2002,,,0,1,1,UPDATED
+"M8150/9",M81509,1,"Pancreatic neuroendocrine tumour, nonfunctioning, uncertain whether primary or metastatic","Pancr neuroendo tum nonfunctioning up/m",1/7/2002,,,0,1,1,UPDATED
+"M8151/3",M81513,0,Insulinoma NOS,Insulinoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8151/6",M81516,1,"Insulinoma NOS, metastatic",Insulinoma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8151/9",M81519,1,"Insulinoma NOS, uncertain whether primary or metastatic","Insulinoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8152/3",M81523,0,Glucagonoma,Glucagonoma,1/7/1998,,,0,1,1,UPDATED
+"M8152/6",M81526,1,"Glucagonoma, metastatic",Glucagonoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8152/9",M81529,1,"Glucagonoma, uncertain whether primary or metastatic","Glucagonoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8153/3",M81533,0,Gastrinoma,Gastrinoma,1/7/1998,,,0,1,1,UPDATED
+"M8153/6",M81536,1,"Gastrinoma, metastatic",Gastrinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8153/9",M81539,1,"Gastrinoma, uncertain whether primary or metastatic","Gastrinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8154/1",M81541,1,"Mixed neuroendocrine non-neuroendocrine neoplasm [MiNEN], uncertain whether benign or malignant","Mx neuroendo non neuroendo neoplm ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8154/2",M81542,1,"Mixed neuroendocrine non-neuroendocrine neoplasm [MiNEN], in situ",Mx neuroendo non neuroendo neoplm insit,1/7/2013,,,0,1,1,UPDATED
+"M8154/3",M81543,0,Mixed neuroendocrine non-neuroendocrine neoplasm [MiNEN],Mixed neuroendo non neuroendo neoplm,1/7/1998,,,0,1,1,UPDATED
+"M8154/6",M81546,1,"Mixed neuroendocrine non-neuroendocrine neoplasm [MiNEN], metastatic",Mx neuroendo non neuroendo neoplm met,1/7/2002,,,0,1,1,UPDATED
+"M8154/9",M81549,1,"Mixed neuroendocrine non-neuroendocrine neoplasm [MiNEN], uncertain whether primary or metastatic","Mx neuroendo non neuroendo neoplm up/m",1/7/2002,,,0,1,1,UPDATED
+"M8155/3",M81553,0,Vipoma,Vipoma,1/7/1998,,,0,1,1,UPDATED
+"M8155/6",M81556,1,"Vipoma, metastatic",Vipoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8155/9",M81559,1,"Vipoma, uncertain whether primary or metastatic","Vipoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8156/3",M81563,0,Somatostatinoma,Somatostatinoma,1/7/2002,,,0,1,1,UPDATED
+"M8156/6",M81566,1,"Somatostatinoma, metastatic",Somatostatinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8156/9",M81569,1,"Somatostatinoma, uncertain whether primary or metastatic","Somatostatinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8158/3",M81583,0,ACTH-producing tumour,ACTH producing tumour,1/7/2022,,,0,0,0,NEW
+"M8158/6",M81586,1,"ACTH-producing tumour, metastatic",ACTH producing tumour metastatic,1/7/2022,,,0,0,0,NEW
+"M8158/9",M81589,1,"ACTH-producing tumour, uncertain whether primary or metastatic","ACTH producing tumour up/m",1/7/2022,,,0,0,0,NEW
+"M8162/2",M81622,1,"Perihilar cholangiocarcinoma, in situ",Perihilar cholangiocarcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8162/3",M81623,0,Perihilar cholangiocarcinoma,Perihilar cholangiocarcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8162/6",M81626,1,"Perihilar cholangiocarcinoma, metastatic",Perihilar cholangiocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8162/9",M81629,1,"Perihilar cholangiocarcinoma, malignant, uncertain whether primary or metastatic","Perihilar cholangiocarcinoma malg up/m",1/7/2002,,,0,1,1,UPDATED
+"M8240/2",M82402,1,"Neuroendocrine tumour, in situ",Neuroendocrine tumour in situ,1/7/2013,,,0,1,1,UPDATED
+"M8240/3",M82403,0,Neuroendocrine tumour NOS,Neuroendocrine tumour NOS,1/7/1998,,,0,1,1,UPDATED
+"M8240/6",M82406,1,"Neuroendocrine tumour NOS, metastatic",Neuroendocrine tumour NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8240/9",M82409,1,"Neuroendocrine tumour NOS, uncertain whether primary or metastatic","Neuroendocrine tumour NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8242/3",M82423,0,Enterochromaffin-like cell tumour,Enterochromaffin-like cell tum,1/7/2002,,,0,1,1,UPDATED
+"M8249/2",M82492,1,"Neuroendocrine tumour, grade 2, in situ",Neuroendocrine tumour grade 2 in situ,1/7/2013,,,0,1,1,UPDATED
+"M8249/3",M82493,0,"Neuroendocrine tumour, grade 2",Neuroendocrine tumour grade 2,1/7/2002,,,0,1,1,UPDATED
+"M8249/6",M82496,1,"Neuroendocrine tumour, grade 2, metastatic",Neuroendocrine tum grade 2 metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8249/9",M82499,1,"Neuroendocrine tumour, grade 2, malignant, uncertain whether primary or metastatic","Neuroendocrine tum grade 2 malg up/m",1/7/2002,,,0,1,1,UPDATED
+"M8250/0",M82500,0,Atypical adenomatous hyperplasia,Atypical adenomatous hyperplasia,1/7/2022,,,0,0,0,NEW
+"M8250/2",M82502,0,"Adenocarcinoma in situ of lung, nonmucinous",Adenocarcinoma in situ lung nonmucinous,1/7/2013,,,1,1,1,UPDATED
+"M8250/3",M82503,0,Lepidic adenocarcinoma,Lepidic adenocarcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8250/6",M82506,1,"Lepidic adenocarcinoma, metastatic",Lepidic adenocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8250/9",M82509,1,"Lepidic adenocarcinoma, uncertain whether primary or metastatic","Lepidic adenocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8253/2",M82532,0,"Adenocarcinoma in situ of lung, mucinous",Adenocarcinoma in situ of lung mucinous,1/7/2002,,,1,1,1,UPDATED
+"M8253/3",M82533,0,"Adenocarcinoma of lung, mucinous",Adenocarcinoma of lung mucinous,1/7/2002,,,0,1,1,UPDATED
+"M8253/6",M82536,1,"Adenocarcinoma of lung, mucinous, metastatic",Adenocarcinoma of lung mucinous met,1/7/2002,,,0,1,1,UPDATED
+"M8253/9",M82539,1,"Adenocarcinoma of lung, mucinous, uncertain whether primary or metastatic","Adenocarcinoma of lung mucinous up/m",1/7/2002,,,0,1,1,UPDATED
+"M8254/2",M82542,1,"Adenocarcinoma of lung, mixed mucinous and nonmucinous, in situ",Adenoca lung mx mucins nonmucinous insit,1/7/2002,,,0,1,1,UPDATED
+"M8254/3",M82543,0,"Adenocarcinoma of lung, mixed mucinous and nonmucinous",Adenoca lung mixed mucinous & nmucins,1/7/2002,,,0,1,1,UPDATED
+"M8254/6",M82546,1,"Adenocarcinoma of lung, mixed mucinous and nonmucinous, metastatic",Adenoca lung mx mucins & nonmucinous met,1/7/2002,,,0,1,1,UPDATED
+"M8254/9",M82549,1,"Adenocarcinoma of lung, mixed mucinous and nonmucinous, uncertain whether primary or metastatic","Adenoca lung mx mucins & nmucins up/m",1/7/2002,,,0,1,1,UPDATED
+"M8256/3",M82563,0,"Minimally invasive adenocarcinoma, nonmucinous",Minimally invasive adenoca nonmucinous,1/7/2022,,,0,0,0,NEW
+"M8256/6",M82566,1,"Minimally invasive adenocarcinoma, nonmucinous, metastatic",Minimally invas adenoca nonmucinous met,1/7/2022,,,0,0,0,NEW
+"M8256/9",M82569,1,"Minimally invasive adenocarcinoma, nonmucinous, uncertain whether primary or metastatic","Minimally invas adenoca nonmucinous up/m",1/7/2022,,,0,0,0,NEW
+"M8257/3",M82573,0,"Minimally invasive adenocarcinoma, mucinous",Minimally invasive adenoca mucinous,1/7/2022,,,0,0,0,NEW
+"M8257/6",M82576,1,"Minimally invasive adenocarcinoma, mucinous, metastatic",Minimally invas adenoca mucinous met,1/7/2022,,,0,0,0,NEW
+"M8257/9",M82579,1,"Minimally invasive adenocarcinoma, mucinous, uncertain whether primary or metastatic","Minimally invas adenoca mucinous up/m",1/7/2022,,,0,0,0,NEW
+"M8260/1",M82601,0,Aggressive papillary tumour,Aggressive papillary tumour,1/7/2002,,,1,1,1,UPDATED
+"M8271/0",M82710,0,Lactotroph adenoma,Lactotroph adenoma,1/7/1998,,,0,1,1,UPDATED
+"M8271/2",M82712,1,"Lactotroph adenoma, in situ",Lactotroph adenoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8271/3",M82713,1,"Lactotroph adenoma, malignant",Lactotroph adenoma malignant,1/7/2004,,,0,1,1,UPDATED
+"M8271/6",M82716,1,"Lactotroph adenoma, malignant, metastatic","Lactotroph adenoma malignant, metastatic",1/7/2004,,,0,1,1,UPDATED
+"M8271/9",M82719,1,"Lactotroph adenoma, uncertain whether primary or metastatic","Lactotroph adenoma up/m",1/7/2013,,,0,1,1,UPDATED
+"M8273/3",M82733,0,Pituitary blastoma,Pituitary blastoma,1/7/2022,,,0,0,0,NEW
+"M8273/6",M82736,1,"Pituitary blastoma, metastatic",Pituitary blastoma metastatic,1/7/2022,,,0,0,0,NEW
+"M8273/9",M82739,1,"Pituitary blastoma, uncertain whether primary or metastatic","Pituitary blastoma up/m",1/7/2022,,,0,0,0,NEW
+"M8311/3",M83113,0,Hereditary leiomyomatosis and renal cell carcinoma [HLRCC] syndrome-associated renal cell carcinoma,HLRCC syndrome associated RCC,1/7/2013,,,1,1,1,UPDATED
+"M8311/6",M83116,1,"Hereditary leiomyomatosis and renal cell carcinoma [HLRCC] syndrome-associated renal cell carcinoma, metastatic",HLRCC syndrome associated RCC met,1/7/2013,,,0,1,1,UPDATED
+"M8311/9",M83119,1,"Hereditary leiomyomatosis and renal cell carcinoma [HLRCC] syndrome-associated renal cell carcinoma, uncertain whether primary or metastatic","HLRCC syndrome associated RCC up/m",1/7/2013,,,0,1,1,UPDATED
+"M8313/1",M83131,0,Clear cell borderline tumour,Clear cell borderline tumour,1/7/2002,,,0,1,1,UPDATED
+"M8316/1",M83161,0,Multilocular cystic renal neoplasm of low malignant potential,Multilocular cystic ren neoplm low malg,1/7/2002,,,1,1,1,UPDATED
+"M8323/1",M83231,0,Clear cell papillary renal cell carcinoma,Clear cell papillary renal cell ca,1/7/2002,,,1,1,1,UPDATED
+"M8330/0",M83300,0,Follicular adenoma NOS,Follicular adenoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8330/2",M83302,1,"Follicular carcinoma, in situ",Follicular carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8330/3",M83303,0,Follicular carcinoma NOS,Follicular carcinoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8330/6",M83306,1,"Follicular carcinoma NOS, metastatic",Follicular carcinoma NOS met,1/7/2002,,,0,1,1,UPDATED
+"M8330/9",M83309,1,"Follicular carcinoma NOS, uncertain whether primary or metastatic","Follicular carcinoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8335/1",M83351,0,Follicular tumour of uncertain malignant potential,Follicular tum uncertain malg potential,1/7/2022,,,0,0,0,NEW
+"M8336/1",M83361,0,Hyalinising trabecular tumour,Hyalinising trabecular tumour,1/7/2002,,,1,1,1,UPDATED
+"M8337/1",M83371,1,"Poorly differentiated thyroid tumour, uncertain whether benign or malignant","Poorly differentiated thyroid tum ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8337/2",M83372,1,"Poorly differentiated thyroid carcinoma, in situ",Poorly differentiated thyroid ca in situ,1/7/2002,,,0,1,1,UPDATED
+"M8337/3",M83373,0,Poorly differentiated thyroid carcinoma,Poorly differentiated thyroid ca,1/7/2002,,,0,1,1,UPDATED
+"M8337/6",M83376,1,"Poorly differentiated thyroid carcinoma, metastatic",Poorly differentiated thyroid ca met,1/7/2002,,,0,1,1,UPDATED
+"M8337/9",M83379,1,"Poorly differentiated thyroid carcinoma, uncertain whether primary or metastatic","Poorly differentiated thyroid ca up/m",1/7/2002,,,0,1,1,UPDATED
+"M8339/3",M83393,0,"Follicular carcinoma, encapsulated, angioinvasive",Fol ca encapsulated angioinvasive,1/7/2022,,,0,0,0,NEW
+"M8339/6",M83396,1,"Follicular carcinoma, encapsulated, angioinvasive, metastatic",Fol ca encapsulated angioinvasive met,1/7/2022,,,0,0,0,NEW
+"M8339/9",M83399,1,"Follicular carcinoma, encapsulated, angioinvasive, uncertain whether primary or metastatic","Fol ca encapsulated angioinvasive up/m",1/7/2022,,,0,0,0,NEW
+"M8342/1",M83421,1,"Papillary tumour, oncocytic variant uncertain whether benign or malignant","Papillary tumour oncocytic variant ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8342/2",M83422,1,"Papillary carcinoma, oncocytic variant, in situ",Papillary ca oncocytic variant in situ,1/7/2002,,,0,1,1,UPDATED
+"M8342/3",M83423,0,"Papillary carcinoma, oncocytic variant",Papillary carcinoma oncocytic variant,1/7/2002,,,0,1,1,UPDATED
+"M8342/6",M83426,1,"Papillary carcinoma, oncocytic variant, metastatic",Papillary ca oncocytic variant met,1/7/2002,,,0,1,1,UPDATED
+"M8342/9",M83429,1,"Papillary carcinoma, oncocytic variant, uncertain whether primary or metastatic","Papillary ca oncocytic variant up/m",1/7/2002,,,0,1,1,UPDATED
+"M8343/1",M83431,1,"Papillary tumour, encapsulated, of thyroid, uncertain whether benign or malignant","Papilry tum encapsulated of thyroid ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8343/2",M83432,1,"Papillary carcinoma, encapsulated, of thyroid, in situ",Papilry ca encapsulated of thyroid insit,1/7/2002,,,0,1,1,UPDATED
+"M8343/3",M83433,0,"Papillary carcinoma, encapsulated, of thyroid",Papilry ca encapsulated of thyroid,1/7/2002,,,0,1,1,UPDATED
+"M8343/6",M83436,1,"Papillary carcinoma, encapsulated, of thyroid, metastatic",Papilry ca encapsulated of thyroid met,1/7/2002,,,0,1,1,UPDATED
+"M8343/9",M83439,1,"Papillary carcinoma, encapsulated, of thyroid, uncertain whether primary or metastatic","Papilry ca encapsulated of thyroid up/m",1/7/2002,,,0,1,1,UPDATED
+"M8345/1",M83451,1,"Medullary thyroid tumour, uncertain whether benign or malignant","Medullary thyroid tumour ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8345/2",M83452,1,"Medullary thyroid carcinoma, in situ",Medullary thyroid carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8345/3",M83453,0,Medullary thyroid carcinoma,Medullary thyroid carcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8345/6",M83456,1,"Medullary thyroid carcinoma, metastatic",Medullary thyroid carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8345/9",M83459,1,"Medullary thyroid carcinoma, uncertain whether primary or metastatic","Medullary thyroid carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8348/1",M83481,0,Well differentiated tumour of uncertain malignant potential,Well differd tum uncrt malg potential,1/7/2022,,,0,0,0,NEW
+"M8349/1",M83491,0,Noninvasive follicular thyroid neoplasm with papillary-like nuclear features [NIFTP],NIFTP,1/7/2022,,,0,0,0,NEW
+"M8380/2",M83802,0,Endometrioid intraepithelial neoplasia,Endometrioid intraepithelial neoplasia,1/7/2002,,,1,1,1,UPDATED
+"M8390/2",M83902,1,"Adnexal adenocarcinoma, in situ",Adnexal adenocarcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8390/3",M83903,0,Adnexal adenocarcinoma NOS,Adnexal adenocarcinoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8390/6",M83906,1,"Adnexal adenocarcinoma, metastatic",Adnexal adenocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8390/9",M83909,1,"Adnexal adenocarcinoma, uncertain whether primary or metastatic","Adnexal adenocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8402/0",M84020,0,Hidradenoma NOS,Hidradenoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8402/1",M84021,1,"Hidradenoma, uncertain whether benign or malignant","Hidradenoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8402/2",M84022,1,"Hidradenocarcinoma, in situ",Hidradenocarcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8402/3",M84023,0,Hidradenocarcinoma,Hidradenocarcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8402/6",M84026,1,"Hidradenocarcinoma, metastatic",Hidradenocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8402/9",M84029,1,"Hidradenocarcinoma, uncertain whether primary or metastatic","Hidradenocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8403/0",M84030,0,Spiradenoma NOS,Spiradenoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8403/1",M84031,1,"Spiradenoma, uncertain whether benign or malignant","Spiradenoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8406/0",M84060,0,Syringocystadenoma papilliferum,Syringocystadenoma papilliferum,1/7/1998,,,0,1,1,UPDATED
+"M8406/1",M84061,1,"Syringocystadenoma papilliferum, uncertain whether benign or malignant","Syringocystadenoma papilliferum ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8406/3",M84063,0,Syringocystadenocarcinoma papilliferum,Syringocystadenocarcinoma papilliferum,1/7/2022,,,0,0,0,NEW
+"M8406/6",M84066,1,"Syringocystadenocarcinoma papilliferum, metastatic",Syrngcystadca papilliferum met,1/7/2022,,,0,0,0,NEW
+"M8406/9",M84069,1,"Syringocystadenocarcinoma papilliferum, uncertain whether primary or metastatic","Syrngcystadca papilliferum up/m",1/7/2022,,,0,0,0,NEW
+"M8407/3",M84073,0,Microcystic adnexal carcinoma,Microcystic adnexal carcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8407/6",M84076,1,"Microcystic adnexal carcinoma, metastatic",Microcystic adnexal carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8407/9",M84079,1,"Microcystic adnexal carcinoma, uncertain whether primary or metastatic","Microcystic adnexal carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8408/2",M84082,1,"Digital papillary adenocarcinoma, in situ",Digital papillary adenocarcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8408/3",M84083,0,Digital papillary adenocarcinoma,Digital papillary adenocarcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8408/6",M84086,1,"Digital papillary adenocarcinoma, metastatic",Digital papillary adenocarcinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8408/9",M84089,1,"Digital papillary adenocarcinoma, uncertain whether primary or metastatic","Digital papillary adenocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8409/0",M84090,0,Poroma NOS,Poroma NOS,1/7/2002,,,0,1,1,UPDATED
+"M8409/1",M84091,1,"Poroma, uncertain whether benign or malignant","Poroma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8409/2",M84092,0,"Porocarcinoma, in situ",Porocarcinoma in situ,1/7/2013,,,1,1,1,UPDATED
+"M8409/3",M84093,0,Porocarcinoma NOS,Porocarcinoma NOS,1/7/2002,,,0,1,1,UPDATED
+"M8409/6",M84096,1,"Porocarcinoma, metastatic",Porocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8409/9",M84099,1,"Porocarcinoma, uncertain whether primary or metastatic","Porocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8410/0",M84100,0,Sebaceoma,Sebaceoma,1/7/1998,,,0,1,1,UPDATED
+"M8410/1",M84101,1,"Sebaceoma, uncertain whether benign or malignant","Sebaceoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8410/2",M84102,1,"Sebaceous carcinoma, in situ",Sebaceous carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8410/3",M84103,0,Sebaceous carcinoma,Sebaceous carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8410/6",M84106,1,"Sebaceous carcinoma, metastatic",Sebaceous carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8410/9",M84109,1,"Sebaceous carcinoma, uncertain whether primary or metastatic","Sebaceous carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8441/2",M84412,0,Serous intraepithelial carcinoma,Serous intraepithelial carcinoma,1/7/2002,,,1,1,1,UPDATED
+"M8441/3",M84413,0,Serous carcinoma NOS,Serous carcinoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8441/6",M84416,1,"Serous carcinoma NOS, metastatic",Serous carcinoma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8441/9",M84419,1,"Serous carcinoma NOS, uncertain whether primary or metastatic","Serous carcinoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8442/1",M84421,0,Serous borderline tumour NOS,Serous borderline tumour NOS,1/7/1998,,,0,1,1,UPDATED
+"M8442/3",M84423,1,"Serous borderline tumour NOS, with malignant transformation",Ser borderline tumour NOS w malg trnsfrm,1/7/1998,1/7/2002,1/7/2013,0,1,1,UPDATED
+"M8442/6",M84426,1,"Serous borderline tumour NOS, with malignant transformation, metastatic",Ser borderline tum NOS malg trnsfrm met,1/7/2013,,,0,1,1,UPDATED
+"M8442/9",M84429,1,"Serous borderline tumour NOS, with malignant transformation, uncertain whether primary or metastatic","Ser borderline tum NOS malg trnsfrm up/m",1/7/2013,,,0,1,1,UPDATED
+"M8452/1",M84521,0,Solid pseudopapillary tumour of ovary,Solid pseudopapillary tumour of ovary,1/7/1998,,,0,1,1,UPDATED
+"M8452/2",M84522,1,"Solid pseudopapillary neoplasm of pancreas, in situ",Solid pseudopapillary neoplm pancr insit,1/7/2013,,,0,1,1,UPDATED
+"M8452/3",M84523,0,Solid pseudopapillary neoplasm of pancreas,Solid pseudopapillary neoplasm pancreas,1/7/2002,,,0,1,1,UPDATED
+"M8452/6",M84526,1,"Solid pseudopapillary neoplasm of pancreas, metastatic",Solid pseudopapillary neoplasm pancr met,1/7/2002,,,0,1,1,UPDATED
+"M8452/9",M84529,1,"Solid pseudopapillary neoplasm of pancreas, uncertain whether primary or metastatic","Solid pseudopapillary neoplm pancr up/m",1/7/2002,,,0,1,1,UPDATED
+"M8453/2",M84532,0,Intraductal papillary-mucinous neoplasm with high grade dysplasia,Intraductl paplry-mucins high grade dysp,1/7/2002,,,0,1,1,UPDATED
+"M8453/3",M84533,0,Intraductal papillary-mucinous neoplasm with associated invasive carcinoma,Intraductl paplry-mucins ass invas ca,1/7/2002,,,0,1,1,UPDATED
+"M8453/6",M84536,1,"Intraductal papillary-mucinous neoplasm with associated invasive carcinoma, metastatic",Intraductl paplry-mucins ass invas met,1/7/2002,,,0,1,1,UPDATED
+"M8453/9",M84539,1,"Intraductal papillary-mucinous neoplasm with associated invasive carcinoma, uncertain whether primary or metastatic","Intraductl paplry-mucins ass invas up/m",1/7/2002,,,0,1,1,UPDATED
+"M8460/2",M84602,0,"Serous borderline tumour, micropapillary variant",Serous bordrlne tum micropapilry variant,1/7/2002,,,1,1,1,UPDATED
+"M8460/3",M84603,0,Low grade serous carcinoma,Low grade serous carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8460/6",M84606,1,"Low grade serous carcinoma, metastatic",Low grade serous carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8460/9",M84609,1,"Low grade serous carcinoma, uncertain whether primary or metastatic","Low grade serous carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8461/2",M84612,1,"High grade serous carcinoma, in situ",High grade serous carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8461/3",M84613,0,High grade serous carcinoma,High grade serous carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8461/6",M84616,1,"High grade serous carcinoma, metastatic",High grade serous carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8461/9",M84619,1,"High grade serous carcinoma, uncertain whether primary or metastatic","High grade serous carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8470/2",M84702,0,Mucinous cystic neoplasm with high grade dysplasia,Mucins cystic neoplm w high grade dysp,1/7/2002,,,0,1,1,UPDATED
+"M8474/0",M84740,0,Seromucinous cystadenoma,Seromucinous cystadenoma,1/7/2022,,,0,0,0,NEW
+"M8474/1",M84741,0,Seromucinous borderline tumour,Seromucinous borderline tumour,1/7/2022,,,0,0,0,NEW
+"M8474/3",M84743,0,Seromucinous carcinoma,Seromucinous carcinoma,1/7/2022,,,0,0,0,NEW
+"M8474/6",M84746,1,"Seromucinous carcinoma, metastatic",Seromucinous carcinoma metastatic,1/7/2022,,,0,0,0,NEW
+"M8474/9",M84749,1,"Seromucinous carcinoma, uncertain whether primary or metastatic","Seromucinous carcinoma up/m",1/7/2022,,,0,0,0,NEW
+"M8480/6",M84806,0,Pseudomyxoma peritonei,Pseudomyxoma peritonei,1/7/1998,,,0,1,1,UPDATED
+"M8482/2",M84822,1,"Mucinous carcinoma, gastric type, in situ",Mucinous carcinoma gastric type in situ,1/7/2013,,,0,1,1,UPDATED
+"M8482/3",M84823,0,"Mucinous carcinoma, gastric type",Mucinous carcinoma gastric type,1/7/2002,,,0,1,1,UPDATED
+"M8482/6",M84826,1,"Mucinous carcinoma, gastric type, metastatic",Mucinous carcinoma gastric type met,1/7/2002,,,0,1,1,UPDATED
+"M8482/9",M84829,1,"Mucinous carcinoma, gastric type, uncertain whether primary or metastatic","Mucinous carcinoma gastric type up/m",1/7/2002,,,0,1,1,UPDATED
+"M8502/2",M85022,1,"Secretory carcinoma, in situ",Secretory carcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8502/3",M85023,0,Secretory carcinoma,Secretory carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8502/6",M85026,1,"Secretory carcinoma, metastatic",Secretory carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8502/9",M85029,1,"Secretory carcinoma, uncertain whether primary or metastatic","Secretory carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8504/2",M85042,0,Encapsulated papillary carcinoma,Encapsulated papillary carcinoma,1/7/1998,,,0,1,1,UPDATED
+"M8504/3",M85043,0,Encapsulated papillary carcinoma with invasion,Encapsulated papillary ca with invasion,1/7/1998,,,0,1,1,UPDATED
+"M8504/6",M85046,1,"Encapsulated papillary carcinoma with invasion, metastatic",Encapsulated papillary ca w invasion met,1/7/2002,,,0,1,1,UPDATED
+"M8504/9",M85049,1,"Encapsulated papillary carcinoma with invasion, uncertain whether primary or metastatic","Encapsulated papilry ca w invasion up/m",1/7/2002,,,0,1,1,UPDATED
+"M8507/3",M85073,0,Invasive micropapillary carcinoma of breast,Invasive micropapillary carcinoma breast,1/7/2022,,,0,0,0,NEW
+"M8507/6",M85076,1,"Invasive micropapillary carcinoma of breast, metastatic",Invasive micropapillary ca breast met,1/7/2022,,,0,0,0,NEW
+"M8507/9",M85079,1,"Invasive micropapillary carcinoma of breast, uncertain whether primary or metastatic","Invasive micropapillary ca breast up/m",1/7/2022,,,0,0,0,NEW
+"M8509/2",M85092,0,Solid papillary carcinoma in situ,Solid papillary carcinoma in situ,1/7/2022,,,0,0,0,NEW
+"M8509/3",M85093,0,Solid papillary carcinoma with invasion,Solid papillary carcinoma with invasion,1/7/2022,,,0,0,0,NEW
+"M8509/6",M85096,1,"Solid papillary carcinoma with invasion, metastatic",Solid papillary ca w invasion metastatic,1/7/2022,,,0,0,0,NEW
+"M8509/9",M85099,1,"Solid papillary carcinoma with invasion, uncertain whether primary or metastatic","Solid papillary ca with invasion up/m",1/7/2022,,,0,0,0,NEW
+"M8519/2",M85192,0,"Lobular carcinoma in situ, pleomorphic",Lobular carcinoma in situ pleomorphic,1/7/2022,,,0,0,0,NEW
+"M8525/2",M85252,1,"Polymorphous adenocarcinoma, in situ",Polymorphous adenocarcinoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8525/3",M85253,0,Polymorphous adenocarcinoma,Polymorphous adenocarcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8525/6",M85256,1,"Polymorphous adenocarcinoma, metastatic",Polymorphous adenocarcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8525/9",M85259,1,"Polymorphous adenocarcinoma, uncertain whether primary or metastatic","Polymorphous adenocarcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8563/0",M85630,0,Lymphadenoma,Lymphadenoma,1/7/2022,,,0,0,0,NEW
+"M8580/0",M85800,0,Microscopic thymoma,Microscopic thymoma,1/7/1998,,,0,1,1,UPDATED
+"M8580/1",M85801,0,Micronodular thymoma with lymphoid stroma,Micronodular thymoma w lymphoid stroma,1/7/2002,,,0,1,1,UPDATED
+"M8580/3",M85803,0,Thymoma NOS,Thymoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8580/6",M85806,1,"Thymoma NOS, metastatic",Thymoma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8580/9",M85809,1,"Thymoma NOS, uncertain whether primary or metastatic","Thymoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8581/3",M85813,0,"Thymoma, type A",Thymoma type A,1/7/2002,,,0,1,1,UPDATED
+"M8581/6",M85816,1,"Thymoma, type A, metastatic",Thymoma type A metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8581/9",M85819,1,"Thymoma, type A, uncertain whether primary or metastatic","Thymoma type A up/m",1/7/2002,,,0,1,1,UPDATED
+"M8582/3",M85823,0,"Thymoma, type AB",Thymoma type AB,1/7/2002,,,0,1,1,UPDATED
+"M8582/6",M85826,1,"Thymoma, type AB, metastatic",Thymoma type AB metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8582/9",M85829,1,"Thymoma, type AB, uncertain whether primary or metastatic","Thymoma type AB up/m",1/7/2002,,,0,1,1,UPDATED
+"M8583/3",M85833,0,"Thymoma, type B1",Thymoma type B1,1/7/2002,,,0,1,1,UPDATED
+"M8583/6",M85836,1,"Thymoma, type B1, metastatic",Thymoma type B1 metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8583/9",M85839,1,"Thymoma, type B1, uncertain whether primary or metastatic","Thymoma type B1 up/m",1/7/2002,,,0,1,1,UPDATED
+"M8584/3",M85843,0,"Thymoma, type B2",Thymoma type B2,1/7/2002,,,0,1,1,UPDATED
+"M8584/6",M85846,1,"Thymoma, type B2, metastatic",Thymoma type B2 metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8584/9",M85849,1,"Thymoma, type B2, uncertain whether primary or metastatic","Thymoma type B2 up/m",1/7/2002,,,0,1,1,UPDATED
+"M8585/2",M85852,1,"Thymoma, type B3, in situ",Thymoma type B3 in situ,1/7/2013,,,0,1,1,UPDATED
+"M8585/3",M85853,0,"Thymoma, type B3",Thymoma type B3,1/7/2002,,,0,1,1,UPDATED
+"M8585/6",M85856,1,"Thymoma, type B3, metastatic",Thymoma type B3 metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8585/9",M85859,1,"Thymoma, type B3, uncertain whether primary or metastatic","Thymoma type B3 up/m",1/7/2002,,,0,1,1,UPDATED
+"M8587/0",M85870,0,Ectopic hamartomatous thymoma,Ectopic hamartomatous thymoma,1/7/2002,,,0,1,1,UPDATED
+"M8589/2",M85892,1,"Intrathyroid thymic carcinoma, in situ",Intrathyroid thymic carcinoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8589/3",M85893,0,Intrathyroid thymic carcinoma,Intrathyroid thymic carcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8589/6",M85896,1,"Intrathyroid thymic carcinoma, metastatic",Intrathyroid thymic carcinoma met,1/7/2002,,,0,1,1,UPDATED
+"M8589/9",M85899,1,"Intrathyroid thymic carcinoma, uncertain whether primary or metastatic","Intrathyroid thymic carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8590/0",M85900,0,"Sex cord stromal tumour, benign",Sex cord stromal tumour benign,1/7/2013,,,1,1,1,UPDATED
+"M8594/1",M85941,0,Mixed germ cell-sex cord-stromal tumour NOS,Mixed germ cell-sex cord-stromal tum NOS,1/7/2022,,,0,0,0,NEW
+"M8620/1",M86201,0,Adult granulosa cell tumour of testis,Adult granulosa cell tumour of testis,1/7/1998,,,0,1,1,UPDATED
+"M8620/2",M86202,1,"Adult granulosa cell tumour, in situ",Adult granulosa cell tumour in situ,1/7/2013,,,0,1,1,UPDATED
+"M8620/3",M86203,0,Adult granulosa cell tumour of ovary,Adult granulosa cell tumour of ovary,1/7/1998,,,0,1,1,UPDATED
+"M8620/6",M86206,1,"Adult granulosa cell tumour of ovary, metastatic",Adult granulosa cell tumour of ovary met,1/7/2002,,,0,1,1,UPDATED
+"M8620/9",M86209,1,"Adult granulosa cell tumour of ovary, uncertain whether primary or metastatic","Adult granulosa cell tum of ovary up/m",1/7/2002,,,0,1,1,UPDATED
+"M8622/0",M86220,0,"Granulosa cell tumour of testis, juvenile",Granulosa cell tumour of testis juvenile,1/7/2019,,,1,1,1,UPDATED
+"M8622/1",M86221,0,"Granulosa cell tumour, juvenile",Granulosa cell tumour juvenile,1/7/1998,,,0,1,1,UPDATED
+"M8643/1",M86431,0,Intratubular large cell hyalinising Sertoli cell neoplasia,Intrtblr lrg cl hylsng Sertoli neoplasia,1/7/2022,,,0,0,0,NEW
+"M8650/0",M86500,0,Leydig cell tumour of ovary NOS,Leydig cell tumour of ovary NOS,1/7/1998,,,0,1,1,UPDATED
+"M8650/1",M86501,0,Leydig cell tumour of testis NOS,Leydig cell tumour of testis NOS,1/7/1998,,,0,1,1,UPDATED
+"M8680/3",M86803,0,Paraganglioma NOS,Paraganglioma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8680/6",M86806,1,"Paraganglioma NOS, metastatic",Paraganglioma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8680/9",M86809,1,"Paraganglioma NOS, uncertain whether primary or metastatic","Paraganglioma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8681/3",M86813,0,Sympathetic paraganglioma,Sympathetic paraganglioma,1/7/2022,,,0,0,0,NEW
+"M8681/6",M86816,1,"Sympathetic paraganglioma, metastatic",Sympathetic paraganglioma metastatic,1/7/2022,,,0,0,0,NEW
+"M8681/9",M86819,1,"Sympathetic paraganglioma, uncertain whether primary or metastatic","Sympathetic paraganglioma up/m",1/7/2022,,,0,0,0,NEW
+"M8682/3",M86823,0,Parasympathetic paraganglioma,Parasympathetic paraganglioma,1/7/2022,,,0,0,0,NEW
+"M8682/6",M86826,1,"Parasympathetic paraganglioma, metastatic",Parasympathetic paraganglioma metastatic,1/7/2022,,,0,0,0,NEW
+"M8682/9",M86829,1,"Parasympathetic paraganglioma, uncertain whether primary or metastatic","Parasympathetic paraganglioma up/m",1/7/2022,,,0,0,0,NEW
+"M8690/2",M86902,1,"Middle ear paraganglioma, in situ",Middle ear paraganglioma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8690/3",M86903,0,Middle ear paraganglioma,Middle ear paraganglioma,1/7/2002,,,1,1,1,UPDATED
+"M8690/6",M86906,1,"Middle ear paraganglioma, malignant, metastatic",Middle ear paraganglioma malignant met,1/7/2002,,,0,1,1,UPDATED
+"M8690/9",M86909,1,"Middle ear paraganglioma, uncertain whether primary or metastatic","Middle ear paraganglioma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8691/3",M86913,0,Aortic body tumour,Aortic body tumour,1/7/1998,,,1,1,1,UPDATED
+"M8691/6",M86916,1,"Aortic body tumour, metastatic",Aortic body tumour metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8692/3",M86923,0,Carotid body paraganglioma,Carotid body paraganglioma,1/7/2002,,,1,1,1,UPDATED
+"M8692/6",M86926,1,"Carotid body paraganglioma, metastatic",Carotid body paraganglioma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8692/9",M86929,1,"Carotid body paraganglioma, uncertain whether primary or metastatic","Carotid body paraganglioma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8693/3",M86933,0,Extra-adrenal paraganglioma NOS,Extra-adrenal paraganglioma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8693/6",M86936,1,"Extra-adrenal paraganglioma NOS, metastatic",Extra-adrenal paraganglioma NOS met,1/7/2002,,,0,1,1,UPDATED
+"M8693/9",M86939,1,"Extra-adrenal paraganglioma NOS, uncertain whether primary or metastatic","Extra-adrenal paraganglioma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8700/2",M87002,1,"Phaeochromocytoma NOS, in situ",Phaeochromocytoma NOS in situ,1/7/2013,,,0,1,1,UPDATED
+"M8700/3",M87003,0,Phaeochromocytoma NOS,Phaeochromocytoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8700/6",M87006,1,"Phaeochromocytoma NOS, metastatic",Phaeochromocytoma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8700/9",M87009,1,"Phaeochromocytoma NOS, uncertain whether primary or metastatic","Phaeochromocytoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8711/1",M87111,0,Glomangiomatosis,Glomangiomatosis,1/7/2002,,,1,1,1,UPDATED
+"M8714/0",M87140,0,"Perivascular epithelioid tumour, benign",Perivascular epithelioid tumour benign,1/7/2022,,,0,0,0,NEW
+"M8714/3",M87143,0,"Perivascular epithelioid tumour, malignant",Perivascular epithelioid tum malignant,1/7/2022,,,0,0,0,NEW
+"M8714/6",M87146,1,"Perivascular epithelioid tumour, metastatic",Perivascular epithelioid tum metastatic,1/7/2022,,,0,0,0,NEW
+"M8714/9",M87149,1,"Perivascular epithelioid tumour, uncertain whether primary or metastatic","Perivascular epithelioid tumour up/m",1/7/2022,,,0,0,0,NEW
+"M8728/0",M87280,0,Meningeal melanocytosis,Meningeal melanocytosis,1/7/2002,,,0,1,1,UPDATED
+"M8742/0",M87420,0,Lentiginous melanocytic naevus,Lentiginous melanocytic naevus,1/7/2013,,,1,1,1,UPDATED
+"M8743/1",M87431,1,"Low cumulative sun damage melanoma, uncertain whether benign or malignant","Low cumulative sun damage melanoma ub/m",1/7/2013,,,0,1,1,UPDATED
+"M8743/2",M87432,1,"Low cumulative sun damage melanoma, in situ",Low cumulative sun damage melanoma insit,1/7/2002,,,0,1,1,UPDATED
+"M8743/3",M87433,0,Low cumulative sun damage melanoma,Low cumulative sun damage melanoma,1/7/1998,,,0,1,1,UPDATED
+"M8743/6",M87436,1,"Low cumulative sun damage melanoma, metastatic",Low cumulative sun damage melanoma met,1/7/2002,,,0,1,1,UPDATED
+"M8743/9",M87439,1,"Low cumulative sun damage melanoma, uncertain whether primary or metastatic","Low cumulative sun damage melanoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8744/0",M87440,0,Acral naevus,Acral naevus,1/7/2022,,,0,0,0,NEW
+"M8744/2",M87442,1,"Acral melanoma, in situ",Acral melanoma in situ,1/7/2002,,,0,1,1,UPDATED
+"M8744/3",M87443,0,Acral melanoma,Acral melanoma,1/7/1998,,,0,1,1,UPDATED
+"M8744/6",M87446,1,"Acral melanoma, metastatic",Acral melanoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8744/9",M87449,1,"Acral melanoma, uncertain whether primary or metastatic","Acral melanoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8745/2",M87452,1,"Desmoplastic melanoma NOS, in situ",Desmoplastic melanoma NOS in situ,1/7/2002,,,0,1,1,UPDATED
+"M8745/3",M87453,0,Desmoplastic melanoma NOS,Desmoplastic melanoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8745/6",M87456,1,"Desmoplastic melanoma NOS, metastatic",Desmoplastic melanoma NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8745/9",M87459,1,"Desmoplastic melanoma NOS, uncertain whether primary or metastatic","Desmoplastic melanoma NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8750/0",M87500,0,Dermal naevus,Dermal naevus,1/7/1998,,,0,1,1,UPDATED
+"M8750/1",M87501,1,"Dermal naevus, uncertain whether benign or malignant","Dermal naevus ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8750/2",M87502,1,"Dermal naevus, in situ",Dermal naevus in situ,1/7/2013,,,0,1,1,UPDATED
+"M8750/3",M87503,1,"Dermal naevus, malignant",Dermal naevus malignant,1/7/2013,,,0,1,1,UPDATED
+"M8750/6",M87506,1,"Dermal naevus, metastatic",Dermal naevus metastatic,1/7/2013,,,0,1,1,UPDATED
+"M8750/9",M87509,1,"Dermal naevus, uncertain whether primary or metastatic","Dermal naevus up/m",1/7/2013,,,0,1,1,UPDATED
+"M8761/0",M87610,0,Congenital melanocytic naevus NOS,Congenital melanocytic naevus NOS,1/7/2002,,,0,1,1,UPDATED
+"M8761/2",M87612,1,"Malignant melanoma arising in giant congenital naevus, in situ",Malg melanoma in gt cong naevus insit,1/7/2002,,,0,1,1,UPDATED
+"M8761/3",M87613,0,Malignant melanoma arising in giant congenital naevus,Malg melanoma in giant congenital naevus,1/7/1998,,,0,1,1,UPDATED
+"M8761/6",M87616,1,"Malignant melanoma arising in giant congenital naevus, metastatic",Malg melanoma in giant cong naevus met,1/7/2002,,,0,1,1,UPDATED
+"M8761/9",M87619,1,"Malignant melanoma arising in giant congenital naevus, uncertain whether primary or metastatic","Malg melanoma in giant cong naevus up/m",1/7/2002,,,0,1,1,UPDATED
+"M8770/2",M87702,1,"Spitz tumour, in situ",Spitz tumour in situ,1/7/2002,,,0,1,1,UPDATED
+"M8770/3",M87703,0,Malignant Spitz tumour,Malignant Spitz tumour,1/7/1998,,,0,1,1,UPDATED
+"M8770/6",M87706,1,"Malignant Spitz tumour, metastatic",Malignant Spitz tumour metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8770/9",M87709,1,"Malignant Spitz tumour, uncertain whether primary or metastatic","Malignant Spitz tumour up/m",1/7/2002,,,0,1,1,UPDATED
+"M8780/1",M87801,0,Pigmented epithelioid melanocytoma,Pigmented epithelioid melanocytoma,1/7/2002,,,1,1,1,UPDATED
+"M8802/1",M88021,0,Pleomorphic hyalinising angiectatic tumour,Pleomorphic hyalinising angiectatic tum,1/7/2002,,,1,1,1,UPDATED
+"M8811/0",M88110,0,Fibromyxoma NOS,Fibromyxoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8811/1",M88111,0,Myxoinflammatory fibroblastic sarcoma,Myxoinflammatory fibroblastic sarcoma,1/7/2002,,,1,1,1,UPDATED
+"M8811/3",M88113,0,Myxofibrosarcoma,Myxofibrosarcoma,1/7/1998,,,0,1,1,UPDATED
+"M8811/6",M88116,1,"Myxofibrosarcoma, metastatic",Myxofibrosarcoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8811/9",M88119,1,"Myxofibrosarcoma, uncertain whether primary or metastatic","Myxofibrosarcoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8813/0",M88130,0,Fibroma of tendon sheath,Fibroma of tendon sheath,1/7/1998,,,0,1,1,UPDATED
+"M8813/1",M88131,0,"Palmar/plantar type fibromatosis","Palmar/plantar type fibromatosis",1/7/2002,,,1,1,1,UPDATED
+"M8815/0",M88150,0,"Solitary fibrous tumour/haemangiopericytoma, grade 1",Solitary fibrous haemangiopericytoma G.1,1/7/2002,,,0,1,1,UPDATED
+"M8815/1",M88151,0,Solitary fibrous tumour NOS,Solitary fibrous tumour NOS,1/7/2002,,,1,1,1,UPDATED
+"M8816/0",M88160,0,Calcifying aponeurotic fibroma,Calcifying aponeurotic fibroma,1/7/2022,,,0,0,0,NEW
+"M8817/0",M88170,0,Calcifying fibrous tumour,Calcifying fibrous tumour,1/7/2022,,,0,0,0,NEW
+"M8818/0",M88180,0,Fibrous dysplasia,Fibrous dysplasia,1/7/2022,,,0,0,0,NEW
+"M8823/0",M88230,0,Sclerotic fibroma,Sclerotic fibroma,1/7/2002,,,0,1,1,UPDATED
+"M8823/1",M88231,0,Desmoplastic fibroma,Desmoplastic fibroma,1/7/1998,,,1,1,1,UPDATED
+"M8825/3",M88253,0,Myofibroblastic sarcoma,Myofibroblastic sarcoma,1/7/2004,,,1,1,1,UPDATED
+"M8825/6",M88256,1,"Myofibroblastic sarcoma, metastatic",Myofibroblastic sarcoma metastatic,1/7/2004,,,0,1,1,UPDATED
+"M8825/9",M88259,1,"Myofibroblastic sarcoma, uncertain whether primary or metastatic","Myofibroblastic sarcoma up/m",1/7/2004,,,0,1,1,UPDATED
+"M8828/0",M88280,0,Nodular fasciitis,Nodular fasciitis,1/7/2022,,,0,0,0,NEW
+"M8832/1",M88321,0,Dermatofibrosarcoma protuberans NOS,Dermatofibrosarcoma protuberans NOS,1/7/1998,,,1,1,1,UPDATED
+"M8832/3",M88323,0,"Dermatofibrosarcoma protuberans, fibrosarcomatous",Drmatfibrsrcm protuberans fbrscmts,1/7/1998,,,0,1,1,UPDATED
+"M8832/6",M88326,1,"Dermatofibrosarcoma protuberans, fibrosarcomatous, metastatic",Drmatfibrsrcm protuberans fbrscmts met,1/7/2002,,,0,1,1,UPDATED
+"M8832/9",M88329,1,"Dermatofibrosarcoma protuberans, fibrosarcomatous, uncertain whether primary or metastatic","Drmatfibrsrcm protuberans fbrscmts up/m",1/7/2002,,,0,1,1,UPDATED
+"M8833/1",M88331,0,Pigmented dermatofibrosarcoma protuberans,Pigmented drmatfibrsrcm protuberans,1/7/2022,,,0,0,0,NEW
+"M8841/0",M88410,0,Angiomyxoma NOS,Angiomyxoma NOS,1/7/2022,,,0,0,0,NEW
+"M8842/0",M88420,0,Ossifying fibromyxoid tumour NOS,Ossifying fibromyxoid tumour NOS,1/7/2002,,,0,1,1,UPDATED
+"M8842/3",M88423,0,"Ossifying fibromyxoid tumour, malignant","Ossifying fibromyxoid tumour, malignant",1/7/2022,,,0,0,0,NEW
+"M8842/6",M88426,1,"Ossifying fibromyxoid tumour, metastatic",Ossifying fibromyxoid tumour metastatic,1/7/2022,,,0,0,0,NEW
+"M8842/9",M88429,1,"Ossifying fibromyxoid tumour, uncertain whether primary or metastatic","Ossifying fibromyxoid tumour up/m",1/7/2022,,,0,0,0,NEW
+"M8850/1",M88501,0,Atypical lipomatous tumour,Atypical lipomatous tumour,1/7/2002,,,0,1,1,UPDATED
+"M8851/1",M88511,0,Lipofibromatosis,Lipofibromatosis,1/7/2002,,,1,1,1,UPDATED
+"M8851/3",M88513,0,"Liposarcoma, well differentiated NOS",Liposarcoma well differentiated NOS,1/7/1998,,,0,1,1,UPDATED
+"M8851/6",M88516,1,"Liposarcoma, well differentiated NOS, metastatic",Liposarcoma well differentiated NOS met,1/7/2002,,,0,1,1,UPDATED
+"M8851/9",M88519,1,"Liposarcoma, well differentiated NOS, uncertain whether primary or metastatic","Liposarcoma well differentiated NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8860/1",M88601,0,"Angiomyolipoma, epithelioid",Angiomyolipoma epithelioid,1/7/2002,,,1,1,1,UPDATED
+"M8862/0",M88620,0,Chondroid lipoma,Chondroid lipoma,1/7/2022,,,0,0,0,NEW
+"M8894/0",M88940,0,Angioleiomyoma,Angioleiomyoma,1/7/1998,,,0,1,1,UPDATED
+"M8894/1",M88941,1,"Angioleiomyoma, uncertain whether benign or malignant","Angioleiomyoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8896/0",M88960,0,Myxoid leiomyoma,Myxoid leiomyoma,1/7/2022,,,0,0,0,NEW
+"M8904/0",M89040,0,Adult cellular rhabdomyoma,Adult cellular rhabdomyoma,1/7/1998,,,0,1,1,UPDATED
+"M8904/1",M89041,1,"Adult cellular rhabdomyoma, uncertain whether benign or malignant","Adult cellular rhabdomyoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M8921/3",M89213,0,Ectomesenchymoma,Ectomesenchymoma,1/7/2002,,,0,1,1,UPDATED
+"M8921/6",M89216,1,"Ectomesenchymoma, metastatic",Ectomesenchymoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8921/9",M89219,1,"Ectomesenchymoma, uncertain whether primary or metastatic","Ectomesenchymoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8936/3",M89363,0,Gastrointestinal stromal tumour,Gastrointestinal stromal tumour,1/7/2002,,,0,1,1,UPDATED
+"M8936/6",M89366,1,"Gastrointestinal stromal tumour, metastatic",Gastrointestinal stromal tumour met,1/7/2002,,,0,1,1,UPDATED
+"M8936/9",M89369,1,"Gastrointestinal stromal tumour, uncertain whether primary or metastatic","Gastrointestinal stromal tumour up/m",1/7/2002,,,0,1,1,UPDATED
+"M8941/2",M89412,1,"Carcinoma ex pleomorphic adenoma, in situ",Ca ex pleomorphic adenoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M8941/3",M89413,0,Carcinoma ex pleomorphic adenoma,Carcinoma ex pleomorphic adenoma,1/7/1998,,,0,1,1,UPDATED
+"M8941/6",M89416,1,"Carcinoma ex pleomorphic adenoma, metastatic",Ca ex pleomorphic adenoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8941/9",M89419,1,"Carcinoma ex pleomorphic adenoma, uncertain whether primary or metastatic","Carcinoma ex pleomorphic adenoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8963/3",M89633,0,Rhabdoid tumour NOS,Rhabdoid tumour NOS,1/7/1998,,,0,1,1,UPDATED
+"M8963/6",M89636,1,"Rhabdoid tumour NOS, metastatic",Rhabdoid tumour NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8963/9",M89639,1,"Rhabdoid tumour NOS, uncertain whether primary or metastatic","Rhabdoid tumour NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M8975/1",M89751,0,Calcifying nested stromal-epithelial tumour,Calcifying nested stromal epithelial tum,1/7/2013,,,0,1,1,UPDATED
+"M8982/0",M89820,0,Myoepithelioma NOS,Myoepithelioma NOS,1/7/1998,,,0,1,1,UPDATED
+"M8982/3",M89823,0,Myoepithelial carcinoma,Myoepithelial carcinoma,1/7/2002,,,0,1,1,UPDATED
+"M8982/6",M89826,1,"Myoepithelial carcinoma, metastatic",Myoepithelial carcinoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M8982/9",M89829,1,"Myoepithelial carcinoma, uncertain whether primary or metastatic","Myoepithelial carcinoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M8983/0",M89830,0,Adenomyoepithelioma NOS,Adenomyoepithelioma NOS,1/7/2002,,,0,1,1,UPDATED
+"M8983/3",M89833,0,Adenomyoepithelioma with carcinoma,Adenomyoepithelioma with carcinoma,1/7/2022,,,0,0,0,NEW
+"M8983/6",M89836,1,"Adenomyoepithelioma with carcinoma, metastatic",Adenomyoepithelioma with carcinoma met,1/7/2022,,,0,0,0,NEW
+"M8983/9",M89839,1,"Adenomyoepithelioma with carcinoma, uncertain whether primary or metastatic","Adenomyoepithelioma with carcinoma up/m",1/7/2022,,,0,0,0,NEW
+"M8992/0",M89920,0,Pulmonary hamartoma,Pulmonary hamartoma,1/7/2022,,,0,0,0,NEW
+"M9045/3",M90453,0,Biphenotypic sinonasal sarcoma,Biphenotypic sinonasal sarcoma,1/7/2022,,,0,0,0,NEW
+"M9045/6",M90456,1,"Biphenotypic sinonasal sarcoma, metastatic",Biphenotypic sinonasal sarcoma met,1/7/2022,,,0,0,0,NEW
+"M9045/9",M90459,1,"Biphenotypic sinonasal sarcoma, uncertain whether primary or metastatic","Biphenotypic sinonasal sarcoma up/m",1/7/2022,,,0,0,0,NEW
+"M9052/1",M90521,0,Well differentiated papillary mesothelioma of pleura,Well differd papilry mesothelioma pleura,1/7/2002,,,1,1,1,UPDATED
+"M9055/0",M90550,0,Peritoneal inclusion cysts,Peritoneal inclusion cysts,1/7/2002,,,0,1,1,UPDATED
+"M9086/3",M90863,0,Germ cell tumour with associated haematological malignancy,Germ cell tumour w ass haematlgl malg,1/7/2022,,,0,0,0,NEW
+"M9086/6",M90866,1,"Germ cell tumour with associated haematological malignancy, metastatic",Germ cell tum w ass haematlgl malg met,1/7/2022,,,0,0,0,NEW
+"M9086/9",M90869,1,"Germ cell tumour with associated haematological malignancy, uncertain whether primary or metastatic","Germ cell tum w ass haematlgl malg up/m",1/7/2022,,,0,0,0,NEW
+"M9110/0",M91100,0,Adenoma of rete ovarii,Adenoma of rete ovarii,1/7/1998,,,0,1,1,UPDATED
+"M9110/1",M91101,0,Wolffian tumour,Wolffian tumour,1/7/1998,,,0,1,1,UPDATED
+"M9126/0",M91260,0,Atypical vascular lesion,Atypical vascular lesion,1/7/1998,1/7/2002,1/7/2022,0,1,1,REACTIVATED
+"M9133/3",M91333,0,Epithelioid haemangioendothelioma NOS,Epithelioid haemangioendothelioma NOS,1/7/1998,,,0,1,1,UPDATED
+"M9133/6",M91336,1,"Epithelioid haemangioendothelioma NOS, metastatic",Epithelioid hemangiondothlma NOS met,1/7/2002,,,0,1,1,UPDATED
+"M9133/9",M91339,1,"Epithelioid haemangioendothelioma NOS, uncertain whether primary or metastatic","Epithelioid haemangioendothelioma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9135/1",M91351,0,Papillary intralymphatic angioendothelioma,Papilry intralymphatic angioendothelioma,1/7/2002,,,0,1,1,UPDATED
+"M9135/3",M91353,1,"Papillary intralymphatic angioendothelioma, malignant",Papilry intlymtic angioendothelioma malg,1/7/2002,,,0,1,1,UPDATED
+"M9135/6",M91356,1,"Papillary intralymphatic angioendothelioma, metastatic",Papilry intlymtic angioendothelioma met,1/7/2002,,,0,1,1,UPDATED
+"M9135/9",M91359,1,"Papillary intralymphatic angioendothelioma, uncertain whether primary or metastatic","Papilry intlymtic angioendothelioma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9137/0",M91370,0,Myointimoma,Myointimoma,1/7/2022,,,0,0,0,NEW
+"M9137/3",M91373,0,Intimal sarcoma,Intimal sarcoma,1/7/2022,,,0,0,0,NEW
+"M9137/6",M91376,1,"Intimal sarcoma, metastatic",Intimal sarcoma metastatic,1/7/2022,,,0,0,0,NEW
+"M9137/9",M91379,1,"Intimal sarcoma, uncertain whether primary or metastatic","Intimal sarcoma up/m",1/7/2022,,,0,0,0,NEW
+"M9138/1",M91381,0,Pseudomyogenic [epithelioid sarcoma-like] haemangioendothelioma,Pseudomyogenic haemangioendothelioma,1/7/2022,,,0,0,0,NEW
+"M9174/1",M91741,0,Lymphangioleiomyomatosis,Lymphangioleiomyomatosis,1/7/1998,,,0,1,1,UPDATED
+"M9187/2",M91872,1,"Low grade central osteosarcoma, in situ",Low grade central osteosarcoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M9187/3",M91873,0,Low grade central osteosarcoma,Low grade central osteosarcoma,1/7/2002,,,0,1,1,UPDATED
+"M9187/6",M91876,1,"Low grade central osteosarcoma, metastatic",Low grade central osteosarcoma met,1/7/2002,,,0,1,1,UPDATED
+"M9187/9",M91879,1,"Low grade central osteosarcoma, uncertain whether primary or metastatic","Low grade central osteosarcoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9211/0",M92110,0,Osteochondromyxoma,Osteochondromyxoma,1/7/2022,,,0,0,0,NEW
+"M9212/0",M92120,0,Bizarre parosteal osteochondromatous proliferation,Biz parosteal osteochondromatous prolf,1/7/2022,,,0,0,0,NEW
+"M9213/0",M92130,0,Subungual exostosis,Subungual exostosis,1/7/2022,,,0,0,0,NEW
+"M9221/0",M92210,0,Periosteal chondroma,Periosteal chondroma,1/7/1998,,,0,1,1,UPDATED
+"M9221/1",M92211,1,"Periosteal chondroma, uncertain whether benign or malignant","Periosteal chondroma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M9221/2",M92212,1,"Periosteal chondrosarcoma, in situ",Periosteal chondrosarcoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M9221/3",M92213,0,Periosteal chondrosarcoma,Periosteal chondrosarcoma,1/7/1998,,,0,1,1,UPDATED
+"M9221/6",M92216,1,"Periosteal chondrosarcoma, metastatic",Periosteal chondrosarcoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M9221/9",M92219,1,"Periosteal chondrosarcoma, uncertain whether primary or metastatic","Periosteal chondrosarcoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9222/1",M92221,0,Atypical cartilaginous tumour,Atypical cartilaginous tumour,1/7/2022,,,0,0,0,NEW
+"M9230/1",M92301,0,Chondroblastoma NOS,Chondroblastoma NOS,1/7/2002,,,1,1,1,UPDATED
+"M9252/0",M92520,0,Tenosynovial giant cell tumour NOS,Tenosynovial giant cell tumour NOS,1/7/2002,,,0,1,1,UPDATED
+"M9252/1",M92521,0,"Tenosynovial giant cell tumour, diffuse",Tenosynovial giant cell tum diffuse,1/7/2002,,,1,1,1,UPDATED
+"M9260/0",M92600,0,Aneurysmal bone cyst,Aneurysmal bone cyst,1/7/2022,,,0,0,0,NEW
+"M9274/0",M92740,0,Cemento-ossifying fibroma,Cemento-ossifying fibroma,1/7/1998,,,0,1,1,UPDATED
+"M9274/1",M92741,1,"Cemento-ossifying fibroma, uncertain whether benign or malignant","Cemento-ossifying fibroma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M9302/0",M93020,0,Dentinogenic ghost cell tumour,Dentinogenic ghost cell tum,1/7/1998,,,0,1,1,UPDATED
+"M9302/3",M93023,0,Ghost cell odontogenic carcinoma,Ghost cell odontogenic carcinoma,1/7/2022,,,0,0,0,NEW
+"M9302/6",M93026,1,"Ghost cell odontogenic carcinoma, metastatic",Ghost cell odontogenic carcinoma met,1/7/2022,,,0,0,0,NEW
+"M9302/9",M93029,1,"Ghost cell odontogenic carcinoma, uncertain whether primary or metastatic","Ghost cell odontogenic carcinoma up/m",1/7/2022,,,0,0,0,NEW
+"M9310/3",M93103,0,"Ameloblastoma, metastasising",Ameloblastoma metastasising,1/7/1998,,,0,1,1,UPDATED
+"M9310/6",M93106,1,"Ameloblastoma, metastatic",Ameloblastoma met,1/7/2002,,,0,1,1,UPDATED
+"M9310/9",M93109,1,"Ameloblastoma, uncertain whether primary or metastatic","Ameloblastoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9321/0",M93210,0,Odontogenic fibroma NOS,Odontogenic fibroma NOS,1/7/1998,,,0,1,1,UPDATED
+"M9321/1",M93211,1,"Odontogenic fibroma, uncertain whether benign or malignant","Odontogenic fibroma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M9341/3",M93413,0,Clear cell odontogenic carcinoma,Clear cell odontogenic carcinoma,1/7/2022,,,0,0,0,NEW
+"M9341/6",M93416,1,"Clear cell odontogenic carcinoma, metastatic",Clear cell odontogenic carcinoma met,1/7/2022,,,0,0,0,NEW
+"M9341/9",M93419,1,"Clear cell odontogenic carcinoma, uncertain whether primary or metastatic","Clear cell odontogenic carcinoma up/m",1/7/2022,,,0,0,0,NEW
+"M9363/3",M93633,1,"Melanotic neuroectodermal tumour, malignant",Melanotic neuroectodermal tum malignant,1/7/2022,,,0,0,0,NEW
+"M9363/6",M93636,1,"Melanotic neuroectodermal tumour, metastatic",Melanotic neuroectodermal tum metastatic,1/7/2022,,,0,0,0,NEW
+"M9363/9",M93639,1,"Melanotic neuroectodermal tumour, uncertain whether primary or metastatic","Melanotic neuroectodermal tumour up/m",1/7/2022,,,0,0,0,NEW
+"M9364/2",M93642,1,"Ewing sarcoma, in situ",Ewing sarcoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M9364/3",M93643,0,Ewing sarcoma,Ewing sarcoma,1/7/1998,,,0,1,1,UPDATED
+"M9364/6",M93646,1,"Ewing sarcoma, metastatic",Ewing sarcoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M9364/9",M93649,1,"Ewing sarcoma, uncertain whether primary or metastatic","Ewing sarcoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9370/0",M93700,0,Benign notochordal cell tumour,Benign notochordal cell tumour,1/7/2002,,,1,1,1,UPDATED
+"M9382/1",M93821,1,"Oligoastrocytoma, uncertain whether benign or malignant","Oligoastrocytoma ub/m",1/7/2002,,,0,1,1,UPDATED
+"M9382/2",M93822,1,"Oligoastrocytoma, in situ",Oligoastrocytoma in situ,1/7/2013,,,0,1,1,UPDATED
+"M9382/3",M93823,0,Oligoastrocytoma NOS,Oligoastrocytoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M9382/6",M93826,1,"Oligoastrocytoma, metastatic",Oligoastrocytoma metastatic,1/7/2002,,,0,1,1,UPDATED
+"M9382/9",M93829,1,"Oligoastrocytoma, uncertain whether primary or metastatic","Oligoastrocytoma up/m",1/7/2002,,,0,1,1,UPDATED
+"M9385/3",M93853,0,"Diffuse midline glioma, H3 K27M-mutant",Diffuse midline glioma H3 K27M-mutant,1/7/2022,,,0,0,0,NEW
+"M9385/6",M93856,1,"Diffuse midline glioma, H3 K27M-mutant, metastatic",Dfs midline glioma H3 K27M-mutant met,1/7/2022,,,0,0,0,NEW
+"M9385/9",M93859,1,"Diffuse midline glioma, H3 K27M-mutant, uncertain whether primary or metastatic","Dfs midline glioma H3 K27M-mutan up/m",1/7/2022,,,0,0,0,NEW
+"M9391/0",M93910,1,"Ependymoma, benign",Ependymoma benign,1/7/2002,,,0,1,1,UPDATED
+"M9391/1",M93911,0,Sellar ependymoma,Sellar ependymoma,1/7/2002,,,1,1,1,UPDATED
+"M9396/3",M93963,0,"Ependymoma, RELA fusion positive",Ependymoma RELA fusion positive,1/7/2022,,,0,0,0,NEW
+"M9396/6",M93966,1,"Ependymoma, RELA fusion positive, metastatic",Ependymoma RELA fusion positive met,1/7/2022,,,0,0,0,NEW
+"M9396/9",M93969,1,"Ependymoma, RELA fusion positive, uncertain whether primary or metastatic","Ependymoma RELA fusion positive up/m",1/7/2022,,,0,0,0,NEW
+"M9445/3",M94453,0,"Glioblastoma, IDH-mutant",Glioblastoma IDH-mutant,1/7/2022,,,0,0,0,NEW
+"M9445/6",M94456,1,"Glioblastoma, IDH-mutant, metastatic",Glioblastoma IDH-mutant metastatic,1/7/2022,,,0,0,0,NEW
+"M9445/9",M94459,1,"Glioblastoma, IDH-mutant, uncertain whether primary or metastatic","Glioblastoma IDH-mutant up/m",1/7/2022,,,0,0,0,NEW
+"M9473/2",M94732,1,"CNS embryonal tumour NOS, in situ",CNS embryonal tumour NOS in situ,1/7/2013,,,0,1,1,UPDATED
+"M9473/3",M94733,0,CNS embryonal tumour NOS,CNS embryonal tumour NOS,1/7/1998,,,0,1,1,UPDATED
+"M9473/6",M94736,1,"CNS embryonal tumour NOS, metastatic",CNS embryonal tumour NOS metastatic,1/7/2002,,,0,1,1,UPDATED
+"M9473/9",M94739,1,"CNS embryonal tumour NOS, uncertain whether primary or metastatic","CNS embryonal tumour NOS up/m",1/7/2002,,,0,1,1,UPDATED
+"M9475/3",M94753,0,"Medulloblastoma, WNT-activated, NOS",Medulloblastoma WNT-activated NOS,1/7/2022,,,0,0,0,NEW
+"M9475/6",M94756,1,"Medulloblastoma, WNT-activated, metastatic",Medulloblastoma WNT-activated metastatic,1/7/2022,,,0,0,0,NEW
+"M9475/9",M94759,1,"Medulloblastoma, WNT-activated, uncertain whether primary or metastatic","Medulloblastoma WNT-activated up/m",1/7/2022,,,0,0,0,NEW
+"M9476/3",M94763,0,"Medulloblastoma, SHH-activated and TP53-mutant",Meduloblstm SHH actvd & TP53-mutant,1/7/2022,,,0,0,0,NEW
+"M9476/6",M94766,1,"Medulloblastoma, SHH-activated and TP53-mutant, metastatic",Meduloblstm SHH actvd & TP53-mutant met,1/7/2022,,,0,0,0,NEW
+"M9476/9",M94769,1,"Medulloblastoma, SHH-activated and TP53-mutant, uncertain whether primary or metastatic","Meduloblstm SHH actvd & TP53-mutant up/m",1/7/2022,,,0,0,0,NEW
+"M9477/3",M94773,0,"Medulloblastoma, non-WNT/non-SHH","Medulloblastoma non-WNT/non-SHH",1/7/2022,,,0,0,0,NEW
+"M9477/6",M94776,1,"Medulloblastoma, non-WNT/non-SHH, metastatic","Medulloblastoma non-WNT/non-SHH met",1/7/2022,,,0,0,0,NEW
+"M9477/9",M94779,1,"Medulloblastoma, non-WNT/non-SHH, uncertain whether primary or metastatic","Medulloblastoma non-WNT/non-SHH up/m",1/7/2022,,,0,0,0,NEW
+"M9478/3",M94783,0,Embryonal tumour with multilayered rosettes with C19MC alteration,Embl tum w mtlyd rosettes w C19MC alt,1/7/2022,,,0,0,0,NEW
+"M9478/6",M94786,1,"Embryonal tumour with multilayered rosettes with C19MC alteration, metastatic",Embl tum mtlyd rosettes w C19MC alt met,1/7/2022,,,0,0,0,NEW
+"M9478/9",M94789,1,"Embryonal tumour with multilayered rosettes with C19MC alteration, uncertain whether primary or metastatic","Embl tum mtlyd rosettes w C19MC alt up/m",1/7/2022,,,0,0,0,NEW
+"M9493/0",M94930,0,Dysplastic gangliocytoma of cerebellum [Lhermitte-Duclos],Dysplastic gangliocytoma of cerebellum,1/7/2002,,,0,1,1,UPDATED
+"M9493/1",M94931,1,"Dysplastic gangliocytoma of cerebellum [Lhermitte-Duclos], uncertain whether benign or malignant","Dysplastic gangliocytoma of cerbelm ub/m",1/7/2002,,,0,1,1,UPDATED
+"M9538/1",M95381,0,Clear cell meningioma,Clear cell meningioma,1/7/1998,,,0,1,1,UPDATED
+"M9542/3",M95423,0,"Malignant peripheral nerve sheath tumour, epithelioid",Malg perph nerve sheath tum epithelioid,1/7/2022,,,0,0,0,NEW
+"M9542/6",M95426,1,"Malignant peripheral nerve sheath tumour, epithelioid, metastatic",Malg perph nrv sheath tum epitheld met,1/7/2022,,,0,0,0,NEW
+"M9542/9",M95429,1,"Malignant peripheral nerve sheath tumour, epithelioid, uncertain whether primary or metastatic","Malg perph nrv sheath tum epitheld up/m",1/7/2022,,,0,0,0,NEW
+"M9560/0",M95600,0,Schwannoma NOS,Schwannoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M9560/1",M95601,0,Melanotic schwannoma,Melanotic schwannoma,1/7/1998,,,0,1,1,UPDATED
+"M9562/0",M95620,0,Nerve sheath myxoma,Nerve sheath myxoma,1/7/1998,,,0,1,1,UPDATED
+"M9563/0",M95630,0,Nerve sheath tumour NOS,Nerve sheath tumour NOS,1/7/2022,,,0,0,0,NEW
+"M9591/1",M95911,0,Monoclonal B-cell lymphocytosis NOS,Monoclonal B-cell lymphocytosis NOS,1/7/2022,,,0,0,0,NEW
+"M9591/3",M95913,0,"Malignant lymphoma, non-Hodgkin NOS",Malignant lymphoma non-Hodgkin NOS,1/7/1998,,,0,1,1,UPDATED
+"M9652/3",M96523,0,"Hodgkin lymphoma, mixed cellularity NOS",Hodgkin lymphoma mixed cellularity NOS,1/7/1998,,,0,1,1,UPDATED
+"M9654/3",M96543,0,"Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis",Hodgk lymph lymphocyte depletn dfs fibr,1/7/1998,,,0,1,1,UPDATED
+"M9655/3",M96553,0,"Hodgkin lymphoma, lymphocyte depletion, reticular",Hodgk lymph lymphocyte depletn reticlr,1/7/1998,,,0,1,1,UPDATED
+"M9659/3",M96593,0,"Hodgkin lymphoma, nodular lymphocyte predominant",Hodgkin lymph nodulr lympht predominant,1/7/1998,,,0,1,1,UPDATED
+"M9671/3",M96713,0,Lymphoplasmacytic lymphoma,Lymphoplasmacytic lymphoma,1/7/1998,,,0,1,1,UPDATED
+"M9673/1",M96731,0,In situ mantle cell neoplasia,In situ mantle cell neoplasia,1/7/2022,,,0,0,0,NEW
+"M9675/3",M96753,0,"Malignant lymphoma, mixed small and large cell, diffuse",Malg lymphoma mx sm & large cl diffuse,1/7/1998,,,0,1,1,UPDATED
+"M9680/1",M96801,0,EBV positive mucocutaneous ulcer,EBV positive mucocutaneous ulcer,1/7/2022,,,0,0,0,NEW
+"M9680/3",M96803,0,Diffuse large B-cell lymphoma NOS,Diffuse large B-cell lymphoma NOS,1/7/1998,,,0,1,1,UPDATED
+"M9684/3",M96843,0,"Malignant lymphoma, large B-cell, diffuse, immunoblastic NOS",Malg lymph lrg B-cl dfs imbltc NOS,1/7/1998,,,0,1,1,UPDATED
+"M9695/1",M96951,0,In situ follicular neoplasia,In situ follicular neoplasia,1/7/2022,,,0,0,0,NEW
+"M9702/1",M97021,0,Indolent T-cell lymphoproliferative disorder of gastrointestinal tract,Indolent T-cell lymphprol disrd GI tract,1/7/2022,,,0,0,0,NEW
+"M9709/1",M97091,0,"Primary cutaneous CD4 positive small/medium T-cell lymphoproliferative disorder",Prim cutan CD4 pos sm medm T-cl disrd,1/7/2022,,,0,0,0,NEW
+"M9714/3",M97143,0,"Anaplastic large cell lymphoma, T-cell and Null-cell type",Anplst lrg cl lymph T cl & Null cl type,1/7/1998,,,0,1,1,UPDATED
+"M9715/3",M97153,0,"Anaplastic large cell lymphoma, ALK negative",Anaplastic large cell lymphoma ALK neg,1/7/2022,,,0,0,0,NEW
+"M9718/1",M97181,0,Primary cutaneous CD30 positive T-cell lymphoproliferative disorder,Prim cutan CD30 pos T-cl lymphprol disrd,1/7/2022,,,0,0,0,NEW
+"M9718/3",M97183,0,Primary cutaneous anaplastic large cell lymphoma,Prim cutan anaplastic lrg cell lymphoma,1/7/2002,,,0,1,1,UPDATED
+"M9725/1",M97251,0,Hydroa vacciniforme-like lymphoproliferative disorder,Hydroa vacciniforme-like lymphprol disrd,1/7/2022,,,0,0,0,NEW
+"M9732/3",M97323,0,Plasma cell myeloma,Plasma cell myeloma,1/7/1998,,,0,1,1,UPDATED
+"M9738/3",M97383,0,HHV8 positive diffuse large B-cell lymphoma,HHV8 pos diffuse lrg B-cell lymphoma,1/7/2013,,,0,1,1,UPDATED
+"M9749/3",M97493,0,Erdheim-Chester disease,Erdheim-Chester disease,1/7/2022,,,0,0,0,NEW
+"M9751/1",M97511,0,Langerhans cell histiocytosis NOS,Langerhans cell histiocytosis NOS,1/7/2002,1/7/2013,1/7/2022,0,0,0,REACTIVATED
+"M9751/3",M97513,0,Langerhans cell histiocytosis disseminated,Langerhans cl histiocytosis disseminated,1/7/2013,,,0,1,1,UPDATED
+"M9761/1",M97611,0,IgM monoclonal gammopathy of undetermined significance,IgM monoclonal gammopathy undet signif,1/7/2022,,,0,0,0,NEW
+"M9766/1",M97661,0,Angiocentric immunoproliferative lesion,Angiocentric immunoproliferative lesion,1/7/1998,1/7/2013,1/7/2022,0,1,1,REACTIVATED
+"M9766/3",M97663,0,"Lymphomatoid granulomatosis, grade 3",Lymphomatoid granulomatosis grade 3,1/7/2010,,,0,1,1,UPDATED
+"M9819/3",M98193,0,"B lymphoblastic leukaemia/lymphoma, BCR-ABL1-like",B lymblas leuk lymphoma BCR-ABL1-like,1/7/2022,,,0,0,0,NEW
+"M9823/1",M98231,0,"Monoclonal B-cell lymphocytosis, CLL type",Monoclonal B-cell lymphocytosis CLL type,1/7/2022,,,0,0,0,NEW
+"M9827/3",M98273,0,"Adult T-cell leukaemia/lymphoma [HTLV-1 positive]","Adult T-cell leukaemia/lymphoma HTLV pos",1/7/1998,,,0,1,1,UPDATED
+"M9840/3",M98403,0,Acute erythroid leukaemia,Acute erythroid leukaemia,1/7/1998,,,0,1,1,UPDATED
+"M9866/3",M98663,0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",Ac promyelocytic leu t15 17 q22 q11-12,1/7/1998,,,0,1,1,UPDATED
+"M9877/3",M98773,0,Acute myeloid leukaemia with mutated NPM1,Acute myeloid leukaemia w mutated NPM1,1/7/2022,,,0,0,0,NEW
+"M9878/3",M98783,0,Acute myeloid leukaemia with biallelic mutation of CEBPA,AML with biallelic mutation of CEBPA,1/7/2022,,,0,0,0,NEW
+"M9879/3",M98793,0,Acute myeloid leukaemia with mutated RUNX1,AML with mutated RUNX1,1/7/2022,,,0,0,0,NEW
+"M9911/3",M99113,0,Acute myeloid leukaemia [megakaryoblastic] with t(1;22)(p13;q13); RBM15-MKL1,Ac myeloid leuk t(1;22)(p13;q13),1/7/2013,,,0,1,0,UPDATED
+"M9912/3",M99123,0,Acute myeloid leukaemia with BCR-ABL1,Acute myeloid leukaemia with BCR-ABL1,1/7/2022,,,0,0,0,NEW
+"M9968/3",M99683,0,Myeloid and lymphoid neoplasm with PCM1-JAK2,Myeloid & lymphoid neoplasm w PCM1-JAK2,1/7/2022,,,0,0,0,NEW
+"M9980/3",M99803,0,Myelodysplastic syndrome with single lineage dysplasia,MDS with single lineage dysplasia,1/7/2002,,,0,1,1,UPDATED
+"M9982/3",M99823,0,Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia,MDS ring sideroblasts & sgl lineage dysp,1/7/2002,,,0,1,1,UPDATED
+"M9983/3",M99833,0,Myelodysplastic syndrome with excess of blasts,MDS with excess of blasts,1/7/2002,,,0,1,1,UPDATED
+"M9985/3",M99853,0,Myelodysplastic syndrome with multilineage dysplasia,MDS with multilineage dysplasia,1/7/2002,,,0,1,1,UPDATED
+"M9986/3",M99863,0,Myelodysplastic syndrome with isolated del (5q),Myelodysplastic synd w isolated del (5q),1/7/2002,,,0,1,1,UPDATED
+"M9993/3",M99933,0,Myelodysplastic syndrome with ring sideroblasts and multilineage dysplasia,MDS ring sideroblasts multilineage dysp,1/7/2022,,,0,0,0,NEW
