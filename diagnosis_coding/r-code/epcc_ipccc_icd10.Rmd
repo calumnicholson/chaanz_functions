@@ -58,10 +58,10 @@ ipccc_2021 <- readxl::read_xlsx(here("diagnosis_coding", "data", "EPCC_IPCCC", "
 ```
 
 ``` {r, eval = FALSE}
-write.csv(ipccc_2021, here("data", "ipccc", "ipccc_2021.csv"),
+write.csv(ipccc_2021, here("diagnosis_coding", "data", "ipccc", "ipccc_2021.csv"),
           row.names = FALSE, na = "")
 
-write_rds(ipccc_2021, here("data", "ipccc", "ipccc_2021.rds"))
+write_rds(ipccc_2021, here("diagnosis_coding", "data", "ipccc", "ipccc_2021.rds"))
 
 ```
 
