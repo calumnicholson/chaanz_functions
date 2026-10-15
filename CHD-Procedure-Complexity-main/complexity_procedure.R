@@ -135,7 +135,8 @@ esc.complexity.procedure <- function(patient.diagnosis,
       `01.01.02` = FALSE,
       
       `01.01.01r` = FALSE, # Repaired TOF,
-      `01.01.01` = FALSE) # TOF
+      `01.01.01` = FALSE, # TOF
+      `01.01.03` = FALSE)
     } %>% 
     add_column(!!!newcodes[!names(newcodes)  %in% names(.)]) %>%  # Adds missing columns
     

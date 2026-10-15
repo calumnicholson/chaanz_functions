@@ -80,7 +80,7 @@ drt.select_V3 <- function (drt_path = "G:/r-projects/r-projects/central/chaanz_f
                            remove_sts = TRUE,
                            remove_icd = TRUE) {
   
-  read_csv(paste0(drt_path, filename), col_types = cols(.default = "c")) %>%
+  read_csv(file.path(drt_path, filename), col_types = cols(.default = "c")) %>%
     select("epcc_code" = IPCCC_CODE_R, 
            "epcc_name" = DIAGNOSIS_R,
            "chd" = CHAANZELIGIBILITY,
@@ -116,7 +116,7 @@ prt.select <- function (prt_path = "/Volumes/PRJ-CHAANZ/data/",
                         remove_chd = FALSE,
                         remove_implied = FALSE) {
   
-  read_csv(paste0(prt_path, filename), col_types = cols(.default = "c")) %>%
+  read_csv(file.path(prt_path, filename), col_types = cols(.default = "c")) %>%
     select("epcc_code" = IPCCC_CODE_R, 
            "epcc_name" = PROCEDURE_IPCCC_R,
            "sts_code" = STS_CODE_R,

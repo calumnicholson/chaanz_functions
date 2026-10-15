@@ -1,0 +1,484 @@
+CHAANZ_SOURCE,PROCEDURE_IPCCC_R,IPCCC_CODE_R,PROCEDURE_STS_R,STS_CODE_R,PROC_ELIGIBILITY,implied_diagnosis,implied_code,implied_code_drt
+David Celermajer and David Baker 05DEC2022,"Totally anomalous pulmonary venous connection repair,",12.00.00,TAPVC repair,280,1,TAPVC,04.08.05,04.08.05
+David Celermajer and David Baker 05DEC2022,"Partially anomalous pulmonary venous connection repair,",12.00.02,PAPVC repair,260,1,PAPVC,04.07.01,04.07.01
+David Celermajer and David Baker 05DEC2022,"Pulmonary vein stenosis repair,",12.00.03,Pulmonary venous stenosis repair,300,1,,,
+David Celermajer and David Baker 05DEC2022,"Partially anomalous pulmonary venous connection repair, Scimitar syndrome (partially anomalous pulmonary venous connection) repair,",12.00.17,"PAPVC, Scimitar, Repair",270,1,Scimitar Syndrome,01.01.16,01.01.16
+David Celermajer 18JUL2023,"Pulmonary vein procedure,",12.00.20,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary vein,",12.00.21,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in pulmonary vein,",12.00.22,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary vein using cutting balloon,",12.00.23,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary vein or pathway,",12.00.24,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in pulmonary vein or pathway,",12.00.25,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic venous pathway procedure (post Senning-Mustard),",12.00.29,"Atrial baffle procedure, Mustard or Senning revision",1145,1,d-TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Systemic vein procedure,",12.00.30,Anomalous systemic venous connection repair,330,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in superior caval vein (SVC),",12.00.36,Systemic venous stenosis repair,340,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic vein procedure, Superior caval vein (SVC) procedure,",12.00.39,,Manual review required,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic vein procedure, Inferior caval vein (IVC) procedure,",12.00.42,,Manual review required,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of systemic vein or pathway,",12.00.43,Anomalous systemic venous connection repair,330,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in systemic vein or pathway,",12.00.44,Anomalous systemic venous connection repair,330,1,,,
+David Celermajer and David Baker 05DEC2022,"Coronary sinus procedure,",12.00.50,Anomalous systemic venous connection repair,330,1,,,
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure, Coronary sinus interatrial communication (ASD) repair,",12.00.55,,Manual review required,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Partially anomalous pulmonary venous connection repair, Partially anomalous pulmonary venous connection repair: baffle redirection to left atrium & systemic vein translocated to right atrial appendage (Warden),",12.00.78,"PAPVC repair, Baffle redirection to left atrium with systemic vein translocation (Warden) (SVC sewn",2120,1,PAPVC,04.07.01,04.07.01
+David Celermajer and David Baker 05DEC2022,"Systemic vein procedure, Anomalous systemic venous connection repair,",12.00.81,Anomalous systemic venous connection repair,330,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic vein procedure, Systemic venous stenosis repair,",12.00.83,Systemic venous stenosis repair,340,1,,,
+David Celermajer and David Baker 05DEC2022,"Cardiopulmonary bypass for non-cardiac lesion,",12.00.92,Bypass for noncardiac lesion,1950,1,,,
+David Celermajer and David Baker 05DEC2022,"Interatrial communication closure,",12.01.00,,Manual review required (likely one of below specific options),1,,,
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure,",12.01.01,,Manual review required (likely one of below specific options),1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure, Atrial septal defect (ASD) secundum closure with direct suture,",12.01.02,"ASD repair, Primary closure",20,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure, Atrial septal defect (ASD) secundum closure with patch,",12.01.03,"ASD repair, Patch",30,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure with transluminal device,",12.01.06,"ASD repair, Device",40,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer 18JUL2023,"Patent foramen ovale (PFO) closure with transluminal device,",12.01.07,"ASD repair, Device",40,0,PFO,05.03.01,05.03.01
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure, Interatrial communication closure: partial,",12.01.08,ASD partial closure,70,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Atrial septal defect (ASD) secundum closure, Sinus venosus defect (ASD) closure,",12.01.10,,Manual review required,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer and David Baker 05DEC2022,"Atrial septation procedure,",12.01.22,"ASD, Common atrium (single atrium), Septation",50,1,,,
+David Celermajer and David Baker 05DEC2022,"Left atrial procedure,",12.01.30,"Cardiac procedure, Other",2010,1,,,
+David Celermajer and David Baker 05DEC2022,"Left atrial procedure, Cor triatriatum (divided left atrium) repair,",12.01.31,Cor triatriatum repair,290,1,Cor Triatriatum,05.02.01,05.02.01
+David Celermajer and David Baker 05DEC2022,"Supra-mitral valvar LA-ring excision,",12.01.32,"Mitral stenosis, Supravalvar mitral ring repair",840,1,Supravalvular Mitral Ring,05.02.02,05.02.02
+David Celermajer and David Baker 05DEC2022,"Balloon atrial septostomy by pull back (Rashkind),",12.01.41,"Cardiovascular catheterization procedure, Therapeutic, Septostomy",2580,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Interatrial communication creation-enlargement, Atrial septectomy: closed (Blalock Hanlon),",12.01.42,ASD creation/enlargement,60,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Interatrial communication creation-enlargement, Atrial septectomy,",12.01.43,ASD creation/enlargement,60,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer 18JUL2023,"Blade atrial septostomy,",12.01.44,"Cardiovascular catheterization procedure, Therapeutic, Septostomy",2580,0,d-TGA,,
+David Celermajer and David Baker 05DEC2022,"Transluminal fenestration of atrial septum-tunnel,",12.01.47,Atrial septal fenestration,80,1,,,
+David Celermajer and David Baker 05DEC2022,"Patent foramen ovale (PFO) direct closure,",12.01.53,"PFO, Primary closure",10,1,PFO,05.03.01,05.03.01
+David Celermajer and David Baker 05DEC2022,"Atrial baffle procedure,",12.01.57,,Manual review needed as too non-specific (may be 310 or 1145),1,d-TGA,01.05.01,01.05.01
+David Celermajer 18JUL2023,"Right atrial procedure,",12.01.60,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Interatrial communication left open,",12.01.80,"Cardiac procedure, Other",2010,1,,,
+David Celermajer and David Baker 05DEC2022,"Interatrial communication creation-enlargement,",12.01.90,ASD creation/enlargement,60,1,,,
+David Celermajer and David Baker 05DEC2022,"Interatrial communication closure with transluminal device,",12.01.98,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,1,ASD (secundum),05.04.02r,05.04.02
+David Celermajer 18JUL2023,"Tricuspid valvar procedure,",12.02.00,"Valve surgery, Other, Tricuspid",500,0,,,
+David Celermajer 18JUL2023,"Tricuspid valvar procedure, Tricuspid leaflet (valvoplasty) procedure,",12.02.02,"Valvuloplasty, Tricuspid",460,0,,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Tricuspid valvar annuloplasty,",12.02.04,"Valvuloplasty, Tricuspid",460,0,,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Ebstein malformation of tricuspid valve repair,",12.02.09,Ebstein's repair,465,1,Ebstein's Anomaly,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Tricuspid valvar replacement,",12.02.11,"Valve replacement, Tricuspid (TVR)",470,0,,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Tricuspid valvectomy,",12.02.22,"Valve excision, Tricuspid (without replacement)",490,1,,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Tricuspid valvar closure,",12.02.70,"Valve closure, Tricuspid (exclusion, univentricular approach)",480,1,Complex CHD,,
+David Celermajer and David Baker 05DEC2022,"Tricuspid valvar procedure, Ebstein malformation of tricuspid valve repair: tricuspid valve closure & shunt (Starnes),",12.02.77,Ebstein's repair,465,1,Ebstein's Anomaly,06.01.34,06.01.34
+David Celermajer 18JUL2023,"Tricuspid valvar procedure, Tricuspid valve repair converted to tricuspid valvar replacement,",12.02.83,"Valvuloplasty converted to valve replacement in the same operation, Tricuspid",2280,0,,,
+David Celermajer and David Baker 05DEC2022,"Mitral valvar procedure,",12.03.00,"Cardiac procedure, Other",2010,0,,,
+David Celermajer 18JUL2023,"Mitral valvar procedure, Mitral valvotomy,",12.03.01,"Valvuloplasty, Mitral",830,0,,,
+David Celermajer 18JUL2023,"Mitral valvar procedure, Mitral leaflet (valvoplasty) procedure,",12.03.03,"Valvuloplasty, Mitral",830,0,,,
+David Celermajer 18JUL2023,"Mitral valvar procedure, Mitral valvar annuloplasty,",12.03.04,"Valvuloplasty, Mitral",830,0,,,
+David Celermajer 18JUL2023,"Balloon dilation of mitral valve,",12.03.10,"Valvuloplasty, Mitral",830,0,,,
+David Celermajer 18JUL2023,"Mitral valvar procedure, Mitral valvar replacement,",12.03.11,"Valve replacement, Mitral (MVR)",850,0,,,
+David Celermajer and David Baker 05DEC2022,"Mitral subvalvar apparatus procedure,",12.03.19,"Valve surgery, Other, Mitral",860,0,,,
+David Celermajer and David Baker 05DEC2022,"Mitral valvar procedure, Mitral valve repair converted to mitral valvar replacement,",12.03.84,"Valvuloplasty converted to valve replacement in the same operation, Mitral",2260,1,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal mitral valve repair,",12.03.97,"Valvuloplasty, Mitral",830,1,,,
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect procedure,",12.04.00,"Cardiac procedure, Other",2010,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect procedure, Atrioventricular septal defect (AVSD): partial (primum ASD) repair,",12.04.01,"AVC (AVSD) repair, Partial (Incomplete) (PAVSD)",190,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect procedure, Atrioventricular septal defect (AVSD): partial with isolated ventricular component (VSD) repair,",12.04.09,"AVC (AVSD) repair, Partial (Incomplete) (PAVSD)",190,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Common atrioventricular valve replacement,",12.04.18,"Valve replacement, Common atrioventricular valve",2230,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Common atrioventricular valvar leaflet (valvoplasty) procedure, Atrioventricular septal defect (AVSD): right atrioventricular valvar procedure,",12.04.20,,Manual review required,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Common atrioventricular valve repair converted to atrioventricular valvar replacement,",12.04.33,"Valvuloplasty converted to valve replacement in the same operation, Common atrioventricular valve",2250,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Common atrioventricular valvar leaflet (valvoplasty) procedure, Atrioventricular septal defect (AVSD): left atrioventricular valvar procedure,",12.04.40,"Valvuloplasty, Mitral",830,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Common atrioventricular valvar leaflet (valvoplasty) procedure, Atrioventricular septal defect (AVSD): left atrioventricular valvar replacement,",12.04.45,"Valve replacement, Mitral (MVR)",850,1,AVSD,06.06.00,06.06.00
+David Celermajer 18JUL2023,"Mitral valvar procedure, Mitral valve replacement with stented bovine jugular vein conduit,",12.04.89,,850 but manual review required if going STS to EPCC,0,,,
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect procedure, Atrioventricular septal defect (AVSD): complete (common valve orifice) repair,",12.05.01,"AVC (AVSD) repair, Complete (CAVSD)",170,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect procedure, Atrioventricular septal defect (AVSD): 'intermediate' repair,",12.05.10,"AVC (AVSD) repair, Intermediate (Transitional)",180,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Atrioventricular septal defect (AVSD) & Tetralogy of Fallot repair,",12.05.11,TOF -  AVC (AVSD) repair,390,1,AVSD + TOF,"01.01.01r, 06.06.00","01.01.01, 06.06.00"
+David Celermajer and David Baker 05DEC2022,"Right ventricular outflow tract procedure,",12.06.00,RVOT procedure,510,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of right ventricular outflow tract,",12.06.05,RVOT procedure,510,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in right ventricular outflow tract,",12.06.18,RVOT procedure,510,1,,,
+David Celermajer and David Baker 05DEC2022,"1.5 ventricle repair: superior cavopulmonary (Glenn) anastomosis + right ventricular outflow tract reconstruction,",12.06.19,1 1/2 ventricular repair,520,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer 18JUL2023,"Transluminal right ventricular biopsy,",12.06.25,"Cardiac procedure, Other",2010,0,,,
+David Celermajer 18JUL2023,"Right ventricular procedure,",12.06.26,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Right ventricular procedure, Double chambered right ventricle repair,",12.06.35,DCRV repair,570,1,Double-chambered right ventricle,07.03.01,07.03.01
+David Celermajer 18JUL2023,"Right ventricular procedure, Right ventricular aneurysm repair,",12.06.38,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Right ventricular outflow tract procedure, Right ventricular outflow tract obstruction relief,",12.06.41,RVOT procedure,510,1,,,
+David Celermajer and David Baker 05DEC2022,"Conduit construction procedure, Right ventricle to pulmonary artery valveless conduit construction (Japanese modification: 'Sano') as part of Norwood procedure,",12.06.43,"Conduit placement, RV to PA",610,1,,,
+David Celermajer 18JUL2023,"Left ventricular outflow tract procedure,",12.07.00,"Cardiac procedure, Other",2010,0,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer and David Baker 05DEC2022,"Left ventricular outflow tract procedure, Left ventricular outflow tract obstruction relief, Subaortic fibromuscular shelf resection,",12.07.01,"Aortic stenosis, Subvalvar, Repair",780,1,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of left ventricular outflow tract,",12.07.07,"Cardiac procedure, Other",2010,1,Subaortic Membrane,07.09.03,07.09.03
+David Celermajer 18JUL2023,"Left ventricular outflow tract procedure, Left ventricular outflow tract obstruction relief, Left ventricular outflow tract myectomy-myotomy,",12.07.11,"Aortic stenosis, Subvalvar, Repair, With myectomy for IHSS",2100,0,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer and David Baker 05DEC2022,"Left ventricular outflow tract procedure, Left ventricular outflow tract obstruction relief, Left ventricular outflow tract obstruction relief: complex (Konno etc),",12.07.12,,3380 but manual review required from STS to EPCC,1,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer and David Baker 05DEC2022,"Left ventricular outflow tract procedure, Left ventricular outflow tract obstruction relief,",12.07.13,"Aortic stenosis, Subvalvar, Repair",780,1,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer 18JUL2023,"Transluminal chemical occlusion of coronary artery, Left ventricular outflow tract obstruction relief by transcatheter coronary chemical ablation,",12.07.19,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer 18JUL2023,"Left ventricular procedure,",12.07.26,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Left ventricular procedure, Left ventricular aneurysm repair,",12.07.37,"Aneurysm, Ventricular, Left, Repair",1730,1,,,
+David Celermajer 18JUL2023,"Left ventricular procedure, Partial left ventriculectomy-volume reduction (Batista),",12.07.38,Partial left ventriculectomy (LV volume reduction surgery) (Batista),910,0,,,
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) closure,",12.08.01,,Manual review required (likely one of the next 4 or 5 more specific options),1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) closure, Ventricular septal defect (VSD) closure by direct suture,",12.08.02,"VSD repair, Primary closure",100,1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) closure, Ventricular septal defect (VSD) closure using patch,",12.08.03,"VSD repair, Patch",110,1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) enlargement/ creation, Ventricular septal defect (VSD) enlargement,",12.08.06,VSD creation/enlargement,140,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) closure with transluminal device,",12.08.07,"VSD repair, Device",120,1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) closure, Closure of multiple ventricular septal defect (VSD)s,",12.08.16,"VSD, Multiple, Repair",130,1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Open fenestration of ventricular septal defect (VSD) patch,",12.08.19,Ventricular septal fenestration,150,1,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal fenestration of ventricular septal defect (VSD) patch,",12.08.20,Ventricular septal fenestration,150,1,,,
+David Celermajer and David Baker 05DEC2022,"Right ventricular outflow tract procedure, Subpulmonary obstruction relief,",12.08.21,RVOT procedure,510,1,,,
+David Celermajer 18JUL2023,"Left ventricular outflow tract procedure, Left ventricular outflow tract obstruction relief, Subaortic obstruction relief,",12.08.22,"Aortic stenosis, Subvalvar, Repair",780,0,Subaortic Stenosis,07.09.00,07.09.00
+David Celermajer and David Baker 05DEC2022,"Intraoperative ventricular septal defect (VSD) closure with transluminal device (hybrid approach),",12.08.28,"VSD repair, Device",120,1,VSD,07.10.00r,07.10.00
+David Celermajer and David Baker 05DEC2022,"Ventricular septal defect (VSD) enlargement/ creation,",12.08.35,VSD creation/enlargement,140,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Transluminal interventricular communication creation,",12.08.65,"Cardiovascular catheterization procedure, Therapeutic, Perforation (establishing interchamber and/or",2640,1,,,
+David Celermajer and David Baker 05DEC2022,"Ventricular septation procedure,",12.09.01,Ventricular septation,1035,1,,,
+David Celermajer and David Baker 05DEC2022,"Damus-Kaye-Stansel type procedure: pulmonary trunk to aorta end/side anastomosis,",12.09.03,Damus-Kaye-Stansel procedure (DKS) (creation of AP anastomosis without arch reconstruction),1660,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Norwood type procedure,",12.10.00,Norwood procedure,870,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Application of bilateral pulmonary arterial bands & transcatheter placement of stent in arterial duct,",12.10.04,"Hybrid Approach ""Stage 1"", Stent placement in arterial duct (PDA) + application of RPA & LPA bands",2180,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Hypoplastic left heart biventricular repair,",12.10.05,HLHS biventricular repair,880,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Stent placement in arterial duct (PDA),",12.10.14,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,PDA + Complex CHD,"01.01.99, 09.27.21",09.27.21
+David Celermajer and David Baker 05DEC2022,"Common arterial trunk (truncus) repair,",12.11.00,Truncus arteriosus repair,230,1,Truncus Arteriosus,09.01.01,09.01.01
+David Celermajer and David Baker 05DEC2022,"Truncal valve cusp(s) repair (valvoplasty),",12.11.34,"Valvuloplasty, Truncal valve",240,1,Truncus Arteriosus,09.01.01,09.01.01
+David Celermajer and David Baker 05DEC2022,"Truncal valve replacement,",12.11.41,"Valve replacement, Truncal valve",250,1,Truncus Arteriosus,09.01.01,09.01.01
+David Celermajer and David Baker 05DEC2022,"Truncal valve repair converted to truncal valvar replacement,",12.11.43,"Valvuloplasty converted to valve replacement in the same operation, Truncal valve",2290,1,Truncus Arteriosus,09.01.01,09.01.01
+David Celermajer and David Baker 05DEC2022,"Aortopulmonary window closure,",12.12.01,AP window repair,210,1,Aortopulmonary Window,09.04.01,09.04.01
+David Celermajer and David Baker 05DEC2022,"Aortopulmonary window closure with transcatheter device,",12.12.08,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,1,Aortopulmonary Window,09.04.01,09.04.01
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar procedure,",12.13.00,"Valvuloplasty, Pulmonic",590,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar procedure, Pulmonary valvotomy: open,",12.13.02,"Valvuloplasty, Pulmonic",590,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary valve,",12.13.05,"Valvuloplasty, Pulmonic",590,1,,,
+Approvedjudithwhatson20230214,"Pulmonary valvar transluminal perforation & dilation,",12.13.09,"Valve surgery, Other, Pulmonic",650,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar procedure, Pulmonary valvectomy,",12.13.12,"Valve excision, Pulmonary (without replacement)",630,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar procedure, Pulmonary valve closure-oversewing,",12.13.15,"Valve closure, Semilunar",640,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar replacement (not conduit),",12.13.21,"Valve replacement, Pulmonic (PVR)",600,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valvar replacement using homograft,",12.13.22,"Valve replacement, Pulmonic (PVR)",600,1,,,
+David Celermajer 18JUL2023,"Transluminal pulmonary valvar insertion with stent mounted valve,",12.13.51,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter implantation of valve",2660,0,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary valve repair converted to pulmonary valvar replacement,",12.13.55,"Valvuloplasty converted to valve replacement in the same operation, Pulmonic",2270,1,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal aortic valvar insertion with stent mounted valve,",12.13.81,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter implantation of valve",2660,1,,,
+David Celermajer and David Baker 05DEC2022,"Transapical aortic valve implantation (hybrid approach),",12.13.84,Other procedure,7777,1,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal pulmonary valvar insertion with stent mounted valve including prestenting,",12.13.85,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter implantation of valve",2660,1,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal pulmonary valvar prestenting procedure in preparation for valve replacement,",12.13.86,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter implantation of valve",2660,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary trunk arterioplasty,",12.14.01,"PA, reconstruction (plasty), Main (trunk)",530,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary trunk band (PA band),",12.14.02,PA banding (PAB),1640,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary trunk band removal (de-band),",12.14.03,PA debanding,1650,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary trunk,",12.14.05,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Open adjustment of pulmonary trunk band,",12.14.08,PA band adjustment,3200,1,,,
+David Celermajer and David Baker 05DEC2022,"Application of right & left pulmonary arterial bands,",12.14.19,PA banding (PAB),1640,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary arterioplasty/ reconstruction,",12.14.20,,Manual review required (likely one of the next more specific options),1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary arterioplasty/ reconstruction, Pulmonary arterioplasty/ reconstruction: central (proximal to hilar bifurcation),",12.14.21,"PA, reconstruction (plasty), Branch, Central (within the hilar bifurcation)",540,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary arterioplasty/ reconstruction, Pulmonary arterioplasty/ reconstruction: peripheral (at-beyond hilar bifurcation),",12.14.22,"PA, reconstruction (plasty), Branch, Peripheral (at or beyond the first lobar branch)",550,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary artery origin from ascending aorta (hemitruncus) repair,",12.14.30,Pulmonary artery origin from ascending aorta (hemitruncus) repair,220,1,Hemitruncus,09.09.08,09.09.08
+David Celermajer and David Baker 05DEC2022,"Pulmonary artery ligation,",12.14.31,"Ligation, Pulmonary artery",1790,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of right pulmonary artery,",12.15.03,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of left pulmonary artery,",12.15.04,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Application of right pulmonary artery band,",12.15.05,PA banding (PAB),1640,1,,,
+David Celermajer and David Baker 05DEC2022,"Application of left pulmonary artery band,",12.15.06,PA banding (PAB),1640,1,,,
+David Celermajer 18JUL2023,"Procedure involving pulmonary artery,",12.15.11,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in right pulmonary artery,",12.15.13,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in left pulmonary artery,",12.15.14,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary artery aneurysm repair,",12.15.24,"Aneurysm, Pulmonary artery, Repair",1740,1,,,
+David Celermajer and David Baker 05DEC2022,"Pulmonary trunk flow restriction using transcatheter implanted device,",12.15.25,"Cardiac procedure, Other",2010,1,,,
+David Celermajer 18JUL2023,"Pulmonary thromboembolectomy,",12.15.48,"Pulmonary embolectomy, Acute pulmonary embolus",1802,0,,,
+David Celermajer 18JUL2023,"Transluminal embolectomy from pulmonary tree,",12.15.49,,,0,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement in pulmonary tree,",12.15.50,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of pulmonary tree with cutting balloon,",12.15.53,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer 18JUL2023,"Pulmonary thromboembolectomy for acute embolus,",12.15.80,"Pulmonary embolectomy, Acute pulmonary embolus",1802,0,,,
+David Celermajer 18JUL2023,"Pulmonary thromboembolectomy for chronic (longstanding) embolus,",12.15.81,"Pulmonary embolectomy, Chronic pulmonary embolus",1804,0,,,
+David Celermajer 18JUL2023,"Aortic valvar procedure,",12.16.00,,3655,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valvotomy: open,",12.16.02,"Valvuloplasty, Aortic",660,1,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valvotomy: closed,",12.16.04,"Valvuloplasty, Aortic",660,1,,,
+David Celermajer 18JUL2023,"Balloon dilation of aortic valve,",12.16.05,"Valvuloplasty, Aortic",660,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic cusp(s) repair (valvoplasty),",12.16.11,"Valvuloplasty, Aortic",660,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, 'Annuloplasty' of aortic valve,",12.16.14,"Valvuloplasty, Aortic",660,1,,,
+David Celermajer 18JUL2023,"Aortic valvar procedure, Aortic valvar replacement,",12.16.21,"Valve replacement, Aortic (AVR)",670,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valvar replacement, Aortic valvar replacement using homograft,",12.16.22,"Valve replacement, Aortic (AVR), Homograft",700,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar transluminal perforation & dilation,",12.16.25,"Valvuloplasty, Aortic",660,1,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valvar replacement, Aortic valvar replacement using heterograft bioprosthesis,",12.16.28,"Valve replacement, Aortic (AVR), Bioprosthetic",690,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valvar replacement, Aortic valvar replacement using mechanical prosthesis,",12.16.29,"Valve replacement, Aortic (AVR), Mechanical",680,0,,,
+David Celermajer and David Baker 05DEC2022,"Ross procedure: aortic valve or root replacement with pulmonary autograft & pulmonary valvar replacement,",12.16.30,Ross procedure,740,1,,,
+David Celermajer and David Baker 05DEC2022,"Aortic root replacement + coronary artery reimplantation (Bentall),",12.16.33,"Aortic root replacement, Homograft",730,1,,,
+David Celermajer and David Baker 05DEC2022,"Ascending aorta replacement, Ascending aorta replacement & aortic valvar resuspension,",12.16.35,,3655,1,,,
+David Celermajer and David Baker 05DEC2022,"Supravalvar aortic stenosis repair,",12.16.40,"Aortic stenosis, Supravalvar, Repair",790,1,Supra-valve Aortic Stenosis,09.16.00,09.16.00
+David Celermajer 18JUL2023,"Aorta aneurysm repair,",12.16.42,Aortic aneurysm repair,1380,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic root replacement (not Ross),",12.16.50,,Manual review required - likely one of the next 4-5 options,1,,,
+David Celermajer 18JUL2023,"Aortic dissection repair,",12.16.59,Aortic dissection repair,1390,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic valvar procedure, Aortic valve closure-oversewing,",12.16.61,"Valve closure, Semilunar",640,1,,,
+David Celermajer and David Baker 05DEC2022,"Ross-Konno procedure,",12.16.62,Ross-Konno procedure,760,1,,,
+David Celermajer 18JUL2023,"Aortic root replacement (not Ross), Aortic root replacement using homograft,",12.16.63,"Aortic root replacement, Homograft",730,0,,,
+David Celermajer 18JUL2023,"Aortic root replacement (not Ross), Aortic root replacement using mechanical prosthesis,",12.16.64,"Aortic root replacement, Mechanical",720,0,,,
+David Celermajer 18JUL2023,"Ascending aorta replacement,",12.16.65,,3655,0,,,
+David Celermajer 18JUL2023,"Aorta aneurysm repair, Aortic arch aneurysm repair,",12.16.66,Aortic aneurysm repair,1380,0,,,
+David Celermajer and David Baker 05DEC2022,"Aorta aneurysm repair, Descending aorta aneurysm repair,",12.16.67,Aortic aneurysm repair,1380,1,,,
+David Celermajer 18JUL2023,"Aorta aneurysm repair, Abdominal aorta aneurysm repair,",12.16.68,Aortic aneurysm repair,1380,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic sinus of Valsalva procedure,",12.16.80,,Manual review from STS to EPCC,1,,,
+David Celermajer and David Baker 05DEC2022,"Aortic sinus of Valsalva procedure, Aortic sinus of Valsalva distal fistula closure,",12.16.81,,Manual review from STS to EPCC,1,,,
+David Celermajer and David Baker 05DEC2022,"Aortic sinus of Valsalva procedure, Aortic sinus of Valsalva aneurysm repair,",12.16.85,"Sinus of Valsalva, Aneurysm repair",810,1,,,
+David Celermajer and David Baker 05DEC2022,"Aorto-left ventricular tunnel closure,",12.16.90,LV to aorta tunnel repair,820,1,,,
+David Celermajer 18JUL2023,"Aortic valvar procedure, Aortic valvar replacement, Aortic valve repair converted to aortic valvar replacement,",12.16.97,"Valvuloplasty converted to valve replacement in the same operation, Aortic",2240,0,,,
+David Celermajer and David Baker 05DEC2022,"Vascular ring procedure,",12.17.11,Vascular ring repair,1360,1,,,
+David Celermajer 18JUL2023,"Aortopexy,",12.17.31,Aortopexy,1365,0,,,
+David Celermajer and David Baker 05DEC2022,"Vascular ring procedure, Pulmonary arterial sling repair,",12.17.32,Pulmonary artery sling repair,1370,1,,,
+David Celermajer 18JUL2023,"Aortic root replacement (not Ross), Aortic root replacement using bioprosthesis,",12.17.90,"Aortic root replacement, Bioprosthetic",715,0,,,
+David Celermajer 18JUL2023,"Aortic root replacement (not Ross), Aortic root replacement: valve sparing technique,",12.17.91,"Aortic root replacement, Valve sparing",735,0,,,
+David Celermajer and David Baker 05DEC2022,"Aortic root replacement of implanted pulmonary autograft & pulmonary valve re-replacement,",12.17.99,,Manual review required,1,Complex CHD,01.01.99,EXCLUDE
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair,",12.18.00,"Coarctation repair, Other",1260,1,CoA,09.29.01,09.29.01
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair, Aortic coarctation-hypoplasia repair by resection & end to end anastomosis,",12.18.01,"Coarctation repair, End to end",1210,1,CoA,09.29.01,09.29.01
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair, Aortic coarctation-hypoplasia repair by patch aortoplasty,",12.18.02,"Coarctation repair, Patch aortoplasty",1240,1,CoA,09.29.01,09.29.01
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair, Aortic coarctation-hypoplasia repair by subclavian flap aortoplasty,",12.18.03,"Coarctation repair, Subclavian flap",1230,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of native aortic coarctation-hypoplasia,",12.18.04,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of aortic recoarctation,",12.18.08,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,CoA,09.29.01,09.29.01
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair, Aortic coarctation-hypoplasia repair by resection & extended end to end anastomosis,",12.18.10,"Coarctation repair, End to end, Extended",1220,1,CoA,09.29.01,09.29.01
+Approvedjudithwhatson20230214,"Aortic arch repair, Coarctation-hypoplasia of aorta repair, Aortic coarctation-hypoplasia repair by resection & insertion of tube graft,",12.18.15,"Coarctation repair, Interposition graft",1250,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Stent placement at site of aortic coarctation,",12.18.17,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Stent placement at site of aortic recoarctation,",12.18.22,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Aortic coarctation transluminal obstruction relief,",12.18.27,"Coarctation repair, Other",1260,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Aortic arch repair,",12.18.30,Aortic arch repair,1280,1,CoA,09.29.01,09.29.01
+David Celermajer and David Baker 05DEC2022,"Stent placement at site of native aortic coarctation-hypoplasia,",12.18.48,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,CoA,09.29.01,09.29.01
+David Celermajer 18JUL2023,"Thoracic aorta aneurysm transcatheter stent implantation,",12.18.70,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,0,,,
+David Celermajer and David Baker 05DEC2022,"Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery): stage 1,",12.20.20,"Cardiac procedure, Other",2010,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Hypoplastic left heart syndrome hybrid strategy (transcatheter & surgery),",12.20.21,"Cardiac procedure, Other",2010,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery) 'stage 2':  aortopulmonary amalgamation + superior cavopulmonary anastomosis(es) + debanding of pulmonary arteries,",12.20.22,"Cardiac procedure, Other",2010,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery) 'stage 2':  aortopulmonary amalgamation + superior cavopulmonary anastomosis(es) + debanding of pulmonary arteries + arch repair,",12.20.23,"Hybrid approach ""Stage 2"", Aortopulmonary amalgamation + Superior Cavopulmonary anastomosis(es) + PA",2140,1,HLHS,01.01.09,01.01.09
+David Celermajer and David Baker 05DEC2022,"Aortic arch repair, Interrupted aortic arch repair,",12.21.00,Interrupted aortic arch repair,1320,1,Interrupted Aortic Arch,09.29.31,09.29.31
+David Celermajer 18JUL2023,"Systemic arterial procedure,",12.22.00,,3655,0,,,
+David Celermajer and David Baker 05DEC2022,"Anomalous coronary artery (eg ALCAPA) repair,",12.23.00,Anomalous origin of coronary artery from pulmonary artery repair,1291,1,Anomalous Coronary Artery,09.46.00,09.46.00
+David Celermajer 18JUL2023,"Coronary fistula procedure,",12.23.07,Coronary artery fistula ligation,1290,0,,,
+David Celermajer 18JUL2023,"Coronary arterial bypass graft (CABG) procedure,",12.23.08,Coronary artery bypass,1300,0,,,
+David Celermajer 18JUL2023,"Coronary arterial procedure,",12.23.09,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer and David Baker 05DEC2022,"Coronary fistula procedure, Ligation of coronary fistula,",12.23.11,Coronary artery fistula ligation,1290,1,,,
+David Celermajer and David Baker 05DEC2022,"Coronary arterial fistula transluminal occlusion,",12.23.13,"Coronary artery procedure, Other",1310,1,,,
+David Celermajer 18JUL2023,"Transluminal intracoronary injection of thrombolytic agent,",12.23.30,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer 18JUL2023,"Transluminal balloon coronary angioplasty (PTCA),",12.23.31,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer 18JUL2023,"Transluminal coronary stent implantation,",12.23.38,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer 18JUL2023,"Transluminal chemical occlusion of coronary artery,",12.23.42,"Coronary artery procedure, Other",1310,0,,,
+David Celermajer and David Baker 05DEC2022,"Anomalous aortic origin of coronary artery repair,",12.23.80,Anomalous aortic origin of coronary artery from aorta (AAOCA) repair,1305,1,Anomalous Coronary Artery,09.42.20,09.42.20
+David Celermajer and David Baker 05DEC2022,"Arterial duct-ligament procedure,",12.24.00,"Cardiac procedure, Other",2010,1,PDA,09.27.21,09.27.21
+David Celermajer and David Baker 05DEC2022,"Arterial duct (PDA) closure with transluminal device,",12.24.04,"PDA closure, Device",1340,1,PDA,09.27.21r,09.27.21
+David Celermajer and David Baker 05DEC2022,"Arterial duct-ligament procedure, Arterial duct (PDA) closure,",12.24.10,,Manual review required,1,PDA,09.27.21r,09.27.21
+David Celermajer and David Baker 05DEC2022,"Arterial duct-ligament procedure, Arterial duct (PDA) closure, Patent arterial duct (PDA) closure: surgical,",12.24.20,"PDA closure, Surgical",1330,1,PDA,09.27.21r,09.27.21
+David Celermajer and David Baker 05DEC2022,"Arterial duct (PDA) closure with transluminal device, Arterial duct (PDA) closure with transluminal coil,",12.24.21,"PDA closure, Device",1340,1,PDA,09.27.21r,09.27.21
+David Celermajer and David Baker 05DEC2022,"Arterial duct (PDA) closure with transluminal device, Arterial duct (PDA) closure with transluminal Amplatzer plug,",12.24.22,"PDA closure, Device",1340,1,PDA,09.27.21r,09.27.21
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) unifocalisation procedure,",12.25.00,Unifocalization MAPCA(s),440,1,MAPCA,09.08.01,09.08.01
+David Celermajer 18JUL2023,"Pulmonary arteriovenous fistula closure,",12.25.07,Pulmonary AV fistula repair/occlusion,1780,0,,,
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) occlusion,",12.25.18,Occlusion of MAPCA(s),450,1,MAPCA,09.08.01,09.08.01
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)),",12.25.19,"Cardiovascular catheterization procedure, Diagnostic",2500,1,MAPCA,09.08.01,09.08.01
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)), Stent placement in systemic-to-pulmonary collateral artery (MAPCA(s)),",12.25.62,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,MAPCA Stenosis,09.20.25,09.20.25
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)), Transluminal occlusion of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) with coil-device,",12.25.65,"Cardiovascular catheterization procedure, Therapeutic, Coil implantation",1580,1,MAPCA,09.08.01,09.08.01
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)), Balloon dilation of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),",12.25.72,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,MAPCA Stenosis,09.20.25,09.20.25
+David Celermajer and David Baker 05DEC2022,"Tetralogy of Fallot repair,",12.26.01,Tetralogy of Fallot repair,420,1,ToF,01.01.01r,01.01.01
+David Celermajer and David Baker 05DEC2022,"Tetralogy of Fallot repair, Tetralogy of Fallot repair with transannular patch,",12.26.13,"TOF repair, Ventriculotomy, Transanular patch",370,1,ToF,01.01.01r,01.01.01
+David Celermajer and David Baker 05DEC2022,"Tetralogy of Fallot repair, Tetralogy of Fallot repair without transannular patch,",12.26.20,"TOF repair, Ventriculotomy, Nontransanular patch",360,1,ToF,01.01.01r,01.01.01
+David Celermajer and David Baker 05DEC2022,"Absent pulmonary valve syndrome (Fallot type) repair,",12.26.21,TOF - Absent pulmonary valve repair,400,1,ToF,01.01.01r,01.01.01
+David Celermajer and David Baker 05DEC2022,"Double outlet right ventricle with subaortic or doubly committed ventricular septal defect (VSD) & pulmonary stenosis (Fallot-type) repair,",12.27.01,"DORV, Intraventricular tunnel repair",1180,1,DORV + VSD + Pulmonary Stenosis,01.01.17,01.01.17
+David Celermajer and David Baker 05DEC2022,"Double outlet right ventricle repair, Double outlet right ventricle repair with intraventricular tunnel,",12.27.02,"DORV, Intraventricular tunnel repair",1180,1,DORV,01.01.04,01.01.04
+David Celermajer and David Baker 05DEC2022,"REV procedure: intraventricular left ventricle to aorta tunnel with infundibular septum resection & direct right ventricle to pulmonary trunk anastomosis,",12.27.45,REV,1160,1,DORV + VSD + Pulmonary Stenosis,01.01.17,01.01.17
+David Celermajer and David Baker 05DEC2022,"Congenitally corrected transposition of great arteries repair,",12.27.46,,Manual review required (one of next 2),1,ccTGA,01.01.03,01.01.03
+David Celermajer and David Baker 05DEC2022,"Double outlet left ventricle repair,",12.27.50,DOLV repair,1200,1,DOLV,01.05.03,01.05.03
+David Celermajer and David Baker 05DEC2022,"Aortic root translocation to over left ventricle (including Nikaidoh),",12.27.78,Aortic root translocation over left ventricle (Including Nikaidoh procedure),2190,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Pulmonary atresia & ventricular septal defect (VSD) (including Fallot-type) repair,",12.28.01,"Pulmonary atresia - VSD (including TOF, PA) repair",420,1,Pulmonary Atresia + VSD,"07.10.00r, 09.05.11","07.10.00, 09.05.11"
+David Celermajer and David Baker 05DEC2022,"Pulmonary atresia, ventricular septal defect (VSD) & systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) repair,",12.28.11,"Pulmonary atresia - VSD - MAPCA repair, Complete single stage repair (1-stage that includes bilatera",2700,1,Pulmonary Atresia + VSD + MAPCA,"07.10.00r, 09.05.11, 09.08.01","07.10.00, 09.05.11, 09.08.01"
+David Celermajer and David Baker 05DEC2022,"Senning procedure (atrial inversion),",12.29.01,Senning,1130,1,d-TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Mustard procedure (atrial inversion),",12.29.02,Mustard,1140,1,d-TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Rastelli procedure: intraventricular left ventricle to aorta tunnel & right ventricle to pulmonary artery conduit,",12.29.11,Rastelli,1150,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Double outlet right ventricle repair,",12.29.20,,Manual review required,1,DORV,01.01.04,01.01.04
+David Celermajer and David Baker 05DEC2022,"Arterial switch procedure,",12.29.21,Arterial switch operation (ASO),1110,1,d-TGA,01.05.01r,01.05.01
+David Celermajer and David Baker 05DEC2022,"Arterial switch & atrial inversion procedures ('double switch'),",12.29.25,"Congenitally corrected TGA repair, Atrial switch and ASO (double switch)",1050,1,ccTGA,01.01.03,01.01.03
+David Celermajer and David Baker 05DEC2022,"Atrial inversion and Rastelli procedures,",12.29.26,"Congenitally corrected TGA repair, Atrial switch and Rastelli",1060,1,ccTGA,01.01.03,01.01.03
+David Celermajer and David Baker 05DEC2022,"Complex transposition of great arteries repair,",12.29.40,"TGA, Other procedures (Kawashima, LV-PA conduit, other)",2210,1,TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Pulmonary venous pathway procedure (post Senning-Mustard),",12.29.52,Anomalous systemic venous connection repair,330,1,d-TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Atrial inversion procedure (Mustard or Senning) revision,",12.29.79,"Atrial baffle procedure, Mustard or Senning revision",1145,1,d-TGA,01.05.01,01.05.01
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure,",12.30.01,,Manual review from STS to EPCC,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Total cavopulmonary connection (TCPC) using extracardiac inferior caval vein (IVC)-pulmonary artery conduit with fenestration,",12.30.05,"Fontan, TCPC, External conduit, Fenestrated",1000,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Total cavopulmonary connection (TCPC) with fenestrated lateral atrial tunnel,",12.30.06,"Fontan, TCPC, Lateral tunnel, Fenestrated",970,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Fontan procedure with atrioventricular connection,",12.30.13,"Fontan, Atrio-ventricular connection",960,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Interatrial communication creation-enlargement, Fenestration of atrial septum,",12.30.20,Atrial septal fenestration,80,1,,,
+David Celermajer and David Baker 05DEC2022,"Right atrial septum-tunnel fenestration closure with transluminal device,",12.30.21,Atrial septal fenestration,80,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Fenestration of Fontan type connection,",12.30.27,Atrial septal fenestration,80,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Fontan-type connection without fenestration,",12.30.28,"Fontan, TCPC, Intra/extracardiac conduit, Nonfenestrated",2790,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Takedown of Fontan type procedure,",12.30.31,"Cardiac procedure, Other",2010,1,,,
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Fontan procedure with direct atriopulmonary anastomosis,",12.30.32,"Fontan, Atrio-pulmonary connection",950,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Conversion of Fontan repair to total cavopulmonary connection,",12.30.34,Fontan revision or conversion (Re-do Fontan),1025,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Fontan type procedure revision or conversion,",12.30.37,Fontan revision or conversion (Re-do Fontan),1025,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Atrial fenestration closure,",12.30.41,Atrial fenestration closure,85,1,Univentricular heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Total cavopulmonary connection (TCPC),",12.30.50,,Manual review from STS to EPCC,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Total cavopulmonary conn (TCPC) with lateral atrial tunnel,",12.30.51,"Fontan, Atrio-pulmonary connection",950,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Fontan type procedure, Total cavopulmonary connection (TCPC) using extracardiac inferior caval vein (IVC)-pulmonary artery conduit,",12.30.54,"Fontan, TCPC, External conduit, Nonfenestrated",1010,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Takedown of Fontan type procedure, Takedown of total cavopulmonary connection (TCPC),",12.30.56,"Cardiac procedure, Other",2010,1,,,
+David Celermajer and David Baker 05DEC2022,"Completion of total cavopulmonary connection (TCPC) using transcatheter inferior to superior caval vein covered stent,",12.30.60,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter Fontan completion",2650,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Transluminal interatrial communication creation,",12.30.74,"Cardiovascular catheterization procedure, Therapeutic, Perforation (establishing interchamber and/or",2640,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary arterial shunt procedure, Modified Blalock interposition shunt, Modified right Blalock interposition shunt,",12.31.03,"Shunt, Systemic to pulmonary, Modified Blalock-Taussig Shunt (MBTS)",1590,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary arterial shunt procedure, Modified Blalock interposition shunt, Modified left Blalock interposition shunt,",12.31.04,"Shunt, Systemic to pulmonary, Modified Blalock-Taussig Shunt (MBTS)",1590,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary arterial shunt procedure, Waterston (ascending aorta-right pulmonary artery) anastomosis,",12.31.05,"Shunt, Systemic to pulmonary, Other",1610,1,,,
+Approvedjudithwhatson20230214,"Systemic-to-pulmonary arterial shunt procedure, Central systemic-to-pulmonary arterial interposition shunt,",12.31.06,"Shunt, Systemic to pulmonary, Central (shunt from aorta)",1600,1,,,
+David Celermajer and David Baker 05DEC2022,"Bidirectional superior cavopulmonary (Glenn) anastomosis,",12.31.11,Bidirectional cavopulmonary anastomosis (BDCPA) (bidirectional Glenn),1670,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Hemi-Fontan procedure,",12.31.15,HemiFontan,1700,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of systemic-to-pulmonary arterial shunt,",12.31.19,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,,,
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary arterial shunt procedure,",12.31.30,,Manual review,1,,,
+David Celermajer and David Baker 05DEC2022,"Closure of systemic-to-pulmonary arterial shunt,",12.31.31,"Shunt, Systemic to pulmonary, Other",1610,1,,,
+David Celermajer and David Baker 05DEC2022,"Occlusion of systemic-to-pulmonary arterial shunt by transluminal device-embolus,",12.31.34,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,1,,,
+David Celermajer and David Baker 05DEC2022,"Takedown of Glenn,",12.31.42,Takedown of superior cavopulmonary anastomosis,3300,1,,,
+David Celermajer and David Baker 05DEC2022,"Bilateral bidirectional superior cavopulmonary (Glenn) anastomoses,",12.31.44,Bilateral bidirectional cavopulmonary anastomosis (BBDCPA) (bilateral bidirectional Glenn),1690,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Unidirectional superior cavopulmonary (Glenn) anastomosis,",12.31.45,Glenn (unidirectional cavopulmonary anastomosis) (unidirectional Glenn),1680,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Systemic-to-pulmonary arterial shunt procedure, Modified Blalock interposition shunt,",12.31.46,"Shunt, Systemic to pulmonary, Modified Blalock-Taussig Shunt (MBTS)",1590,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Superior caval vein to pulmonary artery anastomosis,",12.31.72,,Manual review required from EPCC to STS,1,,,
+David Celermajer and David Baker 05DEC2022,"Postoperative procedure,",12.32.00,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Lung biopsy procedure,",12.32.06,Lung biopsy,1400,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardiectomy,",12.32.09,Pericardiectomy,930,0,,,
+David Celermajer and David Baker 05DEC2022,"Heart tumour resection,",12.32.10,Cardiac tumor resection,1760,0,,,
+David Celermajer and David Baker 05DEC2022,"Transplantation of heart and lungs,",12.32.13,"Transplant, Heart and lung",900,0,,,
+David Celermajer and David Baker 05DEC2022,"DC cardioversion,",12.32.14,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Pleural procedure, Parietal pleurectomy,",12.32.17,"Pleural procedure, Other",1820,0,,,
+David Celermajer and David Baker 05DEC2022,"Postoperative procedure, Postoperative procedure to control bleeding,",12.32.18,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Removal of cardiac vegetations,",12.32.20,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac procedure,",12.32.21,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Removal of cardiac thrombus,",12.32.22,Cardiac tumor resection,1760,0,,,
+David Celermajer and David Baker 05DEC2022,"Postoperative procedure, Thoracic duct occlusion,",12.32.28,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Diaphragm procedure,",12.32.29,"Diaphragm procedure, Other",1890,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardiocentesis,",12.32.40,Pericardial drainage procedure,920,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardiocentesis, Pericardial drainage: open (pericardiotomy),",12.32.41,Pericardial drainage procedure,920,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardiocentesis: percutaneous transcatheter,",12.32.43,Pericardial drainage procedure,920,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardiocentesis, Pericardial window creation,",12.32.46,Pericardial drainage procedure,920,0,,,
+David Celermajer and David Baker 05DEC2022,"Pericardial biopsy,",12.32.53,"Pericardial procedure, Other",940,0,,,
+David Celermajer and David Baker 05DEC2022,"Procedure involving pericardium,",12.32.59,"Pericardial procedure, Other",940,0,,,
+David Celermajer and David Baker 05DEC2022,"Postoperative procedure, Plication of hemidiaphragm,",12.32.70,Diaphragm plication,1880,0,,,
+David Celermajer and David Baker 05DEC2022,"Pleural procedure, Insertion of pleural tube drain,",12.32.80,Pleural drainage procedure,1810,0,,,
+David Celermajer and David Baker 05DEC2022,"Mediastinal procedure, Insertion of mediastinal tube drain,",12.32.83,Mediastinal procedure,1860,0,,,
+David Celermajer and David Baker 05DEC2022,"Traumatic injury of heart repair,",12.33.10,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Peripheral vascular procedure,",12.33.51,"Peripheral vascular procedure, Other",2030,0,,,
+David Celermajer and David Baker 05DEC2022,"Non-cardiothoracic-vascular procedure,",12.33.52,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Non-cardiothoracic-vascular procedure on cardiac patient under cardiac anaesthesia,",12.33.53,"Non-cardiovascular, Non-thoracic procedure on cardiac patient with cardiac anesthesia",2435,0,,,
+David Celermajer and David Baker 05DEC2022,"Operation related to transcatheter procedure,",12.33.60,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: single chamber,",12.34.50,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: dual chamber,",12.34.51,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: biventricular,",12.34.52,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: temporary,",12.34.60,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: permanent epicardial,",12.34.63,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: permanent endocardial,",12.34.64,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent,",12.34.67,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker procedure,",12.34.68,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker wire procedure,",12.34.70,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac resynchronisation therapy (biventricular pacing),",12.34.73,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker wire procedure, Pacemaker wire revision procedure,",12.34.84,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Pulse generator box placement,",12.34.85,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Pulse generator box placement, Pulse generator box replacement,",12.35.13,Pacemaker procedure,1460,0,,,
+David Celermajer and David Baker 05DEC2022,"Removal of complete implanted cardiac pacemaker system,",12.35.14,Explantation of pacing system,2350,0,,,
+David Celermajer and David Baker 05DEC2022,"Arrhythmia surgical procedure,",12.35.40,,Manual review,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia, Transluminal cryoablation procedure for arrhythmia,",12.35.46,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia, Transluminal radiofrequency ablation procedure for arrhythmia,",12.35.48,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Maze operation,",12.35.53,"Arrhythmia surgery - atrial, Surgical Ablation",1490,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure for arrhythmia,",12.35.57,"Cardiovascular catheterization procedure, Diagnostic, Electrophysiology alteration",2550,0,,,
+David Celermajer and David Baker 05DEC2022,"Cox-Maze IV procedure,",12.35.72,"Arrhythmia surgery - atrial, Surgical Ablation",1490,0,,,
+David Celermajer and David Baker 05DEC2022,"Arrhythmia surgical procedure, Surgical ablation procedure for atrial arrhythmia,",12.35.80,"Arrhythmia surgery - atrial, Surgical Ablation",1490,0,,,
+David Celermajer and David Baker 05DEC2022,"Arrhythmia surgical procedure, Surgical ablation procedure for ventricular arrhythmia,",12.35.81,"Arrhythmia surgery - ventricular, Surgical Ablation",1500,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia, Transluminal procedure for atrial arrhythmia,",12.35.82,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia, Transluminal procedure for ventricular arrhythmia,",12.35.83,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia, Transluminal ablation procedure with pulmonary vein exclusion,",12.35.84,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Conduit construction procedure,",12.36.00,"Conduit placement, Other",1772,0,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Conduit construction procedure, Right ventricle to pulmonary arterial tree conduit construction,",12.36.01,RVOT procedure,510,0,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Conduit construction procedure, Left ventricle to pulmonary artery conduit construction,",12.36.02,"Conduit placement, LV to PA",620,0,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Procedure involving constructed cardiac conduit-shunt, Replacement of cardiac conduit,",12.36.10,Conduit reoperation,580,0,Complex CHD,01.01.99,EXCLUDE
+David Celermajer 18JUL2023,"Balloon dilation of cardiac conduit,",12.36.14,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer 18JUL2023,"Stent placement in cardiac conduit,",12.36.23,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,1,Complex CHD,01.01.99,EXCLUDE
+David Celermajer 18JUL2023,"Conduit construction procedure, Ventricle to aorta conduit construction,",12.36.35,"Aortic stenosis, Subvalvar, Repair",780,1,,,
+David Celermajer 18JUL2023,"Procedure involving constructed cardiac conduit-shunt,",12.36.40,"Conduit placement, Other",1772,1,,,
+David Celermajer 18JUL2023,"Procedure involving constructed cardiac conduit-shunt, Clip applied to cardiac conduit or systemic-to-pulmonary arterial shunt,",12.36.45,"Conduit placement, Other",1772,1,,,
+David Celermajer and David Baker 05DEC2022,"Heart transplant,",12.37.01,"Transplant, Heart",890,0,,,
+David Celermajer and David Baker 05DEC2022,"Heart transplant, Transplantation of heart: orthotopic allotransplant,",12.37.02,"Transplant, Heart",890,0,,,
+David Celermajer and David Baker 05DEC2022,"Heart transplant, Transplantation of heart: heterotopic (piggy back) allotransplant,",12.37.03,"Transplant, Heart",890,0,,,
+David Celermajer and David Baker 05DEC2022,"Prosthetic heart (total artificial heart) implantation,",12.37.04,Right/left heart assist device procedure,1920,0,,,
+David Celermajer and David Baker 05DEC2022,"Heart transplant, Transplantation of heart: ABO incompatible donor,",12.37.06,"Transplant, Heart",890,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung(s) transplant, Single lung transplant,",12.37.13,"Transplant, lung(s)",1410,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung(s) transplant, Double lung transplant,",12.37.20,"Transplant, lung(s)",1410,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung(s) transplant,",12.37.60,"Transplant, lung(s)",1410,0,,,
+David Celermajer and David Baker 05DEC2022,"Organ procurement for transplantation,",12.37.70,Organ procurement,2050,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal left atrial appendage occlusion with device,",12.38.25,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal ablation procedure for arrhythmia,",12.38.40,"Cardiovascular catheterization procedure, Therapeutic, Electrophysiological ablation.",2690,0,,,
+David Celermajer and David Baker 05DEC2022,"Arrhythmia surgical procedure, Surgical localisation and mapping procedure for arrhythmia,",12.38.50,,Manual review,0,,,
+David Celermajer and David Baker 05DEC2022,"Thoracotomy,",12.40.00,"Thoracotomy, Other",1990,0,,,
+David Celermajer and David Baker 05DEC2022,"Minimally invasive procedure,",12.40.13,Minimally invasive procedure,1940,0,,,
+David Celermajer and David Baker 05DEC2022,"Robotic surgical approach,",12.40.15,Minimally invasive procedure,1940,0,,,
+David Celermajer and David Baker 05DEC2022,"Thoracotomy: redo,",12.40.16,"Thoracotomy, Other",1990,0,,,
+David Celermajer and David Baker 05DEC2022,"Median sternotomy: redo x 1-3,",12.40.29,"Thoracic and/or mediastinal procedure, Other",2020,0,,,
+David Celermajer and David Baker 05DEC2022,"Median sternotomy: redo x 4 or more,",12.40.30,"Thoracic and/or mediastinal procedure, Other",2020,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac incision,",12.40.99,"Cardiotomy, Other",2000,0,,,
+David Celermajer and David Baker 05DEC2022,"Hybrid strategy (combined surgical & transluminal),",12.41.30,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) implantation,",12.42.31,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Automatic cardioverter & defibrillator (ICD) transluminal implantation,",12.42.33,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) system removal,",12.42.34,Explantation of pacing system,2350,0,,,
+David Celermajer and David Baker 05DEC2022,"Automatic cardioverter & defibrillator (ICD) transluminal removal,",12.42.35,ICD (AICD) ([automatic] implantable cardioverter defibrillator) procedure,1480,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) procedure,",12.42.39,ICD (AICD) ([automatic] implantable cardioverter defibrillator) procedure,1480,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) implantation, Implantable cardioverter & defibrillator (ICD) implantation: single chamber,",12.42.61,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) implantation, Implantable cardioverter & defibrillator (ICD) implantation: dual chamber,",12.42.64,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) implantation, Implantable cardioverter & defibrillator (ICD) implantation: biventricular,",12.42.65,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Implantable cardioverter & defibrillator (ICD) implantation, Subcutaneous implantable cardioverter & defibrillator (ICD) implantation,",12.42.79,ICD (AICD) implantation,1470,0,,,
+David Celermajer and David Baker 05DEC2022,"Reoperation,",12.43.00,,Manual review required,0,,,
+David Celermajer and David Baker 05DEC2022,"Unplanned reoperation during current admission,",12.43.06,,Manual review required,0,,,
+David Celermajer and David Baker 05DEC2022,"Unplanned reoperation or reintervention during current admission (excluding bleeding),",12.43.07,,Manual review required,0,,,
+David Celermajer and David Baker 05DEC2022,"Palliative procedure,",12.43.25,"Palliation, Other",1710,0,,,
+David Celermajer and David Baker 05DEC2022,"Pacemaker system placement: permanent, Pacemaker system placement: percutaneous leadless,",12.43.70,"Pacemaker implantation, Permanent",1450,0,,,
+David Celermajer and David Baker 05DEC2022,"Removal of implanted pacemaker lead,",12.44.75,Explantation of pacing system,2350,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiovascular catheter procedure,",12.45.00,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Catheterisation transeptal approach with transeptal puncture,",12.45.01,"Cardiovascular catheterization procedure, Therapeutic, Perforation (establishing interchamber and/or",2640,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal retrieval of device or foreign body,",12.45.04,"Cardiovascular catheterization procedure, Therapeutic, Intravascular foreign body removal",3120,0,,,
+David Celermajer and David Baker 05DEC2022,"Repeat cardiovascular catheter procedure for residual or recurrent lesion,",12.45.06,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal diagnostic test occlusion,",12.45.07,"Cardiovascular catheterization procedure, Diagnostic, Transluminal test occlusion",2530,0,,,
+David Celermajer and David Baker 05DEC2022,"Stent redilation,",12.45.10,"Cardiovascular catheterization procedure, Therapeutic, Stent re-dilation",2630,0,,,
+David Celermajer and David Baker 05DEC2022,"Stent placement,",12.45.11,"Cardiovascular catheterization procedure, Therapeutic, Stent insertion",1550,0,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation,",12.45.12,"Cardiovascular catheterization procedure, Therapeutic, Balloon dilation",1540,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal device implantation,",12.45.13,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiovascular catheterisation occlusion procedure with coil,",12.45.14,"Cardiovascular catheterization procedure, Therapeutic, Coil implantation",1580,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal implantation of valve,",12.45.15,"Cardiovascular catheterization procedure, Therapeutic, Transcatheter implantation of valve",2660,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal prosthetic valve leak closure using device,",12.45.19,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Balloon dilation of valve,",12.45.21,"Cardiovascular catheterization procedure, Therapeutic, Balloon valvotomy",2590,0,,,
+David Celermajer and David Baker 05DEC2022,"Therapeutic cardiovascular catheter procedure,",12.45.28,"Cardiovascular catheterization procedure, Therapeutic",2410,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure for catheterisation complication,",12.45.30,"Cardiovascular catheterization procedure, Therapeutic",2410,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal therapeutic perforation to establish interchamber and/or intervessel communication,",12.45.58,"Cardiovascular catheterization procedure, Therapeutic, Perforation (establishing interchamber and/or",2640,0,,,
+David Celermajer and David Baker 05DEC2022,"Transluminal procedure using adjunctive therapy,",12.45.59,"Cardiovascular catheterization procedure, Therapeutic, Adjunctive therapy",2670,0,,,
+David Celermajer and David Baker 05DEC2022,"Fetal transluminal catheter procedure,",12.45.70,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Fetal balloon pulmonary valvotomy,",12.45.71,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Fetal balloon aortic valvotomy,",12.45.73,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Fetal balloon atrial septostomy,",12.45.76,Other procedure,7777,0,Complex CHD,01.01.99,EXCLUDE
+David Celermajer and David Baker 05DEC2022,"Fetal procedure,",12.45.90,Other procedure,7777,0,,,
+David Celermajer 18JUL2023,"Atrioventricular valvar procedure in double inlet ventricle,",12.46.00,"Cardiac procedure, Other",2010,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer 18JUL2023,"Common atrioventricular valvar leaflet (valvoplasty) procedure,",12.48.01,"Valvuloplasty, Common atrioventricular valve",2300,1,AVSD,06.06.00,06.06.00
+David Celermajer 18JUL2023,"Common atrioventricular valve replacement, Atrioventricular septal defect (AVSD): suturing together superior + inferior bridging leaflets to left ventricular side of septum ('cleft'),",12.48.02,"Valve replacement, Common atrioventricular valve",2230,1,AVSD,06.06.00,06.06.00
+David Celermajer and David Baker 05DEC2022,"Bronchoscopy,",12.64.00,Bronchoscopy,1870,0,,,
+David Celermajer and David Baker 05DEC2022,"Bronchoscopy, Bronchoscopic removal of foreign body,",12.64.08,Bronchoscopy,1870,0,,,
+David Celermajer and David Baker 05DEC2022,"Tracheal procedure,",12.64.20,Tracheal procedure,1440,0,,,
+David Celermajer and David Baker 05DEC2022,"Tracheal procedure, Tracheostomy creation,",12.64.21,Tracheal procedure,1440,0,,,
+David Celermajer and David Baker 05DEC2022,"Tracheal procedure, Tracheobronchial reconstruction procedure,",12.64.40,Tracheal procedure,1440,0,,,
+David Celermajer and David Baker 05DEC2022,"Mediastinal procedure, Mediastinal exploration,",12.65.05,Mediastinal exploration,1970,0,,,
+David Celermajer and David Baker 05DEC2022,"Mediastinal procedure,",12.65.06,Mediastinal procedure,1860,0,,,
+David Celermajer and David Baker 05DEC2022,"Anterior chest wall (pectus) repair, Pectus carinatum repair,",12.65.13,"Pectus repair, Open repair",3030,0,,,
+David Celermajer and David Baker 05DEC2022,"Anterior chest wall (pectus) repair, Pectus excavatum repair,",12.65.14,"Pectus repair, Open repair",3030,0,,,
+David Celermajer and David Baker 05DEC2022,"Anterior chest wall (pectus) repair,",12.65.23,"Pectus repair, Open repair",3030,0,,,
+David Celermajer and David Baker 05DEC2022,"Debridement of chest wall incision,",12.65.45,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Sternal wire removal from previous sternotomy,",12.65.48,"Removal, Sternal wire",2820,0,,,
+David Celermajer and David Baker 05DEC2022,"Sternotomy wound drainage,",12.65.56,Sternotomy wound drainage,1980,0,,,
+David Celermajer and David Baker 05DEC2022,"Postoperative procedure, Delayed closure of sternum,",12.65.60,Delayed sternal closure,1960,0,,,
+David Celermajer and David Baker 05DEC2022,"Pleural procedure, Open excision of pleural lesion,",12.65.72,"Pleural procedure, Other",1820,0,,,
+David Celermajer and David Baker 05DEC2022,"Pleural procedure, Pleurodesis,",12.65.82,"Pleural procedure, Other",1820,0,,,
+David Celermajer and David Baker 05DEC2022,"Pleural procedure,",12.65.89,"Pleural procedure, Other",1820,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure,",12.66.00,"Lung procedure, Other",1420,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Lung decortication,",12.66.01,"Lung procedure, Other",1420,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Lung mass excision,",12.66.02,"Lung procedure, Other",1420,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Lung lobectomy,",12.66.05,"Transplant, lung(s)",1410,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Pneumonectomy,",12.66.06,"Transplant, lung(s)",1410,0,,,
+David Celermajer and David Baker 05DEC2022,"Lung procedure, Lung sequestration repair,",12.66.07,"Lung procedure, Other",1420,0,,,
+David Celermajer and David Baker 05DEC2022,"Venovenous collateral occlusion with device,",12.70.08,"Cardiovascular catheterization procedure, Therapeutic, Device implantation",1560,0,,,
+David Celermajer and David Baker 05DEC2022,"Thoracic-mediastinal procedure,",12.80.00,"Thoracic and/or mediastinal procedure, Other",2020,0,,,
+David Celermajer and David Baker 05DEC2022,"Oesophageal procedure,",12.80.01,Esophageal procedure,1850,0,,,
+David Celermajer and David Baker 05DEC2022,"Intestinal procedure,",12.80.10,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Percutaneous feeding gastrostomy tube placement (PEG),",12.80.37,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Laparotomy,",12.80.38,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Endoscopic cervical sympathectomy: right sided,",12.80.74,"Thoracic and/or mediastinal procedure, Other",2020,0,,,
+David Celermajer and David Baker 05DEC2022,"Endoscopic cervical sympathectomy: left sided,",12.80.75,"Thoracic and/or mediastinal procedure, Other",2020,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure,",12.87.01,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Intra-aortic balloon pump (IABP) insertion, Intra-aortic balloon pump (IABP) removal: transluminal,",12.87.02,Intraaortic balloon pump (IABP) insertion,1900,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Intra-aortic balloon pump (IABP) insertion, Intra-aortic balloon pump (IABP) insertion: open,",12.87.04,Intraaortic balloon pump (IABP) insertion,1900,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Intra-aortic balloon pump (IABP) insertion,",12.87.10,Intraaortic balloon pump (IABP) insertion,1900,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Ventricular assist device implantation,",12.87.21,VAD implantation,2380,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Ventricular assist device implantation, Right ventricular assist device implantation,",12.87.22,VAD implantation,2380,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Ventricular assist device implantation, Left ventricular assist device implantation,",12.87.23,VAD implantation,2380,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Ventricular assist device implantation, Biventricular assist device implantation,",12.87.24,VAD implantation,2380,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Cardiac support using Extracorporeal Membrane Oxygenation (ECMO) circuitry,",12.87.25,ECMO procedure,1910,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Mechanical life support procedure as bridge to transplant,",12.87.26,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Mechanical life support procedure as bridge to recovery,",12.87.27,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Procedure involving Extracorporeal Membrane Oxygenation (ECMO) circuitry,",12.87.28,ECMO procedure,1910,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiomyoplasty procedure,",12.87.31,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Mechanical life support procedure for primary respiratory failure,",12.87.36,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Mechanical life support procedure following cardiac procedure,",12.87.37,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Ventricular assist device implantation, Ventricular assist device removal,",12.87.41,VAD change out,3170,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Take down (decannulation) of Extracorporeal Membrane Oxygenation (ECMO) circuitry,",12.87.45,ECMO decannulation,2370,0,,,
+David Celermajer and David Baker 05DEC2022,"Cardiac support procedure, Mechanical life support procedure as destination therapy,",12.87.53,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Atrioventricular valvar repair,",12.90.01,"Cardiac procedure, Other",2010,0,,,
+David Celermajer and David Baker 05DEC2022,"Transcatheter intervention with intracardiac echo guidance (ICE),",13.01.23,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer and David Baker 05DEC2022,"Diagnostic cardiovascular catheterisation procedure,",13.05.01,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer and David Baker 05DEC2022,"Diagnostic cardiovascular catheterisation procedure: angiographic data obtained,",13.05.05,"Cardiovascular catheterization procedure, Diagnostic, Angiographic data obtained",2520,0,,,
+David Celermajer and David Baker 05DEC2022,"Diagnostic cardiovascular catheterisation procedure: haemodynamic data obtained,",13.05.06,"Cardiovascular catheterization procedure, Diagnostic, Hemodynamic data obtained",2510,0,,,
+David Celermajer and David Baker 05DEC2022,"Diagnostic cardiovascular catheterisation procedure with haemodynamic alteration (challenge),",13.05.07,"Cardiovascular catheterization procedure, Diagnostic, Hemodynamic alteration",2540,0,,,
+David Celermajer and David Baker 05DEC2022,"Diagnostic cardiovascular catheterisation procedure with electrophysiological alteration (challenge),",13.05.08,"Cardiovascular catheterization procedure, Diagnostic, Electrophysiology alteration",2550,0,,,
+David Celermajer and David Baker 05DEC2022,"Electrophysiological study (EPS),",13.05.12,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"Catheterisation study for pulmonary hypertension evaluation,",13.05.13,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer 18JUL2023,"Atrial fenestration closure, Fontan fenestration closure, Transcatheter, With coil",13.05.14,Atrial fenestration closure,85,1,Univentricular Heart,01.01.22,01.01.22
+David Celermajer and David Baker 05DEC2022,"Transcatheter procedure undertaken with magnetic resonance imaging guidance,",13.05.15,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer and David Baker 05DEC2022,"Transcatheter procedure undertaken with x-ray & magnetic resonance imaging guidance,",13.05.16,"Cardiovascular catheterization procedure, Diagnostic",2500,0,,,
+David Celermajer and David Baker 05DEC2022,"Electrophysiological study (EPS) with three dimensional mapping,",13.05.17,Other procedure,7777,0,,,
+David Celermajer and David Baker 05DEC2022,"- transatrial approach,",Q5.08.11,"Cardiotomy, Other",2000,0,,,
+David Celermajer and David Baker 05DEC2022,"- trans-right ventricular approach,",Q5.08.13,"Cardiotomy, Other",2000,0,,,
